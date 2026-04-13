@@ -1,0 +1,8905 @@
+{
+  "a01": {
+    "name": "cannon_tortoise",
+    "weapon_slots": [
+      {
+        "type": 3,
+        "enabled": 1
+      },
+      {
+        "type": 3,
+        "enabled": 0
+      },
+      {
+        "type": 0,
+        "enabled": 1
+      },
+      {
+        "type": 3,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 1
+      },
+      {
+        "type": 0,
+        "enabled": 0
+      },
+      {
+        "type": 0,
+        "enabled": 1
+      },
+      {
+        "type": 0,
+        "enabled": 0
+      },
+      {
+        "type": 0,
+        "enabled": 0
+      },
+      {
+        "type": 0,
+        "enabled": 0
+      },
+      {
+        "type": 0,
+        "enabled": 0
+      },
+      {
+        "type": 0,
+        "enabled": 0
+      },
+      {
+        "type": 0,
+        "enabled": 0
+      },
+      {
+        "type": 0,
+        "enabled": 0
+      }
+    ],
+    "stats": {
+      "hp": 120,
+      "stat_38": 10,
+      "stat_40": 10,
+      "stat_41": 13,
+      "speed": 9,
+      "stat_43": 40,
+      "stat_44": 8,
+      "stat_45": 30,
+      "stat_46": 18,
+      "defense": 50,
+      "stat_48": 12,
+      "stat_49": 30,
+      "attack": 14,
+      "stat_51": 35,
+      "stat_52": 30,
+      "stat_53": 150,
+      "weight": 84,
+      "stat_55": 400
+    },
+    "physics": {
+      "float_58": 0.0189,
+      "float_59": 7.0,
+      "float_60": 24.9803
+    },
+    "loadouts": [
+      {
+        "damage": 3,
+        "field2": 0,
+        "range": 180,
+        "ammo": 15
+      },
+      {
+        "damage": 36,
+        "field2": 0,
+        "range": 150,
+        "ammo": 15
+      },
+      {
+        "damage": 36,
+        "field2": 0,
+        "range": 210,
+        "ammo": 15
+      },
+      {
+        "damage": 36,
+        "field2": 0,
+        "range": 180,
+        "ammo": 9
+      },
+      {
+        "damage": 36,
+        "field2": 0,
+        "range": 180,
+        "ammo": 21
+      },
+      {
+        "damage": 40,
+        "field2": 0,
+        "range": 145,
+        "ammo": 21
+      },
+      {
+        "damage": 40,
+        "field2": 0,
+        "range": 215,
+        "ammo": 21
+      },
+      {
+        "damage": 40,
+        "field2": 0,
+        "range": 180,
+        "ammo": 27
+      },
+      {
+        "damage": 50,
+        "field2": 0,
+        "range": 145,
+        "ammo": 27
+      },
+      {
+        "damage": 50,
+        "field2": 0,
+        "range": 215,
+        "ammo": 27
+      },
+      {
+        "damage": 50,
+        "field2": 0,
+        "range": 180,
+        "ammo": 15
+      },
+      {
+        "damage": 36,
+        "field2": 0,
+        "range": 150,
+        "ammo": 15
+      },
+      {
+        "damage": 36,
+        "field2": 0,
+        "range": 210,
+        "ammo": 15
+      },
+      {
+        "damage": 36,
+        "field2": 0,
+        "range": 180,
+        "ammo": 9
+      },
+      {
+        "damage": 35,
+        "field2": 0,
+        "range": 180,
+        "ammo": 21
+      },
+      {
+        "damage": 41,
+        "field2": 0,
+        "range": 145,
+        "ammo": 21
+      },
+      {
+        "damage": 41,
+        "field2": 0,
+        "range": 215,
+        "ammo": 21
+      },
+      {
+        "damage": 41,
+        "field2": 0,
+        "range": 180,
+        "ammo": 40
+      },
+      {
+        "damage": 32,
+        "field2": 0,
+        "range": 150,
+        "ammo": 40
+      },
+      {
+        "damage": 32,
+        "field2": 18,
+        "range": 210,
+        "ammo": 40
+      },
+      {
+        "damage": 32,
+        "field2": 0,
+        "range": 0,
+        "ammo": 0
+      },
+      {
+        "damage": 1,
+        "field2": 0,
+        "range": 0,
+        "ammo": 70
+      },
+      {
+        "damage": 90,
+        "field2": 120,
+        "range": 0,
+        "ammo": 0
+      },
+      {
+        "damage": 0,
+        "field2": 0,
+        "range": 488,
+        "ammo": 0
+      }
+    ]
+  },
+  "a02": {
+    "name": "gun_sniper",
+    "weapon_slots": [
+      {
+        "type": 3,
+        "enabled": 1
+      },
+      {
+        "type": 3,
+        "enabled": 0
+      },
+      {
+        "type": 2,
+        "enabled": 1
+      },
+      {
+        "type": 2,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 1
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 1
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 0,
+        "enabled": 0
+      },
+      {
+        "type": 0,
+        "enabled": 0
+      }
+    ],
+    "stats": {
+      "hp": 120,
+      "stat_38": 10,
+      "stat_40": 10,
+      "stat_41": 22,
+      "speed": 9,
+      "stat_43": 40,
+      "stat_44": 7,
+      "stat_45": 30,
+      "stat_46": 20,
+      "defense": 64,
+      "stat_48": 9,
+      "stat_49": 30,
+      "attack": 10,
+      "stat_51": 30,
+      "stat_52": 40,
+      "stat_53": 223,
+      "weight": 219,
+      "stat_55": 300
+    },
+    "physics": {
+      "float_58": 0.0,
+      "float_59": 7.0,
+      "float_60": 25.0
+    },
+    "loadouts": [
+      {
+        "damage": 4,
+        "field2": 18,
+        "range": 180,
+        "ammo": 16
+      },
+      {
+        "damage": 36,
+        "field2": 18,
+        "range": 150,
+        "ammo": 16
+      },
+      {
+        "damage": 36,
+        "field2": 18,
+        "range": 210,
+        "ammo": 16
+      },
+      {
+        "damage": 36,
+        "field2": 18,
+        "range": 180,
+        "ammo": 7
+      },
+      {
+        "damage": 36,
+        "field2": 18,
+        "range": 180,
+        "ammo": 21
+      },
+      {
+        "damage": 40,
+        "field2": 18,
+        "range": 145,
+        "ammo": 21
+      },
+      {
+        "damage": 40,
+        "field2": 18,
+        "range": 215,
+        "ammo": 21
+      },
+      {
+        "damage": 40,
+        "field2": 18,
+        "range": 180,
+        "ammo": 27
+      },
+      {
+        "damage": 48,
+        "field2": 18,
+        "range": 145,
+        "ammo": 27
+      },
+      {
+        "damage": 48,
+        "field2": 18,
+        "range": 215,
+        "ammo": 27
+      },
+      {
+        "damage": 48,
+        "field2": 18,
+        "range": 180,
+        "ammo": 16
+      },
+      {
+        "damage": 36,
+        "field2": 18,
+        "range": 150,
+        "ammo": 16
+      },
+      {
+        "damage": 36,
+        "field2": 18,
+        "range": 210,
+        "ammo": 16
+      },
+      {
+        "damage": 36,
+        "field2": 18,
+        "range": 180,
+        "ammo": 7
+      },
+      {
+        "damage": 36,
+        "field2": 18,
+        "range": 180,
+        "ammo": 22
+      },
+      {
+        "damage": 41,
+        "field2": 18,
+        "range": 145,
+        "ammo": 22
+      },
+      {
+        "damage": 41,
+        "field2": 18,
+        "range": 215,
+        "ammo": 22
+      },
+      {
+        "damage": 41,
+        "field2": 10,
+        "range": 180,
+        "ammo": 40
+      },
+      {
+        "damage": 31,
+        "field2": 10,
+        "range": 150,
+        "ammo": 40
+      },
+      {
+        "damage": 31,
+        "field2": 10,
+        "range": 210,
+        "ammo": 40
+      },
+      {
+        "damage": 31,
+        "field2": 0,
+        "range": 0,
+        "ammo": 0
+      },
+      {
+        "damage": 0,
+        "field2": 12,
+        "range": 0,
+        "ammo": 65
+      },
+      {
+        "damage": 90,
+        "field2": 120,
+        "range": 0,
+        "ammo": 0
+      },
+      {
+        "damage": 0,
+        "field2": 0,
+        "range": 482,
+        "ammo": 0
+      }
+    ]
+  },
+  "a04": {
+    "name": "command_wolf",
+    "weapon_slots": [
+      {
+        "type": 3,
+        "enabled": 1
+      },
+      {
+        "type": 3,
+        "enabled": 0
+      },
+      {
+        "type": 2,
+        "enabled": 1
+      },
+      {
+        "type": 2,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 1
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 1
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 0,
+        "enabled": 0
+      },
+      {
+        "type": 0,
+        "enabled": 0
+      }
+    ],
+    "stats": {
+      "hp": 136,
+      "stat_38": 8,
+      "stat_40": 6,
+      "stat_41": 17,
+      "speed": 9,
+      "stat_43": 40,
+      "stat_44": 6,
+      "stat_45": 40,
+      "stat_46": 20,
+      "defense": 68,
+      "stat_48": 8,
+      "stat_49": 20,
+      "attack": 45,
+      "stat_51": 45,
+      "stat_52": 50,
+      "stat_53": 150,
+      "weight": 150,
+      "stat_55": 0
+    },
+    "physics": {
+      "float_58": -3.4756,
+      "float_59": 9.4622,
+      "float_60": 32.0931
+    },
+    "loadouts": [
+      {
+        "damage": 2,
+        "field2": 0,
+        "range": 180,
+        "ammo": 18
+      },
+      {
+        "damage": 36,
+        "field2": 0,
+        "range": 150,
+        "ammo": 18
+      },
+      {
+        "damage": 36,
+        "field2": 0,
+        "range": 210,
+        "ammo": 18
+      },
+      {
+        "damage": 36,
+        "field2": 0,
+        "range": 180,
+        "ammo": 9
+      },
+      {
+        "damage": 36,
+        "field2": 0,
+        "range": 180,
+        "ammo": 21
+      },
+      {
+        "damage": 40,
+        "field2": 0,
+        "range": 145,
+        "ammo": 21
+      },
+      {
+        "damage": 40,
+        "field2": 0,
+        "range": 215,
+        "ammo": 21
+      },
+      {
+        "damage": 40,
+        "field2": 0,
+        "range": 180,
+        "ammo": 30
+      },
+      {
+        "damage": 50,
+        "field2": 0,
+        "range": 145,
+        "ammo": 30
+      },
+      {
+        "damage": 50,
+        "field2": 0,
+        "range": 215,
+        "ammo": 27
+      },
+      {
+        "damage": 50,
+        "field2": 0,
+        "range": 180,
+        "ammo": 18
+      },
+      {
+        "damage": 36,
+        "field2": 0,
+        "range": 150,
+        "ammo": 18
+      },
+      {
+        "damage": 36,
+        "field2": 0,
+        "range": 210,
+        "ammo": 18
+      },
+      {
+        "damage": 36,
+        "field2": 0,
+        "range": 180,
+        "ammo": 9
+      },
+      {
+        "damage": 34,
+        "field2": 0,
+        "range": 180,
+        "ammo": 24
+      },
+      {
+        "damage": 41,
+        "field2": 0,
+        "range": 145,
+        "ammo": 24
+      },
+      {
+        "damage": 41,
+        "field2": 0,
+        "range": 215,
+        "ammo": 24
+      },
+      {
+        "damage": 41,
+        "field2": 0,
+        "range": 180,
+        "ammo": 30
+      },
+      {
+        "damage": 25,
+        "field2": 0,
+        "range": 140,
+        "ammo": 30
+      },
+      {
+        "damage": 25,
+        "field2": 0,
+        "range": 220,
+        "ammo": 30
+      },
+      {
+        "damage": 25,
+        "field2": 0,
+        "range": 0,
+        "ammo": 0
+      },
+      {
+        "damage": 1,
+        "field2": 10,
+        "range": 0,
+        "ammo": 58
+      },
+      {
+        "damage": 90,
+        "field2": 120,
+        "range": 0,
+        "ammo": 0
+      },
+      {
+        "damage": 0,
+        "field2": 0,
+        "range": 490,
+        "ammo": 0
+      }
+    ]
+  },
+  "a05": {
+    "name": "dibison",
+    "weapon_slots": [
+      {
+        "type": 3,
+        "enabled": 1
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 1
+      },
+      {
+        "type": 3,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 1
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 1
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 0,
+        "enabled": 0
+      },
+      {
+        "type": 0,
+        "enabled": 0
+      }
+    ],
+    "stats": {
+      "hp": 115,
+      "stat_38": 9,
+      "stat_40": 9,
+      "stat_41": 12,
+      "speed": 5,
+      "stat_43": 3,
+      "stat_44": 8,
+      "stat_45": 40,
+      "stat_46": 24,
+      "defense": 64,
+      "stat_48": 11,
+      "stat_49": 40,
+      "attack": 23,
+      "stat_51": 32,
+      "stat_52": 40,
+      "stat_53": 150,
+      "weight": 150,
+      "stat_55": 300
+    },
+    "physics": {
+      "float_58": -0.6843,
+      "float_59": 3.8638,
+      "float_60": 14.9789
+    },
+    "loadouts": [
+      {
+        "damage": 4,
+        "field2": 0,
+        "range": 180,
+        "ammo": 26
+      },
+      {
+        "damage": 38,
+        "field2": 0,
+        "range": 150,
+        "ammo": 26
+      },
+      {
+        "damage": 38,
+        "field2": 0,
+        "range": 210,
+        "ammo": 26
+      },
+      {
+        "damage": 38,
+        "field2": 0,
+        "range": 180,
+        "ammo": 9
+      },
+      {
+        "damage": 36,
+        "field2": 0,
+        "range": 180,
+        "ammo": 26
+      },
+      {
+        "damage": 40,
+        "field2": 0,
+        "range": 145,
+        "ammo": 26
+      },
+      {
+        "damage": 40,
+        "field2": 0,
+        "range": 215,
+        "ammo": 26
+      },
+      {
+        "damage": 40,
+        "field2": 0,
+        "range": 180,
+        "ammo": 36
+      },
+      {
+        "damage": 50,
+        "field2": 0,
+        "range": 145,
+        "ammo": 35
+      },
+      {
+        "damage": 50,
+        "field2": 1,
+        "range": 215,
+        "ammo": 36
+      },
+      {
+        "damage": 50,
+        "field2": 0,
+        "range": 180,
+        "ammo": 26
+      },
+      {
+        "damage": 38,
+        "field2": 0,
+        "range": 150,
+        "ammo": 26
+      },
+      {
+        "damage": 36,
+        "field2": 0,
+        "range": 210,
+        "ammo": 26
+      },
+      {
+        "damage": 38,
+        "field2": 0,
+        "range": 180,
+        "ammo": 9
+      },
+      {
+        "damage": 36,
+        "field2": 0,
+        "range": 180,
+        "ammo": 27
+      },
+      {
+        "damage": 42,
+        "field2": 0,
+        "range": 145,
+        "ammo": 27
+      },
+      {
+        "damage": 42,
+        "field2": 0,
+        "range": 215,
+        "ammo": 27
+      },
+      {
+        "damage": 42,
+        "field2": 0,
+        "range": 180,
+        "ammo": 30
+      },
+      {
+        "damage": 25,
+        "field2": 0,
+        "range": 140,
+        "ammo": 30
+      },
+      {
+        "damage": 25,
+        "field2": 0,
+        "range": 220,
+        "ammo": 30
+      },
+      {
+        "damage": 25,
+        "field2": 0,
+        "range": 0,
+        "ammo": 0
+      },
+      {
+        "damage": 1,
+        "field2": 16,
+        "range": 0,
+        "ammo": 50
+      },
+      {
+        "damage": 90,
+        "field2": 120,
+        "range": 0,
+        "ammo": 0
+      },
+      {
+        "damage": 0,
+        "field2": 0,
+        "range": 488,
+        "ammo": 0
+      }
+    ]
+  },
+  "a06": {
+    "name": "gojulas",
+    "weapon_slots": [
+      {
+        "type": 3,
+        "enabled": 1
+      },
+      {
+        "type": 3,
+        "enabled": 1
+      },
+      {
+        "type": 2,
+        "enabled": 1
+      },
+      {
+        "type": 2,
+        "enabled": 1
+      },
+      {
+        "type": 1,
+        "enabled": 2
+      },
+      {
+        "type": 1,
+        "enabled": 1
+      },
+      {
+        "type": 1,
+        "enabled": 2
+      },
+      {
+        "type": 1,
+        "enabled": 1
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 0,
+        "enabled": 0
+      },
+      {
+        "type": 0,
+        "enabled": 0
+      }
+    ],
+    "stats": {
+      "hp": 110,
+      "stat_38": 4,
+      "stat_40": 0,
+      "stat_41": 8,
+      "speed": 9,
+      "stat_43": 13,
+      "stat_44": 5,
+      "stat_45": 30,
+      "stat_46": 25,
+      "defense": 55,
+      "stat_48": 13,
+      "stat_49": 50,
+      "attack": 10,
+      "stat_51": 30,
+      "stat_52": 40,
+      "stat_53": 60,
+      "weight": 80,
+      "stat_55": 540
+    },
+    "physics": {
+      "float_58": -6.6651,
+      "float_59": -13.1758,
+      "float_60": 15.6378
+    },
+    "loadouts": [
+      {
+        "damage": 3,
+        "field2": 18,
+        "range": 180,
+        "ammo": 30
+      },
+      {
+        "damage": 40,
+        "field2": 18,
+        "range": 150,
+        "ammo": 30
+      },
+      {
+        "damage": 40,
+        "field2": 18,
+        "range": 210,
+        "ammo": 30
+      },
+      {
+        "damage": 40,
+        "field2": 18,
+        "range": 180,
+        "ammo": 11
+      },
+      {
+        "damage": 40,
+        "field2": 0,
+        "range": 180,
+        "ammo": 38
+      },
+      {
+        "damage": 47,
+        "field2": 0,
+        "range": 145,
+        "ammo": 38
+      },
+      {
+        "damage": 47,
+        "field2": 0,
+        "range": 215,
+        "ammo": 38
+      },
+      {
+        "damage": 47,
+        "field2": 0,
+        "range": 180,
+        "ammo": 40
+      },
+      {
+        "damage": 56,
+        "field2": 0,
+        "range": 145,
+        "ammo": 40
+      },
+      {
+        "damage": 56,
+        "field2": 0,
+        "range": 215,
+        "ammo": 40
+      },
+      {
+        "damage": 56,
+        "field2": 18,
+        "range": 180,
+        "ammo": 30
+      },
+      {
+        "damage": 40,
+        "field2": 18,
+        "range": 150,
+        "ammo": 30
+      },
+      {
+        "damage": 40,
+        "field2": 18,
+        "range": 210,
+        "ammo": 30
+      },
+      {
+        "damage": 40,
+        "field2": 18,
+        "range": 180,
+        "ammo": 11
+      },
+      {
+        "damage": 40,
+        "field2": 0,
+        "range": 180,
+        "ammo": 39
+      },
+      {
+        "damage": 48,
+        "field2": 0,
+        "range": 145,
+        "ammo": 39
+      },
+      {
+        "damage": 48,
+        "field2": 0,
+        "range": 215,
+        "ammo": 39
+      },
+      {
+        "damage": 48,
+        "field2": 10,
+        "range": 180,
+        "ammo": 30
+      },
+      {
+        "damage": 60,
+        "field2": 10,
+        "range": 120,
+        "ammo": 30
+      },
+      {
+        "damage": 60,
+        "field2": 10,
+        "range": 240,
+        "ammo": 30
+      },
+      {
+        "damage": 60,
+        "field2": 0,
+        "range": 0,
+        "ammo": 0
+      },
+      {
+        "damage": 1,
+        "field2": 2,
+        "range": 0,
+        "ammo": 50
+      },
+      {
+        "damage": 90,
+        "field2": 120,
+        "range": 0,
+        "ammo": 0
+      },
+      {
+        "damage": 0,
+        "field2": 0,
+        "range": 506,
+        "ammo": 0
+      }
+    ]
+  },
+  "a07": {
+    "name": "blade_liger",
+    "weapon_slots": [
+      {
+        "type": 3,
+        "enabled": 2
+      },
+      {
+        "type": 3,
+        "enabled": 1
+      },
+      {
+        "type": 2,
+        "enabled": 2
+      },
+      {
+        "type": 2,
+        "enabled": 1
+      },
+      {
+        "type": 1,
+        "enabled": 2
+      },
+      {
+        "type": 0,
+        "enabled": 1
+      },
+      {
+        "type": 0,
+        "enabled": 2
+      },
+      {
+        "type": 0,
+        "enabled": 1
+      },
+      {
+        "type": 0,
+        "enabled": 0
+      },
+      {
+        "type": 0,
+        "enabled": 0
+      },
+      {
+        "type": 0,
+        "enabled": 0
+      },
+      {
+        "type": 0,
+        "enabled": 0
+      },
+      {
+        "type": 0,
+        "enabled": 0
+      },
+      {
+        "type": 0,
+        "enabled": 0
+      }
+    ],
+    "stats": {
+      "hp": 136,
+      "stat_38": 10,
+      "stat_40": 10,
+      "stat_41": 16,
+      "speed": 9,
+      "stat_43": 40,
+      "stat_44": 8,
+      "stat_45": 30,
+      "stat_46": 14,
+      "defense": 74,
+      "stat_48": 7,
+      "stat_49": 22,
+      "attack": 40,
+      "stat_51": 20,
+      "stat_52": 55,
+      "stat_53": 150,
+      "weight": 190,
+      "stat_55": 0
+    },
+    "physics": {
+      "float_58": 0.0,
+      "float_59": 7.0,
+      "float_60": 25.0
+    },
+    "loadouts": [
+      {
+        "damage": 4,
+        "field2": 18,
+        "range": 180,
+        "ammo": 28
+      },
+      {
+        "damage": 39,
+        "field2": 18,
+        "range": 150,
+        "ammo": 28
+      },
+      {
+        "damage": 39,
+        "field2": 18,
+        "range": 210,
+        "ammo": 28
+      },
+      {
+        "damage": 39,
+        "field2": 18,
+        "range": 180,
+        "ammo": 9
+      },
+      {
+        "damage": 37,
+        "field2": 18,
+        "range": 180,
+        "ammo": 30
+      },
+      {
+        "damage": 44,
+        "field2": 18,
+        "range": 145,
+        "ammo": 30
+      },
+      {
+        "damage": 44,
+        "field2": 18,
+        "range": 215,
+        "ammo": 30
+      },
+      {
+        "damage": 44,
+        "field2": 18,
+        "range": 180,
+        "ammo": 37
+      },
+      {
+        "damage": 53,
+        "field2": 18,
+        "range": 145,
+        "ammo": 37
+      },
+      {
+        "damage": 53,
+        "field2": 18,
+        "range": 215,
+        "ammo": 37
+      },
+      {
+        "damage": 53,
+        "field2": 18,
+        "range": 180,
+        "ammo": 28
+      },
+      {
+        "damage": 39,
+        "field2": 18,
+        "range": 150,
+        "ammo": 28
+      },
+      {
+        "damage": 39,
+        "field2": 18,
+        "range": 220,
+        "ammo": 28
+      },
+      {
+        "damage": 39,
+        "field2": 18,
+        "range": 180,
+        "ammo": 9
+      },
+      {
+        "damage": 37,
+        "field2": 18,
+        "range": 180,
+        "ammo": 34
+      },
+      {
+        "damage": 46,
+        "field2": 18,
+        "range": 145,
+        "ammo": 34
+      },
+      {
+        "damage": 46,
+        "field2": 18,
+        "range": 215,
+        "ammo": 34
+      },
+      {
+        "damage": 46,
+        "field2": 18,
+        "range": 180,
+        "ammo": 40
+      },
+      {
+        "damage": 25,
+        "field2": 18,
+        "range": 146,
+        "ammo": 40
+      },
+      {
+        "damage": 25,
+        "field2": 18,
+        "range": 220,
+        "ammo": 40
+      },
+      {
+        "damage": 25,
+        "field2": 0,
+        "range": 0,
+        "ammo": 0
+      },
+      {
+        "damage": 1,
+        "field2": 20,
+        "range": 0,
+        "ammo": 60
+      },
+      {
+        "damage": 90,
+        "field2": 120,
+        "range": 0,
+        "ammo": 0
+      },
+      {
+        "damage": 0,
+        "field2": 0,
+        "range": 472,
+        "ammo": 0
+      }
+    ]
+  },
+  "a08": {
+    "name": "shadow_fox",
+    "weapon_slots": [
+      {
+        "type": 3,
+        "enabled": 1
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 2,
+        "enabled": 1
+      },
+      {
+        "type": 2,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 1
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 1
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 0,
+        "enabled": 0
+      },
+      {
+        "type": 0,
+        "enabled": 0
+      }
+    ],
+    "stats": {
+      "hp": 142,
+      "stat_38": 8,
+      "stat_40": 10,
+      "stat_41": 17,
+      "speed": 9,
+      "stat_43": 40,
+      "stat_44": 8,
+      "stat_45": 40,
+      "stat_46": 14,
+      "defense": 76,
+      "stat_48": 7,
+      "stat_49": 30,
+      "attack": 40,
+      "stat_51": 20,
+      "stat_52": 59,
+      "stat_53": 150,
+      "weight": 230,
+      "stat_55": 0
+    },
+    "physics": {
+      "float_58": 0.0,
+      "float_59": 7.0,
+      "float_60": 25.0
+    },
+    "loadouts": [
+      {
+        "damage": 4,
+        "field2": 0,
+        "range": 180,
+        "ammo": 18
+      },
+      {
+        "damage": 36,
+        "field2": 0,
+        "range": 150,
+        "ammo": 18
+      },
+      {
+        "damage": 36,
+        "field2": 0,
+        "range": 210,
+        "ammo": 18
+      },
+      {
+        "damage": 36,
+        "field2": 0,
+        "range": 180,
+        "ammo": 9
+      },
+      {
+        "damage": 36,
+        "field2": 0,
+        "range": 180,
+        "ammo": 21
+      },
+      {
+        "damage": 40,
+        "field2": 0,
+        "range": 145,
+        "ammo": 21
+      },
+      {
+        "damage": 40,
+        "field2": 0,
+        "range": 215,
+        "ammo": 21
+      },
+      {
+        "damage": 40,
+        "field2": 0,
+        "range": 180,
+        "ammo": 33
+      },
+      {
+        "damage": 50,
+        "field2": 0,
+        "range": 145,
+        "ammo": 33
+      },
+      {
+        "damage": 50,
+        "field2": 0,
+        "range": 215,
+        "ammo": 33
+      },
+      {
+        "damage": 50,
+        "field2": 0,
+        "range": 180,
+        "ammo": 18
+      },
+      {
+        "damage": 36,
+        "field2": 0,
+        "range": 150,
+        "ammo": 18
+      },
+      {
+        "damage": 36,
+        "field2": 0,
+        "range": 210,
+        "ammo": 18
+      },
+      {
+        "damage": 36,
+        "field2": 0,
+        "range": 180,
+        "ammo": 9
+      },
+      {
+        "damage": 36,
+        "field2": 0,
+        "range": 180,
+        "ammo": 24
+      },
+      {
+        "damage": 42,
+        "field2": 0,
+        "range": 145,
+        "ammo": 24
+      },
+      {
+        "damage": 42,
+        "field2": 0,
+        "range": 215,
+        "ammo": 24
+      },
+      {
+        "damage": 42,
+        "field2": 0,
+        "range": 180,
+        "ammo": 30
+      },
+      {
+        "damage": 25,
+        "field2": 0,
+        "range": 145,
+        "ammo": 30
+      },
+      {
+        "damage": 25,
+        "field2": 0,
+        "range": 220,
+        "ammo": 30
+      },
+      {
+        "damage": 25,
+        "field2": 0,
+        "range": 0,
+        "ammo": 0
+      },
+      {
+        "damage": 1,
+        "field2": 17,
+        "range": 0,
+        "ammo": 65
+      },
+      {
+        "damage": 90,
+        "field2": 120,
+        "range": 0,
+        "ammo": 0
+      },
+      {
+        "damage": 0,
+        "field2": 0,
+        "range": 486,
+        "ammo": 0
+      }
+    ]
+  },
+  "a09": {
+    "name": "liger_zero",
+    "weapon_slots": [
+      {
+        "type": 3,
+        "enabled": 1
+      },
+      {
+        "type": 3,
+        "enabled": 0
+      },
+      {
+        "type": 2,
+        "enabled": 1
+      },
+      {
+        "type": 2,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 1
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 1
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 0,
+        "enabled": 0
+      },
+      {
+        "type": 0,
+        "enabled": 0
+      }
+    ],
+    "stats": {
+      "hp": 150,
+      "stat_38": 15,
+      "stat_40": 10,
+      "stat_41": 16,
+      "speed": 9,
+      "stat_43": 40,
+      "stat_44": 6,
+      "stat_45": 40,
+      "stat_46": 13,
+      "defense": 80,
+      "stat_48": 7,
+      "stat_49": 20,
+      "attack": 44,
+      "stat_51": 43,
+      "stat_52": 68,
+      "stat_53": 150,
+      "weight": 250,
+      "stat_55": 0
+    },
+    "physics": {
+      "float_58": 0.0654,
+      "float_59": 7.0,
+      "float_60": 33.0576
+    },
+    "loadouts": [
+      {
+        "damage": 3,
+        "field2": 18,
+        "range": 180,
+        "ammo": 23
+      },
+      {
+        "damage": 37,
+        "field2": 18,
+        "range": 150,
+        "ammo": 23
+      },
+      {
+        "damage": 37,
+        "field2": 18,
+        "range": 210,
+        "ammo": 23
+      },
+      {
+        "damage": 37,
+        "field2": 18,
+        "range": 180,
+        "ammo": 9
+      },
+      {
+        "damage": 37,
+        "field2": 18,
+        "range": 180,
+        "ammo": 24
+      },
+      {
+        "damage": 40,
+        "field2": 18,
+        "range": 145,
+        "ammo": 24
+      },
+      {
+        "damage": 40,
+        "field2": 18,
+        "range": 215,
+        "ammo": 24
+      },
+      {
+        "damage": 40,
+        "field2": 18,
+        "range": 180,
+        "ammo": 33
+      },
+      {
+        "damage": 50,
+        "field2": 18,
+        "range": 145,
+        "ammo": 33
+      },
+      {
+        "damage": 50,
+        "field2": 18,
+        "range": 215,
+        "ammo": 33
+      },
+      {
+        "damage": 50,
+        "field2": 18,
+        "range": 180,
+        "ammo": 23
+      },
+      {
+        "damage": 37,
+        "field2": 18,
+        "range": 150,
+        "ammo": 23
+      },
+      {
+        "damage": 37,
+        "field2": 18,
+        "range": 210,
+        "ammo": 23
+      },
+      {
+        "damage": 37,
+        "field2": 0,
+        "range": 180,
+        "ammo": 5
+      },
+      {
+        "damage": 37,
+        "field2": 18,
+        "range": 180,
+        "ammo": 25
+      },
+      {
+        "damage": 41,
+        "field2": 18,
+        "range": 145,
+        "ammo": 25
+      },
+      {
+        "damage": 41,
+        "field2": 18,
+        "range": 215,
+        "ammo": 25
+      },
+      {
+        "damage": 41,
+        "field2": 18,
+        "range": 180,
+        "ammo": 30
+      },
+      {
+        "damage": 25,
+        "field2": 18,
+        "range": 140,
+        "ammo": 30
+      },
+      {
+        "damage": 25,
+        "field2": 18,
+        "range": 220,
+        "ammo": 30
+      },
+      {
+        "damage": 25,
+        "field2": 0,
+        "range": 0,
+        "ammo": 0
+      },
+      {
+        "damage": 1,
+        "field2": 40,
+        "range": 0,
+        "ammo": 60
+      },
+      {
+        "damage": 90,
+        "field2": 120,
+        "range": 0,
+        "ammo": 0
+      },
+      {
+        "damage": 0,
+        "field2": 0,
+        "range": 488,
+        "ammo": 0
+      }
+    ]
+  },
+  "a10": {
+    "name": "jager",
+    "weapon_slots": [
+      {
+        "type": 3,
+        "enabled": 1
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 2,
+        "enabled": 1
+      },
+      {
+        "type": 2,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 1
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 1
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 0,
+        "enabled": 0
+      },
+      {
+        "type": 0,
+        "enabled": 0
+      }
+    ],
+    "stats": {
+      "hp": 200,
+      "stat_38": 10,
+      "stat_40": 10,
+      "stat_41": 17,
+      "speed": 9,
+      "stat_43": 40,
+      "stat_44": 5,
+      "stat_45": 50,
+      "stat_46": 12,
+      "defense": 100,
+      "stat_48": 7,
+      "stat_49": 15,
+      "attack": 20,
+      "stat_51": 20,
+      "stat_52": 70,
+      "stat_53": 210,
+      "weight": 150,
+      "stat_55": 0
+    },
+    "physics": {
+      "float_58": 0.0,
+      "float_59": 7.0,
+      "float_60": 25.0
+    },
+    "loadouts": [
+      {
+        "damage": 1,
+        "field2": 18,
+        "range": 180,
+        "ammo": 23
+      },
+      {
+        "damage": 37,
+        "field2": 18,
+        "range": 150,
+        "ammo": 23
+      },
+      {
+        "damage": 37,
+        "field2": 18,
+        "range": 210,
+        "ammo": 23
+      },
+      {
+        "damage": 37,
+        "field2": 18,
+        "range": 180,
+        "ammo": 7
+      },
+      {
+        "damage": 36,
+        "field2": 18,
+        "range": 180,
+        "ammo": 24
+      },
+      {
+        "damage": 40,
+        "field2": 18,
+        "range": 145,
+        "ammo": 24
+      },
+      {
+        "damage": 40,
+        "field2": 18,
+        "range": 215,
+        "ammo": 24
+      },
+      {
+        "damage": 40,
+        "field2": 18,
+        "range": 180,
+        "ammo": 33
+      },
+      {
+        "damage": 50,
+        "field2": 18,
+        "range": 145,
+        "ammo": 33
+      },
+      {
+        "damage": 50,
+        "field2": 18,
+        "range": 215,
+        "ammo": 33
+      },
+      {
+        "damage": 50,
+        "field2": 18,
+        "range": 180,
+        "ammo": 23
+      },
+      {
+        "damage": 37,
+        "field2": 18,
+        "range": 150,
+        "ammo": 23
+      },
+      {
+        "damage": 37,
+        "field2": 18,
+        "range": 210,
+        "ammo": 23
+      },
+      {
+        "damage": 37,
+        "field2": 18,
+        "range": 180,
+        "ammo": 7
+      },
+      {
+        "damage": 36,
+        "field2": 18,
+        "range": 180,
+        "ammo": 25
+      },
+      {
+        "damage": 41,
+        "field2": 18,
+        "range": 145,
+        "ammo": 25
+      },
+      {
+        "damage": 41,
+        "field2": 18,
+        "range": 215,
+        "ammo": 25
+      },
+      {
+        "damage": 41,
+        "field2": 18,
+        "range": 180,
+        "ammo": 30
+      },
+      {
+        "damage": 25,
+        "field2": 18,
+        "range": 145,
+        "ammo": 30
+      },
+      {
+        "damage": 25,
+        "field2": 18,
+        "range": 220,
+        "ammo": 30
+      },
+      {
+        "damage": 25,
+        "field2": 0,
+        "range": 0,
+        "ammo": 0
+      },
+      {
+        "damage": 1,
+        "field2": 22,
+        "range": 0,
+        "ammo": 60
+      },
+      {
+        "damage": 90,
+        "field2": 120,
+        "range": 0,
+        "ammo": 0
+      },
+      {
+        "damage": 0,
+        "field2": 0,
+        "range": 470,
+        "ammo": 0
+      }
+    ]
+  },
+  "a11": {
+    "name": "schneider",
+    "weapon_slots": [
+      {
+        "type": 3,
+        "enabled": 1
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 2,
+        "enabled": 1
+      },
+      {
+        "type": 2,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 1
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 1
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 0,
+        "enabled": 0
+      },
+      {
+        "type": 0,
+        "enabled": 0
+      }
+    ],
+    "stats": {
+      "hp": 164,
+      "stat_38": 10,
+      "stat_40": 10,
+      "stat_41": 16,
+      "speed": 9,
+      "stat_43": 40,
+      "stat_44": 7,
+      "stat_45": 40,
+      "stat_46": 13,
+      "defense": 84,
+      "stat_48": 9,
+      "stat_49": 20,
+      "attack": 40,
+      "stat_51": 20,
+      "stat_52": 40,
+      "stat_53": 180,
+      "weight": 220,
+      "stat_55": 400
+    },
+    "physics": {
+      "float_58": 0.0,
+      "float_59": 7.0,
+      "float_60": 25.0
+    },
+    "loadouts": [
+      {
+        "damage": 4,
+        "field2": 18,
+        "range": 180,
+        "ammo": 23
+      },
+      {
+        "damage": 37,
+        "field2": 18,
+        "range": 150,
+        "ammo": 23
+      },
+      {
+        "damage": 37,
+        "field2": 18,
+        "range": 210,
+        "ammo": 23
+      },
+      {
+        "damage": 37,
+        "field2": 18,
+        "range": 180,
+        "ammo": 7
+      },
+      {
+        "damage": 37,
+        "field2": 18,
+        "range": 180,
+        "ammo": 28
+      },
+      {
+        "damage": 43,
+        "field2": 18,
+        "range": 145,
+        "ammo": 28
+      },
+      {
+        "damage": 43,
+        "field2": 18,
+        "range": 215,
+        "ammo": 28
+      },
+      {
+        "damage": 43,
+        "field2": 18,
+        "range": 180,
+        "ammo": 33
+      },
+      {
+        "damage": 50,
+        "field2": 18,
+        "range": 145,
+        "ammo": 33
+      },
+      {
+        "damage": 50,
+        "field2": 18,
+        "range": 215,
+        "ammo": 33
+      },
+      {
+        "damage": 50,
+        "field2": 18,
+        "range": 180,
+        "ammo": 23
+      },
+      {
+        "damage": 37,
+        "field2": 18,
+        "range": 150,
+        "ammo": 23
+      },
+      {
+        "damage": 37,
+        "field2": 18,
+        "range": 210,
+        "ammo": 23
+      },
+      {
+        "damage": 37,
+        "field2": 18,
+        "range": 180,
+        "ammo": 7
+      },
+      {
+        "damage": 37,
+        "field2": 18,
+        "range": 180,
+        "ammo": 29
+      },
+      {
+        "damage": 44,
+        "field2": 18,
+        "range": 145,
+        "ammo": 29
+      },
+      {
+        "damage": 44,
+        "field2": 18,
+        "range": 215,
+        "ammo": 29
+      },
+      {
+        "damage": 45,
+        "field2": 18,
+        "range": 180,
+        "ammo": 30
+      },
+      {
+        "damage": 25,
+        "field2": 18,
+        "range": 140,
+        "ammo": 30
+      },
+      {
+        "damage": 25,
+        "field2": 18,
+        "range": 220,
+        "ammo": 30
+      },
+      {
+        "damage": 25,
+        "field2": 0,
+        "range": 0,
+        "ammo": 0
+      },
+      {
+        "damage": 1,
+        "field2": 6,
+        "range": 0,
+        "ammo": 60
+      },
+      {
+        "damage": 90,
+        "field2": 120,
+        "range": 0,
+        "ammo": 0
+      },
+      {
+        "damage": 0,
+        "field2": 0,
+        "range": 480,
+        "ammo": 0
+      }
+    ]
+  },
+  "a12": {
+    "name": "panzer",
+    "weapon_slots": [
+      {
+        "type": 3,
+        "enabled": 1
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 2,
+        "enabled": 1
+      },
+      {
+        "type": 2,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 1
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 1
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 0,
+        "enabled": 0
+      },
+      {
+        "type": 0,
+        "enabled": 0
+      }
+    ],
+    "stats": {
+      "hp": 110,
+      "stat_38": 10,
+      "stat_40": 6,
+      "stat_41": 12,
+      "speed": 9,
+      "stat_43": 40,
+      "stat_44": 10,
+      "stat_45": 40,
+      "stat_46": 21,
+      "defense": 60,
+      "stat_48": 10,
+      "stat_49": 30,
+      "attack": 40,
+      "stat_51": 20,
+      "stat_52": 20,
+      "stat_53": 130,
+      "weight": 56,
+      "stat_55": 0
+    },
+    "physics": {
+      "float_58": 0.0,
+      "float_59": 7.0,
+      "float_60": 25.0
+    },
+    "loadouts": [
+      {
+        "damage": 4,
+        "field2": 18,
+        "range": 180,
+        "ammo": 23
+      },
+      {
+        "damage": 37,
+        "field2": 18,
+        "range": 150,
+        "ammo": 23
+      },
+      {
+        "damage": 37,
+        "field2": 18,
+        "range": 210,
+        "ammo": 23
+      },
+      {
+        "damage": 37,
+        "field2": 18,
+        "range": 180,
+        "ammo": 7
+      },
+      {
+        "damage": 37,
+        "field2": 18,
+        "range": 180,
+        "ammo": 28
+      },
+      {
+        "damage": 43,
+        "field2": 18,
+        "range": 145,
+        "ammo": 28
+      },
+      {
+        "damage": 43,
+        "field2": 18,
+        "range": 215,
+        "ammo": 28
+      },
+      {
+        "damage": 43,
+        "field2": 18,
+        "range": 180,
+        "ammo": 33
+      },
+      {
+        "damage": 50,
+        "field2": 18,
+        "range": 145,
+        "ammo": 33
+      },
+      {
+        "damage": 50,
+        "field2": 18,
+        "range": 215,
+        "ammo": 33
+      },
+      {
+        "damage": 50,
+        "field2": 18,
+        "range": 180,
+        "ammo": 23
+      },
+      {
+        "damage": 37,
+        "field2": 18,
+        "range": 150,
+        "ammo": 23
+      },
+      {
+        "damage": 37,
+        "field2": 18,
+        "range": 210,
+        "ammo": 23
+      },
+      {
+        "damage": 37,
+        "field2": 18,
+        "range": 180,
+        "ammo": 7
+      },
+      {
+        "damage": 37,
+        "field2": 18,
+        "range": 180,
+        "ammo": 29
+      },
+      {
+        "damage": 44,
+        "field2": 18,
+        "range": 145,
+        "ammo": 29
+      },
+      {
+        "damage": 44,
+        "field2": 18,
+        "range": 215,
+        "ammo": 29
+      },
+      {
+        "damage": 44,
+        "field2": 18,
+        "range": 180,
+        "ammo": 30
+      },
+      {
+        "damage": 25,
+        "field2": 18,
+        "range": 140,
+        "ammo": 30
+      },
+      {
+        "damage": 25,
+        "field2": 18,
+        "range": 220,
+        "ammo": 30
+      },
+      {
+        "damage": 25,
+        "field2": 0,
+        "range": 0,
+        "ammo": 0
+      },
+      {
+        "damage": 0,
+        "field2": 3,
+        "range": 0,
+        "ammo": 50
+      },
+      {
+        "damage": 90,
+        "field2": 120,
+        "range": 0,
+        "ammo": 0
+      },
+      {
+        "damage": 0,
+        "field2": 0,
+        "range": 460,
+        "ammo": 0
+      }
+    ]
+  },
+  "a13": {
+    "name": "x",
+    "weapon_slots": [
+      {
+        "type": 3,
+        "enabled": 1
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 2,
+        "enabled": 1
+      },
+      {
+        "type": 2,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 1
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 1
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 0,
+        "enabled": 0
+      },
+      {
+        "type": 0,
+        "enabled": 0
+      }
+    ],
+    "stats": {
+      "hp": 160,
+      "stat_38": 10,
+      "stat_40": 10,
+      "stat_41": 15,
+      "speed": 9,
+      "stat_43": 40,
+      "stat_44": 10,
+      "stat_45": 40,
+      "stat_46": 13,
+      "defense": 90,
+      "stat_48": 10,
+      "stat_49": 28,
+      "attack": 40,
+      "stat_51": 20,
+      "stat_52": 60,
+      "stat_53": 150,
+      "weight": 150,
+      "stat_55": 300
+    },
+    "physics": {
+      "float_58": 0.0,
+      "float_59": 7.0,
+      "float_60": 25.0
+    },
+    "loadouts": [
+      {
+        "damage": 4,
+        "field2": 18,
+        "range": 180,
+        "ammo": 23
+      },
+      {
+        "damage": 37,
+        "field2": 18,
+        "range": 150,
+        "ammo": 23
+      },
+      {
+        "damage": 37,
+        "field2": 18,
+        "range": 215,
+        "ammo": 23
+      },
+      {
+        "damage": 37,
+        "field2": 18,
+        "range": 180,
+        "ammo": 7
+      },
+      {
+        "damage": 37,
+        "field2": 18,
+        "range": 180,
+        "ammo": 28
+      },
+      {
+        "damage": 43,
+        "field2": 18,
+        "range": 145,
+        "ammo": 28
+      },
+      {
+        "damage": 43,
+        "field2": 18,
+        "range": 215,
+        "ammo": 28
+      },
+      {
+        "damage": 43,
+        "field2": 18,
+        "range": 180,
+        "ammo": 33
+      },
+      {
+        "damage": 50,
+        "field2": 18,
+        "range": 145,
+        "ammo": 33
+      },
+      {
+        "damage": 50,
+        "field2": 18,
+        "range": 215,
+        "ammo": 33
+      },
+      {
+        "damage": 50,
+        "field2": 18,
+        "range": 180,
+        "ammo": 23
+      },
+      {
+        "damage": 37,
+        "field2": 18,
+        "range": 150,
+        "ammo": 23
+      },
+      {
+        "damage": 37,
+        "field2": 18,
+        "range": 210,
+        "ammo": 23
+      },
+      {
+        "damage": 37,
+        "field2": 18,
+        "range": 180,
+        "ammo": 7
+      },
+      {
+        "damage": 37,
+        "field2": 18,
+        "range": 180,
+        "ammo": 29
+      },
+      {
+        "damage": 44,
+        "field2": 18,
+        "range": 145,
+        "ammo": 29
+      },
+      {
+        "damage": 44,
+        "field2": 18,
+        "range": 215,
+        "ammo": 29
+      },
+      {
+        "damage": 44,
+        "field2": 18,
+        "range": 180,
+        "ammo": 30
+      },
+      {
+        "damage": 25,
+        "field2": 18,
+        "range": 140,
+        "ammo": 30
+      },
+      {
+        "damage": 25,
+        "field2": 18,
+        "range": 220,
+        "ammo": 30
+      },
+      {
+        "damage": 25,
+        "field2": 0,
+        "range": 0,
+        "ammo": 0
+      },
+      {
+        "damage": 0,
+        "field2": 26,
+        "range": 0,
+        "ammo": 60
+      },
+      {
+        "damage": 90,
+        "field2": 120,
+        "range": 0,
+        "ammo": 0
+      },
+      {
+        "damage": 0,
+        "field2": 0,
+        "range": 454,
+        "ammo": 0
+      }
+    ]
+  },
+  "a14": {
+    "name": "snipe_master",
+    "weapon_slots": [
+      {
+        "type": 2,
+        "enabled": 2
+      },
+      {
+        "type": 2,
+        "enabled": 0
+      },
+      {
+        "type": 2,
+        "enabled": 2
+      },
+      {
+        "type": 2,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 2
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 2
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 0,
+        "enabled": 0
+      },
+      {
+        "type": 0,
+        "enabled": 0
+      }
+    ],
+    "stats": {
+      "hp": 120,
+      "stat_38": 10,
+      "stat_40": 10,
+      "stat_41": 25,
+      "speed": 9,
+      "stat_43": 40,
+      "stat_44": 8,
+      "stat_45": 40,
+      "stat_46": 22,
+      "defense": 70,
+      "stat_48": 10,
+      "stat_49": 40,
+      "attack": 10,
+      "stat_51": 30,
+      "stat_52": 40,
+      "stat_53": 242,
+      "weight": 240,
+      "stat_55": 300
+    },
+    "physics": {
+      "float_58": 0.0,
+      "float_59": 7.0,
+      "float_60": 25.0
+    },
+    "loadouts": [
+      {
+        "damage": 4,
+        "field2": 18,
+        "range": 180,
+        "ammo": 16
+      },
+      {
+        "damage": 36,
+        "field2": 18,
+        "range": 150,
+        "ammo": 16
+      },
+      {
+        "damage": 36,
+        "field2": 18,
+        "range": 210,
+        "ammo": 16
+      },
+      {
+        "damage": 36,
+        "field2": 18,
+        "range": 180,
+        "ammo": 7
+      },
+      {
+        "damage": 36,
+        "field2": 18,
+        "range": 180,
+        "ammo": 21
+      },
+      {
+        "damage": 40,
+        "field2": 18,
+        "range": 145,
+        "ammo": 21
+      },
+      {
+        "damage": 40,
+        "field2": 18,
+        "range": 215,
+        "ammo": 21
+      },
+      {
+        "damage": 40,
+        "field2": 18,
+        "range": 180,
+        "ammo": 27
+      },
+      {
+        "damage": 48,
+        "field2": 18,
+        "range": 145,
+        "ammo": 27
+      },
+      {
+        "damage": 48,
+        "field2": 18,
+        "range": 215,
+        "ammo": 27
+      },
+      {
+        "damage": 48,
+        "field2": 18,
+        "range": 180,
+        "ammo": 16
+      },
+      {
+        "damage": 36,
+        "field2": 18,
+        "range": 145,
+        "ammo": 16
+      },
+      {
+        "damage": 36,
+        "field2": 18,
+        "range": 215,
+        "ammo": 16
+      },
+      {
+        "damage": 36,
+        "field2": 18,
+        "range": 180,
+        "ammo": 7
+      },
+      {
+        "damage": 36,
+        "field2": 18,
+        "range": 180,
+        "ammo": 22
+      },
+      {
+        "damage": 41,
+        "field2": 18,
+        "range": 145,
+        "ammo": 22
+      },
+      {
+        "damage": 41,
+        "field2": 18,
+        "range": 215,
+        "ammo": 22
+      },
+      {
+        "damage": 41,
+        "field2": 10,
+        "range": 180,
+        "ammo": 40
+      },
+      {
+        "damage": 31,
+        "field2": 10,
+        "range": 150,
+        "ammo": 40
+      },
+      {
+        "damage": 31,
+        "field2": 10,
+        "range": 210,
+        "ammo": 40
+      },
+      {
+        "damage": 31,
+        "field2": 0,
+        "range": 0,
+        "ammo": 0
+      },
+      {
+        "damage": 0,
+        "field2": 12,
+        "range": 0,
+        "ammo": 65
+      },
+      {
+        "damage": 90,
+        "field2": 120,
+        "range": 0,
+        "ammo": 0
+      },
+      {
+        "damage": 0,
+        "field2": 0,
+        "range": 484,
+        "ammo": 0
+      }
+    ]
+  },
+  "a15": {
+    "name": "konig_wolf",
+    "weapon_slots": [
+      {
+        "type": 3,
+        "enabled": 2
+      },
+      {
+        "type": 3,
+        "enabled": 1
+      },
+      {
+        "type": 2,
+        "enabled": 2
+      },
+      {
+        "type": 2,
+        "enabled": 1
+      },
+      {
+        "type": 0,
+        "enabled": 2
+      },
+      {
+        "type": 0,
+        "enabled": 1
+      },
+      {
+        "type": 0,
+        "enabled": 2
+      },
+      {
+        "type": 0,
+        "enabled": 1
+      },
+      {
+        "type": 0,
+        "enabled": 0
+      },
+      {
+        "type": 0,
+        "enabled": 0
+      },
+      {
+        "type": 0,
+        "enabled": 0
+      },
+      {
+        "type": 0,
+        "enabled": 0
+      },
+      {
+        "type": 0,
+        "enabled": 0
+      },
+      {
+        "type": 0,
+        "enabled": 0
+      }
+    ],
+    "stats": {
+      "hp": 150,
+      "stat_38": 12,
+      "stat_40": 10,
+      "stat_41": 17,
+      "speed": 9,
+      "stat_43": 40,
+      "stat_44": 7,
+      "stat_45": 40,
+      "stat_46": 15,
+      "defense": 80,
+      "stat_48": 7,
+      "stat_49": 22,
+      "attack": 20,
+      "stat_51": 20,
+      "stat_52": 70,
+      "stat_53": 150,
+      "weight": 270,
+      "stat_55": 301
+    },
+    "physics": {
+      "float_58": 0.0,
+      "float_59": 7.0,
+      "float_60": 25.0
+    },
+    "loadouts": [
+      {
+        "damage": 1,
+        "field2": 0,
+        "range": 180,
+        "ammo": 23
+      },
+      {
+        "damage": 37,
+        "field2": 0,
+        "range": 150,
+        "ammo": 23
+      },
+      {
+        "damage": 37,
+        "field2": 0,
+        "range": 210,
+        "ammo": 23
+      },
+      {
+        "damage": 37,
+        "field2": 0,
+        "range": 180,
+        "ammo": 9
+      },
+      {
+        "damage": 36,
+        "field2": 18,
+        "range": 180,
+        "ammo": 28
+      },
+      {
+        "damage": 42,
+        "field2": 18,
+        "range": 145,
+        "ammo": 28
+      },
+      {
+        "damage": 42,
+        "field2": 18,
+        "range": 215,
+        "ammo": 28
+      },
+      {
+        "damage": 42,
+        "field2": 18,
+        "range": 180,
+        "ammo": 36
+      },
+      {
+        "damage": 52,
+        "field2": 18,
+        "range": 145,
+        "ammo": 37
+      },
+      {
+        "damage": 52,
+        "field2": 18,
+        "range": 215,
+        "ammo": 37
+      },
+      {
+        "damage": 52,
+        "field2": 0,
+        "range": 180,
+        "ammo": 23
+      },
+      {
+        "damage": 37,
+        "field2": 0,
+        "range": 150,
+        "ammo": 23
+      },
+      {
+        "damage": 37,
+        "field2": 0,
+        "range": 210,
+        "ammo": 23
+      },
+      {
+        "damage": 37,
+        "field2": 0,
+        "range": 180,
+        "ammo": 9
+      },
+      {
+        "damage": 36,
+        "field2": 0,
+        "range": 180,
+        "ammo": 29
+      },
+      {
+        "damage": 43,
+        "field2": 0,
+        "range": 143,
+        "ammo": 29
+      },
+      {
+        "damage": 43,
+        "field2": 0,
+        "range": 215,
+        "ammo": 29
+      },
+      {
+        "damage": 43,
+        "field2": 0,
+        "range": 180,
+        "ammo": 40
+      },
+      {
+        "damage": 25,
+        "field2": 0,
+        "range": 140,
+        "ammo": 40
+      },
+      {
+        "damage": 25,
+        "field2": 0,
+        "range": 220,
+        "ammo": 40
+      },
+      {
+        "damage": 25,
+        "field2": 0,
+        "range": 0,
+        "ammo": 0
+      },
+      {
+        "damage": 0,
+        "field2": 20,
+        "range": 0,
+        "ammo": 60
+      },
+      {
+        "damage": 90,
+        "field2": 120,
+        "range": 0,
+        "ammo": 0
+      },
+      {
+        "damage": 0,
+        "field2": 0,
+        "range": 474,
+        "ammo": 0
+      }
+    ]
+  },
+  "a16": {
+    "name": "gojulas_giga",
+    "weapon_slots": [
+      {
+        "type": 3,
+        "enabled": 1
+      },
+      {
+        "type": 3,
+        "enabled": 0
+      },
+      {
+        "type": 2,
+        "enabled": 1
+      },
+      {
+        "type": 2,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 3
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 3
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 0,
+        "enabled": 0
+      },
+      {
+        "type": 0,
+        "enabled": 0
+      }
+    ],
+    "stats": {
+      "hp": 120,
+      "stat_38": 10,
+      "stat_40": 10,
+      "stat_41": 11,
+      "speed": 9,
+      "stat_43": 40,
+      "stat_44": 5,
+      "stat_45": 40,
+      "stat_46": 25,
+      "defense": 65,
+      "stat_48": 13,
+      "stat_49": 50,
+      "attack": 15,
+      "stat_51": 21,
+      "stat_52": 40,
+      "stat_53": 150,
+      "weight": 100,
+      "stat_55": 0
+    },
+    "physics": {
+      "float_58": 0.0,
+      "float_59": 7.0,
+      "float_60": 25.0
+    },
+    "loadouts": [
+      {
+        "damage": 3,
+        "field2": 18,
+        "range": 180,
+        "ammo": 30
+      },
+      {
+        "damage": 40,
+        "field2": 18,
+        "range": 150,
+        "ammo": 30
+      },
+      {
+        "damage": 40,
+        "field2": 18,
+        "range": 210,
+        "ammo": 30
+      },
+      {
+        "damage": 40,
+        "field2": 18,
+        "range": 180,
+        "ammo": 10
+      },
+      {
+        "damage": 39,
+        "field2": 0,
+        "range": 180,
+        "ammo": 35
+      },
+      {
+        "damage": 45,
+        "field2": 0,
+        "range": 145,
+        "ammo": 35
+      },
+      {
+        "damage": 45,
+        "field2": 0,
+        "range": 215,
+        "ammo": 35
+      },
+      {
+        "damage": 45,
+        "field2": 0,
+        "range": 180,
+        "ammo": 40
+      },
+      {
+        "damage": 56,
+        "field2": 0,
+        "range": 145,
+        "ammo": 40
+      },
+      {
+        "damage": 56,
+        "field2": 0,
+        "range": 215,
+        "ammo": 40
+      },
+      {
+        "damage": 56,
+        "field2": 18,
+        "range": 180,
+        "ammo": 30
+      },
+      {
+        "damage": 40,
+        "field2": 18,
+        "range": 150,
+        "ammo": 30
+      },
+      {
+        "damage": 40,
+        "field2": 18,
+        "range": 210,
+        "ammo": 30
+      },
+      {
+        "damage": 40,
+        "field2": 0,
+        "range": 180,
+        "ammo": 10
+      },
+      {
+        "damage": 39,
+        "field2": 0,
+        "range": 180,
+        "ammo": 36
+      },
+      {
+        "damage": 46,
+        "field2": 0,
+        "range": 145,
+        "ammo": 36
+      },
+      {
+        "damage": 46,
+        "field2": 0,
+        "range": 215,
+        "ammo": 36
+      },
+      {
+        "damage": 46,
+        "field2": 10,
+        "range": 180,
+        "ammo": 30
+      },
+      {
+        "damage": 60,
+        "field2": 10,
+        "range": 120,
+        "ammo": 30
+      },
+      {
+        "damage": 60,
+        "field2": 10,
+        "range": 240,
+        "ammo": 30
+      },
+      {
+        "damage": 60,
+        "field2": 0,
+        "range": 0,
+        "ammo": 0
+      },
+      {
+        "damage": 1,
+        "field2": 5,
+        "range": 0,
+        "ammo": 50
+      },
+      {
+        "damage": 90,
+        "field2": 120,
+        "range": 0,
+        "ammo": 0
+      },
+      {
+        "damage": 0,
+        "field2": 0,
+        "range": 483,
+        "ammo": 0
+      }
+    ]
+  },
+  "a19": {
+    "name": "pteras",
+    "weapon_slots": [
+      {
+        "type": 2,
+        "enabled": 1
+      },
+      {
+        "type": 2,
+        "enabled": 0
+      },
+      {
+        "type": 2,
+        "enabled": 1
+      },
+      {
+        "type": 2,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 1
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 1
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 0,
+        "enabled": 0
+      },
+      {
+        "type": 0,
+        "enabled": 0
+      }
+    ],
+    "stats": {
+      "hp": 250,
+      "stat_38": 3,
+      "stat_40": 4,
+      "stat_41": 3,
+      "speed": 9,
+      "stat_43": 40,
+      "stat_44": 5,
+      "stat_45": 40,
+      "stat_46": 10,
+      "defense": 120,
+      "stat_48": 6,
+      "stat_49": 15,
+      "attack": 22,
+      "stat_51": 44,
+      "stat_52": 12,
+      "stat_53": 150,
+      "weight": 50,
+      "stat_55": 300
+    },
+    "physics": {
+      "float_58": 0.0,
+      "float_59": 7.0,
+      "float_60": 25.0
+    },
+    "loadouts": [
+      {
+        "damage": 4,
+        "field2": 18,
+        "range": 180,
+        "ammo": 32
+      },
+      {
+        "damage": 40,
+        "field2": 18,
+        "range": 150,
+        "ammo": 32
+      },
+      {
+        "damage": 40,
+        "field2": 18,
+        "range": 210,
+        "ammo": 32
+      },
+      {
+        "damage": 40,
+        "field2": 18,
+        "range": 180,
+        "ammo": 8
+      },
+      {
+        "damage": 39,
+        "field2": 18,
+        "range": 180,
+        "ammo": 32
+      },
+      {
+        "damage": 48,
+        "field2": 18,
+        "range": 145,
+        "ammo": 32
+      },
+      {
+        "damage": 48,
+        "field2": 18,
+        "range": 215,
+        "ammo": 32
+      },
+      {
+        "damage": 48,
+        "field2": 18,
+        "range": 180,
+        "ammo": 36
+      },
+      {
+        "damage": 60,
+        "field2": 18,
+        "range": 145,
+        "ammo": 36
+      },
+      {
+        "damage": 60,
+        "field2": 18,
+        "range": 215,
+        "ammo": 36
+      },
+      {
+        "damage": 60,
+        "field2": 18,
+        "range": 180,
+        "ammo": 32
+      },
+      {
+        "damage": 40,
+        "field2": 18,
+        "range": 150,
+        "ammo": 32
+      },
+      {
+        "damage": 40,
+        "field2": 18,
+        "range": 215,
+        "ammo": 32
+      },
+      {
+        "damage": 40,
+        "field2": 18,
+        "range": 180,
+        "ammo": 8
+      },
+      {
+        "damage": 39,
+        "field2": 18,
+        "range": 180,
+        "ammo": 32
+      },
+      {
+        "damage": 48,
+        "field2": 18,
+        "range": 145,
+        "ammo": 32
+      },
+      {
+        "damage": 48,
+        "field2": 18,
+        "range": 215,
+        "ammo": 32
+      },
+      {
+        "damage": 48,
+        "field2": 18,
+        "range": 180,
+        "ammo": 36
+      },
+      {
+        "damage": 60,
+        "field2": 18,
+        "range": 145,
+        "ammo": 36
+      },
+      {
+        "damage": 60,
+        "field2": 18,
+        "range": 215,
+        "ammo": 36
+      },
+      {
+        "damage": 60,
+        "field2": 0,
+        "range": 0,
+        "ammo": 0
+      },
+      {
+        "damage": 0,
+        "field2": 0,
+        "range": 0,
+        "ammo": 40
+      },
+      {
+        "damage": 90,
+        "field2": 120,
+        "range": 0,
+        "ammo": 0
+      },
+      {
+        "damage": 0,
+        "field2": 0,
+        "range": 485,
+        "ammo": 0
+      }
+    ]
+  },
+  "a20": {
+    "name": "cyclops",
+    "weapon_slots": [
+      {
+        "type": 3,
+        "enabled": 1
+      },
+      {
+        "type": 3,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 1
+      },
+      {
+        "type": 2,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 1
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 1
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 0,
+        "enabled": 0
+      },
+      {
+        "type": 0,
+        "enabled": 0
+      }
+    ],
+    "stats": {
+      "hp": 130,
+      "stat_38": 15,
+      "stat_40": 10,
+      "stat_41": 17,
+      "speed": 9,
+      "stat_43": 40,
+      "stat_44": 8,
+      "stat_45": 30,
+      "stat_46": 18,
+      "defense": 65,
+      "stat_48": 9,
+      "stat_49": 50,
+      "attack": 25,
+      "stat_51": 25,
+      "stat_52": 45,
+      "stat_53": 150,
+      "weight": 206,
+      "stat_55": 300
+    },
+    "physics": {
+      "float_58": 0.0,
+      "float_59": 7.0,
+      "float_60": 25.0
+    },
+    "loadouts": [
+      {
+        "damage": 2,
+        "field2": 18,
+        "range": 180,
+        "ammo": 27
+      },
+      {
+        "damage": 38,
+        "field2": 18,
+        "range": 150,
+        "ammo": 27
+      },
+      {
+        "damage": 38,
+        "field2": 18,
+        "range": 210,
+        "ammo": 27
+      },
+      {
+        "damage": 38,
+        "field2": 0,
+        "range": 180,
+        "ammo": 3
+      },
+      {
+        "damage": 36,
+        "field2": 18,
+        "range": 180,
+        "ammo": 33
+      },
+      {
+        "damage": 44,
+        "field2": 18,
+        "range": 145,
+        "ammo": 33
+      },
+      {
+        "damage": 44,
+        "field2": 18,
+        "range": 215,
+        "ammo": 33
+      },
+      {
+        "damage": 44,
+        "field2": 18,
+        "range": 180,
+        "ammo": 40
+      },
+      {
+        "damage": 53,
+        "field2": 18,
+        "range": 145,
+        "ammo": 40
+      },
+      {
+        "damage": 53,
+        "field2": 18,
+        "range": 215,
+        "ammo": 40
+      },
+      {
+        "damage": 53,
+        "field2": 18,
+        "range": 180,
+        "ammo": 27
+      },
+      {
+        "damage": 38,
+        "field2": 18,
+        "range": 150,
+        "ammo": 25
+      },
+      {
+        "damage": 38,
+        "field2": 18,
+        "range": 210,
+        "ammo": 27
+      },
+      {
+        "damage": 38,
+        "field2": 0,
+        "range": 180,
+        "ammo": 3
+      },
+      {
+        "damage": 36,
+        "field2": 18,
+        "range": 180,
+        "ammo": 34
+      },
+      {
+        "damage": 45,
+        "field2": 18,
+        "range": 145,
+        "ammo": 34
+      },
+      {
+        "damage": 45,
+        "field2": 18,
+        "range": 215,
+        "ammo": 34
+      },
+      {
+        "damage": 45,
+        "field2": 10,
+        "range": 180,
+        "ammo": 35
+      },
+      {
+        "damage": 25,
+        "field2": 10,
+        "range": 140,
+        "ammo": 35
+      },
+      {
+        "damage": 25,
+        "field2": 10,
+        "range": 220,
+        "ammo": 35
+      },
+      {
+        "damage": 25,
+        "field2": 0,
+        "range": 0,
+        "ammo": 0
+      },
+      {
+        "damage": 1,
+        "field2": 17,
+        "range": 0,
+        "ammo": 50
+      },
+      {
+        "damage": 90,
+        "field2": 120,
+        "range": 0,
+        "ammo": 0
+      },
+      {
+        "damage": 0,
+        "field2": 0,
+        "range": 485,
+        "ammo": 0
+      }
+    ]
+  },
+  "a21": {
+    "name": "cyclops_ii",
+    "weapon_slots": [
+      {
+        "type": 3,
+        "enabled": 1
+      },
+      {
+        "type": 3,
+        "enabled": 0
+      },
+      {
+        "type": 2,
+        "enabled": 1
+      },
+      {
+        "type": 2,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 1
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 1
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 0,
+        "enabled": 0
+      },
+      {
+        "type": 0,
+        "enabled": 0
+      }
+    ],
+    "stats": {
+      "hp": 150,
+      "stat_38": 15,
+      "stat_40": 10,
+      "stat_41": 17,
+      "speed": 9,
+      "stat_43": 40,
+      "stat_44": 8,
+      "stat_45": 30,
+      "stat_46": 20,
+      "defense": 75,
+      "stat_48": 9,
+      "stat_49": 50,
+      "attack": 25,
+      "stat_51": 25,
+      "stat_52": 45,
+      "stat_53": 300,
+      "weight": 226,
+      "stat_55": 300
+    },
+    "physics": {
+      "float_58": 0.0,
+      "float_59": 7.0,
+      "float_60": 25.0
+    },
+    "loadouts": [
+      {
+        "damage": 2,
+        "field2": 18,
+        "range": 180,
+        "ammo": 27
+      },
+      {
+        "damage": 38,
+        "field2": 18,
+        "range": 150,
+        "ammo": 27
+      },
+      {
+        "damage": 38,
+        "field2": 18,
+        "range": 210,
+        "ammo": 27
+      },
+      {
+        "damage": 38,
+        "field2": 0,
+        "range": 180,
+        "ammo": 3
+      },
+      {
+        "damage": 36,
+        "field2": 18,
+        "range": 180,
+        "ammo": 33
+      },
+      {
+        "damage": 44,
+        "field2": 18,
+        "range": 145,
+        "ammo": 33
+      },
+      {
+        "damage": 44,
+        "field2": 18,
+        "range": 215,
+        "ammo": 33
+      },
+      {
+        "damage": 44,
+        "field2": 18,
+        "range": 180,
+        "ammo": 40
+      },
+      {
+        "damage": 53,
+        "field2": 18,
+        "range": 145,
+        "ammo": 40
+      },
+      {
+        "damage": 53,
+        "field2": 18,
+        "range": 215,
+        "ammo": 40
+      },
+      {
+        "damage": 53,
+        "field2": 18,
+        "range": 180,
+        "ammo": 27
+      },
+      {
+        "damage": 38,
+        "field2": 18,
+        "range": 150,
+        "ammo": 27
+      },
+      {
+        "damage": 38,
+        "field2": 18,
+        "range": 210,
+        "ammo": 27
+      },
+      {
+        "damage": 38,
+        "field2": 0,
+        "range": 180,
+        "ammo": 3
+      },
+      {
+        "damage": 36,
+        "field2": 18,
+        "range": 180,
+        "ammo": 34
+      },
+      {
+        "damage": 45,
+        "field2": 18,
+        "range": 145,
+        "ammo": 34
+      },
+      {
+        "damage": 45,
+        "field2": 18,
+        "range": 215,
+        "ammo": 34
+      },
+      {
+        "damage": 45,
+        "field2": 10,
+        "range": 180,
+        "ammo": 35
+      },
+      {
+        "damage": 25,
+        "field2": 10,
+        "range": 140,
+        "ammo": 35
+      },
+      {
+        "damage": 25,
+        "field2": 10,
+        "range": 180,
+        "ammo": 35
+      },
+      {
+        "damage": 25,
+        "field2": 0,
+        "range": 0,
+        "ammo": 0
+      },
+      {
+        "damage": 1,
+        "field2": 17,
+        "range": 0,
+        "ammo": 100
+      },
+      {
+        "damage": 0,
+        "field2": 90,
+        "range": 0,
+        "ammo": 0
+      },
+      {
+        "damage": 0,
+        "field2": 0,
+        "range": 485,
+        "ammo": 0
+      }
+    ]
+  },
+  "a24": {
+    "name": "gojulas_mkii",
+    "weapon_slots": [
+      {
+        "type": 3,
+        "enabled": 1
+      },
+      {
+        "type": 3,
+        "enabled": 0
+      },
+      {
+        "type": 2,
+        "enabled": 1
+      },
+      {
+        "type": 2,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 1
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 1
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 0,
+        "enabled": 0
+      },
+      {
+        "type": 0,
+        "enabled": 0
+      }
+    ],
+    "stats": {
+      "hp": 115,
+      "stat_38": 4,
+      "stat_40": 10,
+      "stat_41": 10,
+      "speed": 9,
+      "stat_43": 40,
+      "stat_44": 6,
+      "stat_45": 30,
+      "stat_46": 25,
+      "defense": 60,
+      "stat_48": 13,
+      "stat_49": 50,
+      "attack": 30,
+      "stat_51": 20,
+      "stat_52": 40,
+      "stat_53": 100,
+      "weight": 100,
+      "stat_55": 475
+    },
+    "physics": {
+      "float_58": 0.0,
+      "float_59": 7.0,
+      "float_60": 25.0
+    },
+    "loadouts": [
+      {
+        "damage": 3,
+        "field2": 18,
+        "range": 180,
+        "ammo": 30
+      },
+      {
+        "damage": 40,
+        "field2": 18,
+        "range": 150,
+        "ammo": 30
+      },
+      {
+        "damage": 40,
+        "field2": 18,
+        "range": 210,
+        "ammo": 30
+      },
+      {
+        "damage": 40,
+        "field2": 18,
+        "range": 180,
+        "ammo": 11
+      },
+      {
+        "damage": 40,
+        "field2": 0,
+        "range": 180,
+        "ammo": 38
+      },
+      {
+        "damage": 47,
+        "field2": 0,
+        "range": 145,
+        "ammo": 38
+      },
+      {
+        "damage": 47,
+        "field2": 0,
+        "range": 215,
+        "ammo": 38
+      },
+      {
+        "damage": 47,
+        "field2": 0,
+        "range": 180,
+        "ammo": 40
+      },
+      {
+        "damage": 56,
+        "field2": 0,
+        "range": 145,
+        "ammo": 40
+      },
+      {
+        "damage": 56,
+        "field2": 0,
+        "range": 215,
+        "ammo": 40
+      },
+      {
+        "damage": 56,
+        "field2": 18,
+        "range": 180,
+        "ammo": 30
+      },
+      {
+        "damage": 40,
+        "field2": 0,
+        "range": 150,
+        "ammo": 30
+      },
+      {
+        "damage": 40,
+        "field2": 0,
+        "range": 210,
+        "ammo": 30
+      },
+      {
+        "damage": 40,
+        "field2": 0,
+        "range": 180,
+        "ammo": 11
+      },
+      {
+        "damage": 40,
+        "field2": 0,
+        "range": 180,
+        "ammo": 39
+      },
+      {
+        "damage": 48,
+        "field2": 0,
+        "range": 145,
+        "ammo": 39
+      },
+      {
+        "damage": 48,
+        "field2": 0,
+        "range": 215,
+        "ammo": 39
+      },
+      {
+        "damage": 48,
+        "field2": 10,
+        "range": 180,
+        "ammo": 30
+      },
+      {
+        "damage": 60,
+        "field2": 10,
+        "range": 145,
+        "ammo": 30
+      },
+      {
+        "damage": 60,
+        "field2": 10,
+        "range": 220,
+        "ammo": 30
+      },
+      {
+        "damage": 60,
+        "field2": 0,
+        "range": 0,
+        "ammo": 0
+      },
+      {
+        "damage": 1,
+        "field2": 2,
+        "range": 0,
+        "ammo": 50
+      },
+      {
+        "damage": 90,
+        "field2": 120,
+        "range": 0,
+        "ammo": 0
+      },
+      {
+        "damage": 0,
+        "field2": 0,
+        "range": 506,
+        "ammo": 0
+      }
+    ]
+  },
+  "a99": {
+    "name": "unknown",
+    "weapon_slots": [
+      {
+        "type": 3,
+        "enabled": 1
+      },
+      {
+        "type": 3,
+        "enabled": 0
+      },
+      {
+        "type": 2,
+        "enabled": 1
+      },
+      {
+        "type": 2,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 1
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 1
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 0,
+        "enabled": 0
+      },
+      {
+        "type": 0,
+        "enabled": 0
+      }
+    ],
+    "stats": {
+      "hp": 120,
+      "stat_38": 20,
+      "stat_40": 0,
+      "stat_41": 15,
+      "speed": 9,
+      "stat_43": 40,
+      "stat_44": 10,
+      "stat_45": 31,
+      "stat_46": 18,
+      "defense": 71,
+      "stat_48": 12,
+      "stat_49": 400,
+      "attack": 60,
+      "stat_51": 75,
+      "stat_52": 40,
+      "stat_53": 150,
+      "weight": 150,
+      "stat_55": 0
+    },
+    "physics": {
+      "float_58": -3.4756,
+      "float_59": 9.4622,
+      "float_60": 32.0931
+    },
+    "loadouts": [
+      {
+        "damage": 4,
+        "field2": 0,
+        "range": 180,
+        "ammo": 32
+      },
+      {
+        "damage": 39,
+        "field2": 0,
+        "range": 172,
+        "ammo": 17
+      },
+      {
+        "damage": 28,
+        "field2": 0,
+        "range": 171,
+        "ammo": 14
+      },
+      {
+        "damage": 27,
+        "field2": 0,
+        "range": 204,
+        "ammo": 27
+      },
+      {
+        "damage": 30,
+        "field2": 0,
+        "range": 180,
+        "ammo": 34
+      },
+      {
+        "damage": 41,
+        "field2": 0,
+        "range": 205,
+        "ammo": 20
+      },
+      {
+        "damage": 35,
+        "field2": 0,
+        "range": 153,
+        "ammo": 15
+      },
+      {
+        "damage": 30,
+        "field2": 0,
+        "range": 180,
+        "ammo": 23
+      },
+      {
+        "damage": 43,
+        "field2": 19,
+        "range": 180,
+        "ammo": 1
+      },
+      {
+        "damage": 35,
+        "field2": 0,
+        "range": 158,
+        "ammo": 14
+      },
+      {
+        "damage": 24,
+        "field2": 0,
+        "range": 214,
+        "ammo": 32
+      },
+      {
+        "damage": 38,
+        "field2": 0,
+        "range": 153,
+        "ammo": 36
+      },
+      {
+        "damage": 40,
+        "field2": 0,
+        "range": 221,
+        "ammo": 21
+      },
+      {
+        "damage": 46,
+        "field2": 0,
+        "range": 157,
+        "ammo": 41
+      },
+      {
+        "damage": 50,
+        "field2": 0,
+        "range": 221,
+        "ammo": 68
+      },
+      {
+        "damage": 65,
+        "field2": 0,
+        "range": 148,
+        "ammo": 41
+      },
+      {
+        "damage": 63,
+        "field2": 0,
+        "range": 221,
+        "ammo": 91
+      },
+      {
+        "damage": 85,
+        "field2": 0,
+        "range": 230,
+        "ammo": 22
+      },
+      {
+        "damage": 30,
+        "field2": 0,
+        "range": 140,
+        "ammo": 25
+      },
+      {
+        "damage": 30,
+        "field2": 18,
+        "range": 180,
+        "ammo": 8
+      },
+      {
+        "damage": 36,
+        "field2": 0,
+        "range": 0,
+        "ammo": 0
+      },
+      {
+        "damage": 0,
+        "field2": 0,
+        "range": 0,
+        "ammo": 100
+      },
+      {
+        "damage": 0,
+        "field2": 90,
+        "range": 0,
+        "ammo": 0
+      },
+      {
+        "damage": 0,
+        "field2": 0,
+        "range": 250,
+        "ammo": 0
+      }
+    ]
+  },
+  "b01": {
+    "name": "molga",
+    "weapon_slots": [
+      {
+        "type": 3,
+        "enabled": 1
+      },
+      {
+        "type": 0,
+        "enabled": 0
+      },
+      {
+        "type": 2,
+        "enabled": 1
+      },
+      {
+        "type": 2,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 0,
+        "enabled": 1
+      },
+      {
+        "type": 0,
+        "enabled": 0
+      },
+      {
+        "type": 0,
+        "enabled": 1
+      },
+      {
+        "type": 0,
+        "enabled": 0
+      },
+      {
+        "type": 0,
+        "enabled": 0
+      },
+      {
+        "type": 0,
+        "enabled": 0
+      },
+      {
+        "type": 0,
+        "enabled": 0
+      },
+      {
+        "type": 0,
+        "enabled": 0
+      },
+      {
+        "type": 0,
+        "enabled": 0
+      }
+    ],
+    "stats": {
+      "hp": 80,
+      "stat_38": 5,
+      "stat_40": 0,
+      "stat_41": 12,
+      "speed": 9,
+      "stat_43": 13,
+      "stat_44": 7,
+      "stat_45": 30,
+      "stat_46": 51,
+      "defense": 40,
+      "stat_48": 25,
+      "stat_49": 60,
+      "attack": 32,
+      "stat_51": 0,
+      "stat_52": 20,
+      "stat_53": 150,
+      "weight": 150,
+      "stat_55": 96
+    },
+    "physics": {
+      "float_58": 3.9095,
+      "float_59": 0.3354,
+      "float_60": 24.2598
+    },
+    "loadouts": [
+      {
+        "damage": 3,
+        "field2": 10,
+        "range": 180,
+        "ammo": 15
+      },
+      {
+        "damage": 35,
+        "field2": 18,
+        "range": 150,
+        "ammo": 15
+      },
+      {
+        "damage": 35,
+        "field2": 18,
+        "range": 210,
+        "ammo": 15
+      },
+      {
+        "damage": 35,
+        "field2": 18,
+        "range": 180,
+        "ammo": 7
+      },
+      {
+        "damage": 35,
+        "field2": 10,
+        "range": 180,
+        "ammo": 27
+      },
+      {
+        "damage": 43,
+        "field2": 10,
+        "range": 145,
+        "ammo": 27
+      },
+      {
+        "damage": 43,
+        "field2": 10,
+        "range": 215,
+        "ammo": 27
+      },
+      {
+        "damage": 43,
+        "field2": 10,
+        "range": 180,
+        "ammo": 24
+      },
+      {
+        "damage": 52,
+        "field2": 10,
+        "range": 145,
+        "ammo": 24
+      },
+      {
+        "damage": 52,
+        "field2": 0,
+        "range": 215,
+        "ammo": 24
+      },
+      {
+        "damage": 52,
+        "field2": 10,
+        "range": 180,
+        "ammo": 15
+      },
+      {
+        "damage": 35,
+        "field2": 18,
+        "range": 150,
+        "ammo": 15
+      },
+      {
+        "damage": 35,
+        "field2": 18,
+        "range": 210,
+        "ammo": 15
+      },
+      {
+        "damage": 35,
+        "field2": 19,
+        "range": 180,
+        "ammo": 7
+      },
+      {
+        "damage": 35,
+        "field2": 10,
+        "range": 180,
+        "ammo": 27
+      },
+      {
+        "damage": 43,
+        "field2": 10,
+        "range": 145,
+        "ammo": 27
+      },
+      {
+        "damage": 43,
+        "field2": 10,
+        "range": 215,
+        "ammo": 27
+      },
+      {
+        "damage": 43,
+        "field2": 10,
+        "range": 180,
+        "ammo": 40
+      },
+      {
+        "damage": 32,
+        "field2": 10,
+        "range": 150,
+        "ammo": 40
+      },
+      {
+        "damage": 32,
+        "field2": 10,
+        "range": 210,
+        "ammo": 40
+      },
+      {
+        "damage": 32,
+        "field2": 0,
+        "range": 0,
+        "ammo": 0
+      },
+      {
+        "damage": 1,
+        "field2": 3,
+        "range": 0,
+        "ammo": 70
+      },
+      {
+        "damage": 90,
+        "field2": 120,
+        "range": 0,
+        "ammo": 0
+      },
+      {
+        "damage": 0,
+        "field2": 0,
+        "range": 490,
+        "ammo": 0
+      }
+    ]
+  },
+  "b02": {
+    "name": "zaber_fang",
+    "weapon_slots": [
+      {
+        "type": 3,
+        "enabled": 2
+      },
+      {
+        "type": 2,
+        "enabled": 1
+      },
+      {
+        "type": 2,
+        "enabled": 2
+      },
+      {
+        "type": 2,
+        "enabled": 1
+      },
+      {
+        "type": 1,
+        "enabled": 2
+      },
+      {
+        "type": 1,
+        "enabled": 1
+      },
+      {
+        "type": 1,
+        "enabled": 2
+      },
+      {
+        "type": 1,
+        "enabled": 1
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 0,
+        "enabled": 0
+      },
+      {
+        "type": 0,
+        "enabled": 0
+      }
+    ],
+    "stats": {
+      "hp": 144,
+      "stat_38": 10,
+      "stat_40": 10,
+      "stat_41": 16,
+      "speed": 9,
+      "stat_43": 40,
+      "stat_44": 5,
+      "stat_45": 40,
+      "stat_46": 15,
+      "defense": 74,
+      "stat_48": 7,
+      "stat_49": 25,
+      "attack": 10,
+      "stat_51": 20,
+      "stat_52": 55,
+      "stat_53": 130,
+      "weight": 190,
+      "stat_55": 0
+    },
+    "physics": {
+      "float_58": 0.0,
+      "float_59": 7.0,
+      "float_60": 25.0
+    },
+    "loadouts": [
+      {
+        "damage": 4,
+        "field2": 18,
+        "range": 180,
+        "ammo": 24
+      },
+      {
+        "damage": 37,
+        "field2": 18,
+        "range": 150,
+        "ammo": 24
+      },
+      {
+        "damage": 37,
+        "field2": 18,
+        "range": 210,
+        "ammo": 24
+      },
+      {
+        "damage": 37,
+        "field2": 0,
+        "range": 180,
+        "ammo": 7
+      },
+      {
+        "damage": 36,
+        "field2": 18,
+        "range": 180,
+        "ammo": 26
+      },
+      {
+        "damage": 41,
+        "field2": 18,
+        "range": 145,
+        "ammo": 26
+      },
+      {
+        "damage": 41,
+        "field2": 18,
+        "range": 215,
+        "ammo": 26
+      },
+      {
+        "damage": 41,
+        "field2": 18,
+        "range": 180,
+        "ammo": 38
+      },
+      {
+        "damage": 50,
+        "field2": 18,
+        "range": 145,
+        "ammo": 38
+      },
+      {
+        "damage": 50,
+        "field2": 18,
+        "range": 215,
+        "ammo": 38
+      },
+      {
+        "damage": 50,
+        "field2": 18,
+        "range": 180,
+        "ammo": 24
+      },
+      {
+        "damage": 37,
+        "field2": 18,
+        "range": 150,
+        "ammo": 24
+      },
+      {
+        "damage": 37,
+        "field2": 18,
+        "range": 210,
+        "ammo": 24
+      },
+      {
+        "damage": 37,
+        "field2": 18,
+        "range": 180,
+        "ammo": 7
+      },
+      {
+        "damage": 36,
+        "field2": 18,
+        "range": 180,
+        "ammo": 27
+      },
+      {
+        "damage": 42,
+        "field2": 18,
+        "range": 145,
+        "ammo": 27
+      },
+      {
+        "damage": 42,
+        "field2": 18,
+        "range": 215,
+        "ammo": 27
+      },
+      {
+        "damage": 42,
+        "field2": 10,
+        "range": 180,
+        "ammo": 30
+      },
+      {
+        "damage": 25,
+        "field2": 10,
+        "range": 140,
+        "ammo": 30
+      },
+      {
+        "damage": 25,
+        "field2": 10,
+        "range": 220,
+        "ammo": 30
+      },
+      {
+        "damage": 25,
+        "field2": 0,
+        "range": 0,
+        "ammo": 0
+      },
+      {
+        "damage": 1,
+        "field2": 18,
+        "range": 0,
+        "ammo": 60
+      },
+      {
+        "damage": 90,
+        "field2": 120,
+        "range": 0,
+        "ammo": 0
+      },
+      {
+        "damage": 0,
+        "field2": 0,
+        "range": 488,
+        "ammo": 0
+      }
+    ]
+  },
+  "b03": {
+    "name": "red_horn",
+    "weapon_slots": [
+      {
+        "type": 3,
+        "enabled": 2
+      },
+      {
+        "type": 2,
+        "enabled": 0
+      },
+      {
+        "type": 2,
+        "enabled": 2
+      },
+      {
+        "type": 2,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 2
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 2
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 0,
+        "enabled": 0
+      },
+      {
+        "type": 0,
+        "enabled": 0
+      }
+    ],
+    "stats": {
+      "hp": 126,
+      "stat_38": 7,
+      "stat_40": 10,
+      "stat_41": 11,
+      "speed": 9,
+      "stat_43": 40,
+      "stat_44": 7,
+      "stat_45": 30,
+      "stat_46": 20,
+      "defense": 63,
+      "stat_48": 8,
+      "stat_49": 40,
+      "attack": 10,
+      "stat_51": 20,
+      "stat_52": 34,
+      "stat_53": 90,
+      "weight": 100,
+      "stat_55": 300
+    },
+    "physics": {
+      "float_58": 0.0,
+      "float_59": 7.0,
+      "float_60": 25.0
+    },
+    "loadouts": [
+      {
+        "damage": 4,
+        "field2": 10,
+        "range": 180,
+        "ammo": 22
+      },
+      {
+        "damage": 39,
+        "field2": 10,
+        "range": 150,
+        "ammo": 22
+      },
+      {
+        "damage": 39,
+        "field2": 10,
+        "range": 210,
+        "ammo": 22
+      },
+      {
+        "damage": 39,
+        "field2": 18,
+        "range": 180,
+        "ammo": 10
+      },
+      {
+        "damage": 39,
+        "field2": 10,
+        "range": 180,
+        "ammo": 35
+      },
+      {
+        "damage": 47,
+        "field2": 10,
+        "range": 145,
+        "ammo": 35
+      },
+      {
+        "damage": 47,
+        "field2": 10,
+        "range": 215,
+        "ammo": 35
+      },
+      {
+        "damage": 47,
+        "field2": 10,
+        "range": 180,
+        "ammo": 35
+      },
+      {
+        "damage": 54,
+        "field2": 10,
+        "range": 145,
+        "ammo": 35
+      },
+      {
+        "damage": 54,
+        "field2": 10,
+        "range": 215,
+        "ammo": 35
+      },
+      {
+        "damage": 54,
+        "field2": 10,
+        "range": 180,
+        "ammo": 22
+      },
+      {
+        "damage": 39,
+        "field2": 10,
+        "range": 150,
+        "ammo": 22
+      },
+      {
+        "damage": 39,
+        "field2": 10,
+        "range": 210,
+        "ammo": 22
+      },
+      {
+        "damage": 39,
+        "field2": 18,
+        "range": 180,
+        "ammo": 10
+      },
+      {
+        "damage": 39,
+        "field2": 10,
+        "range": 180,
+        "ammo": 31
+      },
+      {
+        "damage": 49,
+        "field2": 10,
+        "range": 145,
+        "ammo": 31
+      },
+      {
+        "damage": 49,
+        "field2": 10,
+        "range": 215,
+        "ammo": 31
+      },
+      {
+        "damage": 49,
+        "field2": 10,
+        "range": 180,
+        "ammo": 30
+      },
+      {
+        "damage": 25,
+        "field2": 10,
+        "range": 140,
+        "ammo": 30
+      },
+      {
+        "damage": 25,
+        "field2": 10,
+        "range": 220,
+        "ammo": 30
+      },
+      {
+        "damage": 25,
+        "field2": 0,
+        "range": 0,
+        "ammo": 0
+      },
+      {
+        "damage": 0,
+        "field2": 5,
+        "range": 0,
+        "ammo": 55
+      },
+      {
+        "damage": 90,
+        "field2": 120,
+        "range": 0,
+        "ammo": 0
+      },
+      {
+        "damage": 0,
+        "field2": 0,
+        "range": 488,
+        "ammo": 0
+      }
+    ]
+  },
+  "b04": {
+    "name": "elephander",
+    "weapon_slots": [
+      {
+        "type": 1,
+        "enabled": 1
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 2,
+        "enabled": 1
+      },
+      {
+        "type": 2,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 1
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 1
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 0,
+        "enabled": 0
+      },
+      {
+        "type": 0,
+        "enabled": 0
+      }
+    ],
+    "stats": {
+      "hp": 120,
+      "stat_38": 15,
+      "stat_40": 10,
+      "stat_41": 15,
+      "speed": 9,
+      "stat_43": 40,
+      "stat_44": 10,
+      "stat_45": 31,
+      "stat_46": 18,
+      "defense": 71,
+      "stat_48": 12,
+      "stat_49": 400,
+      "attack": 40,
+      "stat_51": 20,
+      "stat_52": 0,
+      "stat_53": 0,
+      "weight": 0,
+      "stat_55": 0
+    },
+    "physics": {
+      "float_58": 0.0,
+      "float_59": 7.0,
+      "float_60": 25.0
+    },
+    "loadouts": []
+  },
+  "b05": {
+    "name": "iron_kong",
+    "weapon_slots": [
+      {
+        "type": 3,
+        "enabled": 1
+      },
+      {
+        "type": 2,
+        "enabled": 1
+      },
+      {
+        "type": 2,
+        "enabled": 1
+      },
+      {
+        "type": 2,
+        "enabled": 1
+      },
+      {
+        "type": 1,
+        "enabled": 1
+      },
+      {
+        "type": 1,
+        "enabled": 1
+      },
+      {
+        "type": 1,
+        "enabled": 1
+      },
+      {
+        "type": 1,
+        "enabled": 1
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 0,
+        "enabled": 0
+      },
+      {
+        "type": 0,
+        "enabled": 0
+      }
+    ],
+    "stats": {
+      "hp": 130,
+      "stat_38": 10,
+      "stat_40": 10,
+      "stat_41": 17,
+      "speed": 9,
+      "stat_43": 15,
+      "stat_44": 7,
+      "stat_45": 40,
+      "stat_46": 24,
+      "defense": 70,
+      "stat_48": 12,
+      "stat_49": 35,
+      "attack": 10,
+      "stat_51": 30,
+      "stat_52": 45,
+      "stat_53": 150,
+      "weight": 250,
+      "stat_55": 600
+    },
+    "physics": {
+      "float_58": 0.0,
+      "float_59": 7.0,
+      "float_60": 25.0
+    },
+    "loadouts": [
+      {
+        "damage": 4,
+        "field2": 18,
+        "range": 180,
+        "ammo": 30
+      },
+      {
+        "damage": 41,
+        "field2": 18,
+        "range": 150,
+        "ammo": 30
+      },
+      {
+        "damage": 41,
+        "field2": 18,
+        "range": 210,
+        "ammo": 30
+      },
+      {
+        "damage": 41,
+        "field2": 0,
+        "range": 204,
+        "ammo": 27
+      },
+      {
+        "damage": 30,
+        "field2": 0,
+        "range": 180,
+        "ammo": 5
+      },
+      {
+        "damage": 39,
+        "field2": 18,
+        "range": 180,
+        "ammo": 38
+      },
+      {
+        "damage": 49,
+        "field2": 18,
+        "range": 145,
+        "ammo": 38
+      },
+      {
+        "damage": 49,
+        "field2": 18,
+        "range": 215,
+        "ammo": 38
+      },
+      {
+        "damage": 49,
+        "field2": 18,
+        "range": 180,
+        "ammo": 40
+      },
+      {
+        "damage": 57,
+        "field2": 18,
+        "range": 145,
+        "ammo": 40
+      },
+      {
+        "damage": 57,
+        "field2": 18,
+        "range": 180,
+        "ammo": 30
+      },
+      {
+        "damage": 41,
+        "field2": 18,
+        "range": 150,
+        "ammo": 30
+      },
+      {
+        "damage": 41,
+        "field2": 18,
+        "range": 210,
+        "ammo": 30
+      },
+      {
+        "damage": 41,
+        "field2": 0,
+        "range": 180,
+        "ammo": 5
+      },
+      {
+        "damage": 39,
+        "field2": 18,
+        "range": 180,
+        "ammo": 39
+      },
+      {
+        "damage": 50,
+        "field2": 18,
+        "range": 145,
+        "ammo": 39
+      },
+      {
+        "damage": 50,
+        "field2": 18,
+        "range": 215,
+        "ammo": 39
+      },
+      {
+        "damage": 50,
+        "field2": 18,
+        "range": 180,
+        "ammo": 30
+      },
+      {
+        "damage": 60,
+        "field2": 18,
+        "range": 120,
+        "ammo": 30
+      },
+      {
+        "damage": 60,
+        "field2": 18,
+        "range": 240,
+        "ammo": 30
+      },
+      {
+        "damage": 60,
+        "field2": 0,
+        "range": 0,
+        "ammo": 0
+      },
+      {
+        "damage": 1,
+        "field2": 20,
+        "range": 0,
+        "ammo": 55
+      },
+      {
+        "damage": 90,
+        "field2": 120,
+        "range": 0,
+        "ammo": 0
+      },
+      {
+        "damage": 0,
+        "field2": 0,
+        "range": 480,
+        "ammo": 0
+      }
+    ]
+  },
+  "b06": {
+    "name": "lightning_saix",
+    "weapon_slots": [
+      {
+        "type": 3,
+        "enabled": 1
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 2,
+        "enabled": 1
+      },
+      {
+        "type": 2,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 1
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 1
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 0,
+        "enabled": 0
+      },
+      {
+        "type": 0,
+        "enabled": 0
+      }
+    ],
+    "stats": {
+      "hp": 180,
+      "stat_38": 10,
+      "stat_40": 10,
+      "stat_41": 18,
+      "speed": 9,
+      "stat_43": 40,
+      "stat_44": 6,
+      "stat_45": 40,
+      "stat_46": 15,
+      "defense": 95,
+      "stat_48": 7,
+      "stat_49": 15,
+      "attack": 30,
+      "stat_51": 20,
+      "stat_52": 60,
+      "stat_53": 300,
+      "weight": 131,
+      "stat_55": 400
+    },
+    "physics": {
+      "float_58": 0.0,
+      "float_59": 7.0,
+      "float_60": 25.0
+    },
+    "loadouts": [
+      {
+        "damage": 3,
+        "field2": 0,
+        "range": 180,
+        "ammo": 23
+      },
+      {
+        "damage": 37,
+        "field2": 0,
+        "range": 150,
+        "ammo": 23
+      },
+      {
+        "damage": 37,
+        "field2": 0,
+        "range": 210,
+        "ammo": 23
+      },
+      {
+        "damage": 37,
+        "field2": 0,
+        "range": 180,
+        "ammo": 7
+      },
+      {
+        "damage": 37,
+        "field2": 0,
+        "range": 180,
+        "ammo": 28
+      },
+      {
+        "damage": 43,
+        "field2": 0,
+        "range": 145,
+        "ammo": 28
+      },
+      {
+        "damage": 43,
+        "field2": 0,
+        "range": 215,
+        "ammo": 28
+      },
+      {
+        "damage": 43,
+        "field2": 0,
+        "range": 180,
+        "ammo": 33
+      },
+      {
+        "damage": 50,
+        "field2": 0,
+        "range": 145,
+        "ammo": 33
+      },
+      {
+        "damage": 50,
+        "field2": 0,
+        "range": 215,
+        "ammo": 33
+      },
+      {
+        "damage": 50,
+        "field2": 0,
+        "range": 180,
+        "ammo": 23
+      },
+      {
+        "damage": 37,
+        "field2": 0,
+        "range": 150,
+        "ammo": 23
+      },
+      {
+        "damage": 37,
+        "field2": 0,
+        "range": 210,
+        "ammo": 23
+      },
+      {
+        "damage": 37,
+        "field2": 0,
+        "range": 180,
+        "ammo": 7
+      },
+      {
+        "damage": 37,
+        "field2": 0,
+        "range": 180,
+        "ammo": 29
+      },
+      {
+        "damage": 44,
+        "field2": 0,
+        "range": 145,
+        "ammo": 29
+      },
+      {
+        "damage": 44,
+        "field2": 0,
+        "range": 215,
+        "ammo": 29
+      },
+      {
+        "damage": 44,
+        "field2": 0,
+        "range": 180,
+        "ammo": 30
+      },
+      {
+        "damage": 25,
+        "field2": 0,
+        "range": 140,
+        "ammo": 30
+      },
+      {
+        "damage": 25,
+        "field2": 0,
+        "range": 220,
+        "ammo": 30
+      },
+      {
+        "damage": 25,
+        "field2": 0,
+        "range": 0,
+        "ammo": 0
+      },
+      {
+        "damage": 0,
+        "field2": 20,
+        "range": 0,
+        "ammo": 60
+      },
+      {
+        "damage": 90,
+        "field2": 120,
+        "range": 0,
+        "ammo": 0
+      },
+      {
+        "damage": 0,
+        "field2": 0,
+        "range": 485,
+        "ammo": 0
+      }
+    ]
+  },
+  "b07": {
+    "name": "berserk_fury",
+    "weapon_slots": [
+      {
+        "type": 3,
+        "enabled": 1
+      },
+      {
+        "type": 1,
+        "enabled": 1
+      },
+      {
+        "type": 2,
+        "enabled": 1
+      },
+      {
+        "type": 2,
+        "enabled": 1
+      },
+      {
+        "type": 1,
+        "enabled": 1
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 1
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 0,
+        "enabled": 0
+      },
+      {
+        "type": 0,
+        "enabled": 0
+      }
+    ],
+    "stats": {
+      "hp": 160,
+      "stat_38": 13,
+      "stat_40": 0,
+      "stat_41": 16,
+      "speed": 10,
+      "stat_43": 40,
+      "stat_44": 6,
+      "stat_45": 50,
+      "stat_46": 19,
+      "defense": 90,
+      "stat_48": 10,
+      "stat_49": 30,
+      "attack": 45,
+      "stat_51": 50,
+      "stat_52": 40,
+      "stat_53": 150,
+      "weight": 100,
+      "stat_55": 300
+    },
+    "physics": {
+      "float_58": -8.7915,
+      "float_59": 11.6458,
+      "float_60": 35.6064
+    },
+    "loadouts": [
+      {
+        "damage": 4,
+        "field2": 18,
+        "range": 180,
+        "ammo": 29
+      },
+      {
+        "damage": 42,
+        "field2": 18,
+        "range": 150,
+        "ammo": 29
+      },
+      {
+        "damage": 42,
+        "field2": 18,
+        "range": 210,
+        "ammo": 29
+      },
+      {
+        "damage": 42,
+        "field2": 18,
+        "range": 180,
+        "ammo": 7
+      },
+      {
+        "damage": 38,
+        "field2": 18,
+        "range": 180,
+        "ammo": 35
+      },
+      {
+        "damage": 47,
+        "field2": 18,
+        "range": 145,
+        "ammo": 35
+      },
+      {
+        "damage": 47,
+        "field2": 18,
+        "range": 215,
+        "ammo": 35
+      },
+      {
+        "damage": 47,
+        "field2": 18,
+        "range": 180,
+        "ammo": 35
+      },
+      {
+        "damage": 54,
+        "field2": 18,
+        "range": 145,
+        "ammo": 35
+      },
+      {
+        "damage": 54,
+        "field2": 18,
+        "range": 215,
+        "ammo": 35
+      },
+      {
+        "damage": 54,
+        "field2": 18,
+        "range": 180,
+        "ammo": 29
+      },
+      {
+        "damage": 42,
+        "field2": 18,
+        "range": 150,
+        "ammo": 29
+      },
+      {
+        "damage": 42,
+        "field2": 18,
+        "range": 220,
+        "ammo": 29
+      },
+      {
+        "damage": 42,
+        "field2": 18,
+        "range": 180,
+        "ammo": 7
+      },
+      {
+        "damage": 39,
+        "field2": 19,
+        "range": 180,
+        "ammo": 36
+      },
+      {
+        "damage": 48,
+        "field2": 19,
+        "range": 145,
+        "ammo": 36
+      },
+      {
+        "damage": 48,
+        "field2": 19,
+        "range": 215,
+        "ammo": 36
+      },
+      {
+        "damage": 48,
+        "field2": 18,
+        "range": 180,
+        "ammo": 40
+      },
+      {
+        "damage": 25,
+        "field2": 10,
+        "range": 140,
+        "ammo": 40
+      },
+      {
+        "damage": 25,
+        "field2": 18,
+        "range": 220,
+        "ammo": 40
+      },
+      {
+        "damage": 25,
+        "field2": 0,
+        "range": 0,
+        "ammo": 0
+      },
+      {
+        "damage": 1,
+        "field2": 1,
+        "range": 0,
+        "ammo": 55
+      },
+      {
+        "damage": 90,
+        "field2": 120,
+        "range": 0,
+        "ammo": 0
+      },
+      {
+        "damage": 0,
+        "field2": 0,
+        "range": 480,
+        "ammo": 0
+      }
+    ]
+  },
+  "b08": {
+    "name": "genosaurer",
+    "weapon_slots": [
+      {
+        "type": 3,
+        "enabled": 1
+      },
+      {
+        "type": 3,
+        "enabled": 0
+      },
+      {
+        "type": 2,
+        "enabled": 1
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 1
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 1
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 0,
+        "enabled": 0
+      },
+      {
+        "type": 0,
+        "enabled": 0
+      }
+    ],
+    "stats": {
+      "hp": 140,
+      "stat_38": 10,
+      "stat_40": 10,
+      "stat_41": 17,
+      "speed": 9,
+      "stat_43": 40,
+      "stat_44": 6,
+      "stat_45": 40,
+      "stat_46": 18,
+      "defense": 72,
+      "stat_48": 12,
+      "stat_49": 30,
+      "attack": 20,
+      "stat_51": 20,
+      "stat_52": 38,
+      "stat_53": 150,
+      "weight": 120,
+      "stat_55": 300
+    },
+    "physics": {
+      "float_58": 0.0,
+      "float_59": 7.0,
+      "float_60": 25.0
+    },
+    "loadouts": [
+      {
+        "damage": 4,
+        "field2": 18,
+        "range": 180,
+        "ammo": 28
+      },
+      {
+        "damage": 40,
+        "field2": 18,
+        "range": 150,
+        "ammo": 28
+      },
+      {
+        "damage": 40,
+        "field2": 18,
+        "range": 210,
+        "ammo": 28
+      },
+      {
+        "damage": 40,
+        "field2": 18,
+        "range": 180,
+        "ammo": 10
+      },
+      {
+        "damage": 37,
+        "field2": 18,
+        "range": 180,
+        "ammo": 33
+      },
+      {
+        "damage": 45,
+        "field2": 18,
+        "range": 145,
+        "ammo": 33
+      },
+      {
+        "damage": 45,
+        "field2": 18,
+        "range": 215,
+        "ammo": 33
+      },
+      {
+        "damage": 45,
+        "field2": 18,
+        "range": 180,
+        "ammo": 38
+      },
+      {
+        "damage": 56,
+        "field2": 18,
+        "range": 145,
+        "ammo": 38
+      },
+      {
+        "damage": 56,
+        "field2": 18,
+        "range": 215,
+        "ammo": 38
+      },
+      {
+        "damage": 56,
+        "field2": 18,
+        "range": 180,
+        "ammo": 28
+      },
+      {
+        "damage": 40,
+        "field2": 18,
+        "range": 150,
+        "ammo": 28
+      },
+      {
+        "damage": 40,
+        "field2": 18,
+        "range": 210,
+        "ammo": 28
+      },
+      {
+        "damage": 40,
+        "field2": 18,
+        "range": 180,
+        "ammo": 10
+      },
+      {
+        "damage": 37,
+        "field2": 18,
+        "range": 180,
+        "ammo": 34
+      },
+      {
+        "damage": 46,
+        "field2": 18,
+        "range": 145,
+        "ammo": 34
+      },
+      {
+        "damage": 46,
+        "field2": 18,
+        "range": 215,
+        "ammo": 34
+      },
+      {
+        "damage": 46,
+        "field2": 18,
+        "range": 180,
+        "ammo": 40
+      },
+      {
+        "damage": 31,
+        "field2": 18,
+        "range": 150,
+        "ammo": 40
+      },
+      {
+        "damage": 31,
+        "field2": 18,
+        "range": 210,
+        "ammo": 40
+      },
+      {
+        "damage": 31,
+        "field2": 0,
+        "range": 0,
+        "ammo": 0
+      },
+      {
+        "damage": 1,
+        "field2": 26,
+        "range": 0,
+        "ammo": 55
+      },
+      {
+        "damage": 90,
+        "field2": 120,
+        "range": 0,
+        "ammo": 0
+      },
+      {
+        "damage": 0,
+        "field2": 0,
+        "range": 484,
+        "ammo": 0
+      }
+    ]
+  },
+  "b09": {
+    "name": "geno_breaker",
+    "weapon_slots": [
+      {
+        "type": 3,
+        "enabled": 1
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 2,
+        "enabled": 1
+      },
+      {
+        "type": 2,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 1
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 1
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 0,
+        "enabled": 0
+      },
+      {
+        "type": 0,
+        "enabled": 0
+      }
+    ],
+    "stats": {
+      "hp": 161,
+      "stat_38": 10,
+      "stat_40": 10,
+      "stat_41": 17,
+      "speed": 9,
+      "stat_43": 40,
+      "stat_44": 5,
+      "stat_45": 40,
+      "stat_46": 15,
+      "defense": 80,
+      "stat_48": 12,
+      "stat_49": 30,
+      "attack": 30,
+      "stat_51": 20,
+      "stat_52": 40,
+      "stat_53": 150,
+      "weight": 90,
+      "stat_55": 300
+    },
+    "physics": {
+      "float_58": 0.0,
+      "float_59": 7.0,
+      "float_60": 25.0
+    },
+    "loadouts": [
+      {
+        "damage": 4,
+        "field2": 18,
+        "range": 180,
+        "ammo": 28
+      },
+      {
+        "damage": 40,
+        "field2": 18,
+        "range": 150,
+        "ammo": 28
+      },
+      {
+        "damage": 40,
+        "field2": 18,
+        "range": 210,
+        "ammo": 28
+      },
+      {
+        "damage": 40,
+        "field2": 18,
+        "range": 180,
+        "ammo": 10
+      },
+      {
+        "damage": 39,
+        "field2": 18,
+        "range": 180,
+        "ammo": 33
+      },
+      {
+        "damage": 45,
+        "field2": 18,
+        "range": 145,
+        "ammo": 33
+      },
+      {
+        "damage": 45,
+        "field2": 18,
+        "range": 215,
+        "ammo": 33
+      },
+      {
+        "damage": 45,
+        "field2": 18,
+        "range": 180,
+        "ammo": 38
+      },
+      {
+        "damage": 56,
+        "field2": 18,
+        "range": 145,
+        "ammo": 38
+      },
+      {
+        "damage": 56,
+        "field2": 18,
+        "range": 215,
+        "ammo": 38
+      },
+      {
+        "damage": 56,
+        "field2": 18,
+        "range": 180,
+        "ammo": 28
+      },
+      {
+        "damage": 40,
+        "field2": 18,
+        "range": 150,
+        "ammo": 28
+      },
+      {
+        "damage": 40,
+        "field2": 18,
+        "range": 210,
+        "ammo": 28
+      },
+      {
+        "damage": 40,
+        "field2": 18,
+        "range": 180,
+        "ammo": 10
+      },
+      {
+        "damage": 39,
+        "field2": 18,
+        "range": 180,
+        "ammo": 34
+      },
+      {
+        "damage": 46,
+        "field2": 18,
+        "range": 145,
+        "ammo": 34
+      },
+      {
+        "damage": 46,
+        "field2": 18,
+        "range": 215,
+        "ammo": 34
+      },
+      {
+        "damage": 46,
+        "field2": 10,
+        "range": 180,
+        "ammo": 40
+      },
+      {
+        "damage": 31,
+        "field2": 10,
+        "range": 150,
+        "ammo": 40
+      },
+      {
+        "damage": 31,
+        "field2": 10,
+        "range": 210,
+        "ammo": 40
+      },
+      {
+        "damage": 31,
+        "field2": 0,
+        "range": 0,
+        "ammo": 0
+      },
+      {
+        "damage": 1,
+        "field2": 30,
+        "range": 0,
+        "ammo": 55
+      },
+      {
+        "damage": 90,
+        "field2": 120,
+        "range": 0,
+        "ammo": 0
+      },
+      {
+        "damage": 0,
+        "field2": 0,
+        "range": 488,
+        "ammo": 0
+      }
+    ]
+  },
+  "b12": {
+    "name": "sturm_tyran",
+    "weapon_slots": [
+      {
+        "type": 3,
+        "enabled": 1
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 2,
+        "enabled": 1
+      },
+      {
+        "type": 2,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 1
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 1
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 0,
+        "enabled": 0
+      },
+      {
+        "type": 0,
+        "enabled": 0
+      }
+    ],
+    "stats": {
+      "hp": 200,
+      "stat_38": 15,
+      "stat_40": 10,
+      "stat_41": 17,
+      "speed": 9,
+      "stat_43": 40,
+      "stat_44": 8,
+      "stat_45": 50,
+      "stat_46": 18,
+      "defense": 100,
+      "stat_48": 12,
+      "stat_49": 35,
+      "attack": 40,
+      "stat_51": 20,
+      "stat_52": 45,
+      "stat_53": 148,
+      "weight": 110,
+      "stat_55": 300
+    },
+    "physics": {
+      "float_58": 0.0,
+      "float_59": 7.0,
+      "float_60": 25.0
+    },
+    "loadouts": [
+      {
+        "damage": 4,
+        "field2": 18,
+        "range": 180,
+        "ammo": 29
+      },
+      {
+        "damage": 42,
+        "field2": 18,
+        "range": 150,
+        "ammo": 29
+      },
+      {
+        "damage": 41,
+        "field2": 18,
+        "range": 210,
+        "ammo": 29
+      },
+      {
+        "damage": 42,
+        "field2": 18,
+        "range": 180,
+        "ammo": 7
+      },
+      {
+        "damage": 41,
+        "field2": 18,
+        "range": 180,
+        "ammo": 35
+      },
+      {
+        "damage": 47,
+        "field2": 18,
+        "range": 145,
+        "ammo": 35
+      },
+      {
+        "damage": 47,
+        "field2": 18,
+        "range": 215,
+        "ammo": 35
+      },
+      {
+        "damage": 47,
+        "field2": 18,
+        "range": 180,
+        "ammo": 35
+      },
+      {
+        "damage": 54,
+        "field2": 18,
+        "range": 145,
+        "ammo": 36
+      },
+      {
+        "damage": 54,
+        "field2": 18,
+        "range": 215,
+        "ammo": 34
+      },
+      {
+        "damage": 54,
+        "field2": 18,
+        "range": 180,
+        "ammo": 29
+      },
+      {
+        "damage": 42,
+        "field2": 18,
+        "range": 150,
+        "ammo": 29
+      },
+      {
+        "damage": 42,
+        "field2": 18,
+        "range": 210,
+        "ammo": 29
+      },
+      {
+        "damage": 42,
+        "field2": 18,
+        "range": 180,
+        "ammo": 7
+      },
+      {
+        "damage": 41,
+        "field2": 19,
+        "range": 180,
+        "ammo": 36
+      },
+      {
+        "damage": 48,
+        "field2": 19,
+        "range": 150,
+        "ammo": 36
+      },
+      {
+        "damage": 48,
+        "field2": 19,
+        "range": 210,
+        "ammo": 36
+      },
+      {
+        "damage": 48,
+        "field2": 18,
+        "range": 180,
+        "ammo": 40
+      },
+      {
+        "damage": 25,
+        "field2": 18,
+        "range": 140,
+        "ammo": 40
+      },
+      {
+        "damage": 25,
+        "field2": 18,
+        "range": 220,
+        "ammo": 40
+      },
+      {
+        "damage": 25,
+        "field2": 0,
+        "range": 0,
+        "ammo": 0
+      },
+      {
+        "damage": 0,
+        "field2": 2,
+        "range": 0,
+        "ammo": 55
+      },
+      {
+        "damage": 90,
+        "field2": 120,
+        "range": 0,
+        "ammo": 0
+      },
+      {
+        "damage": 0,
+        "field2": 0,
+        "range": 482,
+        "ammo": 0
+      }
+    ]
+  },
+  "b13": {
+    "name": "dark_spiner",
+    "weapon_slots": [
+      {
+        "type": 3,
+        "enabled": 1
+      },
+      {
+        "type": 3,
+        "enabled": 0
+      },
+      {
+        "type": 2,
+        "enabled": 1
+      },
+      {
+        "type": 2,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 1
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 1
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 0,
+        "enabled": 0
+      },
+      {
+        "type": 0,
+        "enabled": 0
+      }
+    ],
+    "stats": {
+      "hp": 170,
+      "stat_38": 10,
+      "stat_40": 10,
+      "stat_41": 16,
+      "speed": 9,
+      "stat_43": 40,
+      "stat_44": 6,
+      "stat_45": 40,
+      "stat_46": 18,
+      "defense": 85,
+      "stat_48": 9,
+      "stat_49": 30,
+      "attack": 20,
+      "stat_51": 20,
+      "stat_52": 50,
+      "stat_53": 224,
+      "weight": 164,
+      "stat_55": 0
+    },
+    "physics": {
+      "float_58": 0.0,
+      "float_59": 7.0,
+      "float_60": 25.0
+    },
+    "loadouts": [
+      {
+        "damage": 4,
+        "field2": 18,
+        "range": 180,
+        "ammo": 25
+      },
+      {
+        "damage": 38,
+        "field2": 18,
+        "range": 150,
+        "ammo": 25
+      },
+      {
+        "damage": 37,
+        "field2": 18,
+        "range": 210,
+        "ammo": 25
+      },
+      {
+        "damage": 37,
+        "field2": 18,
+        "range": 180,
+        "ammo": 7
+      },
+      {
+        "damage": 38,
+        "field2": 18,
+        "range": 180,
+        "ammo": 35
+      },
+      {
+        "damage": 47,
+        "field2": 18,
+        "range": 145,
+        "ammo": 35
+      },
+      {
+        "damage": 47,
+        "field2": 18,
+        "range": 215,
+        "ammo": 35
+      },
+      {
+        "damage": 47,
+        "field2": 18,
+        "range": 180,
+        "ammo": 35
+      },
+      {
+        "damage": 54,
+        "field2": 18,
+        "range": 145,
+        "ammo": 35
+      },
+      {
+        "damage": 54,
+        "field2": 18,
+        "range": 215,
+        "ammo": 35
+      },
+      {
+        "damage": 54,
+        "field2": 18,
+        "range": 180,
+        "ammo": 25
+      },
+      {
+        "damage": 38,
+        "field2": 18,
+        "range": 150,
+        "ammo": 25
+      },
+      {
+        "damage": 38,
+        "field2": 18,
+        "range": 210,
+        "ammo": 25
+      },
+      {
+        "damage": 38,
+        "field2": 18,
+        "range": 180,
+        "ammo": 7
+      },
+      {
+        "damage": 38,
+        "field2": 18,
+        "range": 180,
+        "ammo": 36
+      },
+      {
+        "damage": 48,
+        "field2": 18,
+        "range": 145,
+        "ammo": 36
+      },
+      {
+        "damage": 48,
+        "field2": 18,
+        "range": 215,
+        "ammo": 36
+      },
+      {
+        "damage": 48,
+        "field2": 10,
+        "range": 180,
+        "ammo": 40
+      },
+      {
+        "damage": 35,
+        "field2": 10,
+        "range": 140,
+        "ammo": 40
+      },
+      {
+        "damage": 35,
+        "field2": 10,
+        "range": 220,
+        "ammo": 40
+      },
+      {
+        "damage": 35,
+        "field2": 0,
+        "range": 0,
+        "ammo": 0
+      },
+      {
+        "damage": 0,
+        "field2": 22,
+        "range": 0,
+        "ammo": 55
+      },
+      {
+        "damage": 90,
+        "field2": 120,
+        "range": 0,
+        "ammo": 0
+      },
+      {
+        "damage": 0,
+        "field2": 0,
+        "range": 483,
+        "ammo": 0
+      }
+    ]
+  },
+  "b17": {
+    "name": "death_saurer",
+    "weapon_slots": [
+      {
+        "type": 2,
+        "enabled": 2
+      },
+      {
+        "type": 2,
+        "enabled": 0
+      },
+      {
+        "type": 2,
+        "enabled": 2
+      },
+      {
+        "type": 2,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 2
+      },
+      {
+        "type": 1,
+        "enabled": 1
+      },
+      {
+        "type": 1,
+        "enabled": 2
+      },
+      {
+        "type": 0,
+        "enabled": 1
+      },
+      {
+        "type": 0,
+        "enabled": 0
+      },
+      {
+        "type": 0,
+        "enabled": 0
+      },
+      {
+        "type": 0,
+        "enabled": 0
+      },
+      {
+        "type": 0,
+        "enabled": 0
+      },
+      {
+        "type": 0,
+        "enabled": 0
+      },
+      {
+        "type": 0,
+        "enabled": 0
+      }
+    ],
+    "stats": {
+      "hp": 100,
+      "stat_38": 3,
+      "stat_40": 10,
+      "stat_41": 0,
+      "speed": 9,
+      "stat_43": 40,
+      "stat_44": 5,
+      "stat_45": 10,
+      "stat_46": 48,
+      "defense": 30,
+      "stat_48": 9,
+      "stat_49": 70,
+      "attack": 7,
+      "stat_51": 20,
+      "stat_52": 0,
+      "stat_53": 100,
+      "weight": 100,
+      "stat_55": 200
+    },
+    "physics": {
+      "float_58": 0.0,
+      "float_59": 7.0,
+      "float_60": 24.9779
+    },
+    "loadouts": [
+      {
+        "damage": 1,
+        "field2": 18,
+        "range": 180,
+        "ammo": 62
+      },
+      {
+        "damage": 50,
+        "field2": 18,
+        "range": 150,
+        "ammo": 62
+      },
+      {
+        "damage": 50,
+        "field2": 18,
+        "range": 210,
+        "ammo": 62
+      },
+      {
+        "damage": 50,
+        "field2": 18,
+        "range": 180,
+        "ammo": 6
+      },
+      {
+        "damage": 41,
+        "field2": 18,
+        "range": 180,
+        "ammo": 70
+      },
+      {
+        "damage": 60,
+        "field2": 18,
+        "range": 145,
+        "ammo": 70
+      },
+      {
+        "damage": 60,
+        "field2": 18,
+        "range": 215,
+        "ammo": 70
+      },
+      {
+        "damage": 60,
+        "field2": 18,
+        "range": 180,
+        "ammo": 75
+      },
+      {
+        "damage": 70,
+        "field2": 18,
+        "range": 145,
+        "ammo": 75
+      },
+      {
+        "damage": 70,
+        "field2": 18,
+        "range": 215,
+        "ammo": 75
+      },
+      {
+        "damage": 70,
+        "field2": 18,
+        "range": 180,
+        "ammo": 62
+      },
+      {
+        "damage": 50,
+        "field2": 18,
+        "range": 150,
+        "ammo": 62
+      },
+      {
+        "damage": 50,
+        "field2": 18,
+        "range": 210,
+        "ammo": 62
+      },
+      {
+        "damage": 50,
+        "field2": 18,
+        "range": 180,
+        "ammo": 6
+      },
+      {
+        "damage": 41,
+        "field2": 18,
+        "range": 180,
+        "ammo": 70
+      },
+      {
+        "damage": 60,
+        "field2": 18,
+        "range": 145,
+        "ammo": 70
+      },
+      {
+        "damage": 60,
+        "field2": 18,
+        "range": 215,
+        "ammo": 70
+      },
+      {
+        "damage": 60,
+        "field2": 18,
+        "range": 180,
+        "ammo": 20
+      },
+      {
+        "damage": 90,
+        "field2": 18,
+        "range": 120,
+        "ammo": 20
+      },
+      {
+        "damage": 90,
+        "field2": 18,
+        "range": 240,
+        "ammo": 20
+      },
+      {
+        "damage": 90,
+        "field2": 0,
+        "range": 0,
+        "ammo": 0
+      },
+      {
+        "damage": 1,
+        "field2": 0,
+        "range": 0,
+        "ammo": 100
+      },
+      {
+        "damage": 60,
+        "field2": 120,
+        "range": 0,
+        "ammo": 0
+      },
+      {
+        "damage": 0,
+        "field2": 0,
+        "range": 500,
+        "ammo": 0
+      }
+    ]
+  },
+  "b18": {
+    "name": "death_stinger",
+    "weapon_slots": [
+      {
+        "type": 3,
+        "enabled": 1
+      },
+      {
+        "type": 1,
+        "enabled": 1
+      },
+      {
+        "type": 2,
+        "enabled": 1
+      },
+      {
+        "type": 1,
+        "enabled": 1
+      },
+      {
+        "type": 1,
+        "enabled": 1
+      },
+      {
+        "type": 1,
+        "enabled": 1
+      },
+      {
+        "type": 1,
+        "enabled": 1
+      },
+      {
+        "type": 1,
+        "enabled": 1
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 0,
+        "enabled": 0
+      },
+      {
+        "type": 0,
+        "enabled": 0
+      }
+    ],
+    "stats": {
+      "hp": 160,
+      "stat_38": 0,
+      "stat_40": 10,
+      "stat_41": 5,
+      "speed": 9,
+      "stat_43": 40,
+      "stat_44": 4,
+      "stat_45": 40,
+      "stat_46": 31,
+      "defense": 90,
+      "stat_48": 12,
+      "stat_49": 50,
+      "attack": 5,
+      "stat_51": 5,
+      "stat_52": 120,
+      "stat_53": 100,
+      "weight": 150,
+      "stat_55": 300
+    },
+    "physics": {
+      "float_58": 0.0,
+      "float_59": 7.0,
+      "float_60": 25.0
+    },
+    "loadouts": [
+      {
+        "damage": 1,
+        "field2": 18,
+        "range": 180,
+        "ammo": 50
+      },
+      {
+        "damage": 54,
+        "field2": 18,
+        "range": 150,
+        "ammo": 50
+      },
+      {
+        "damage": 54,
+        "field2": 18,
+        "range": 210,
+        "ammo": 50
+      },
+      {
+        "damage": 54,
+        "field2": 18,
+        "range": 180,
+        "ammo": 8
+      },
+      {
+        "damage": 37,
+        "field2": 18,
+        "range": 180,
+        "ammo": 60
+      },
+      {
+        "damage": 64,
+        "field2": 18,
+        "range": 145,
+        "ammo": 60
+      },
+      {
+        "damage": 64,
+        "field2": 18,
+        "range": 215,
+        "ammo": 60
+      },
+      {
+        "damage": 64,
+        "field2": 18,
+        "range": 180,
+        "ammo": 65
+      },
+      {
+        "damage": 70,
+        "field2": 18,
+        "range": 145,
+        "ammo": 65
+      },
+      {
+        "damage": 70,
+        "field2": 18,
+        "range": 215,
+        "ammo": 65
+      },
+      {
+        "damage": 70,
+        "field2": 18,
+        "range": 180,
+        "ammo": 50
+      },
+      {
+        "damage": 54,
+        "field2": 18,
+        "range": 150,
+        "ammo": 50
+      },
+      {
+        "damage": 54,
+        "field2": 18,
+        "range": 210,
+        "ammo": 50
+      },
+      {
+        "damage": 54,
+        "field2": 18,
+        "range": 180,
+        "ammo": 8
+      },
+      {
+        "damage": 37,
+        "field2": 18,
+        "range": 180,
+        "ammo": 60
+      },
+      {
+        "damage": 64,
+        "field2": 18,
+        "range": 145,
+        "ammo": 60
+      },
+      {
+        "damage": 64,
+        "field2": 18,
+        "range": 215,
+        "ammo": 60
+      },
+      {
+        "damage": 64,
+        "field2": 18,
+        "range": 180,
+        "ammo": 35
+      },
+      {
+        "damage": 90,
+        "field2": 18,
+        "range": 120,
+        "ammo": 35
+      },
+      {
+        "damage": 90,
+        "field2": 18,
+        "range": 240,
+        "ammo": 35
+      },
+      {
+        "damage": 90,
+        "field2": 0,
+        "range": 0,
+        "ammo": 0
+      },
+      {
+        "damage": 0,
+        "field2": 5,
+        "range": 0,
+        "ammo": 51
+      },
+      {
+        "damage": 90,
+        "field2": 120,
+        "range": 0,
+        "ammo": 0
+      },
+      {
+        "damage": 0,
+        "field2": 0,
+        "range": 500,
+        "ammo": 0
+      }
+    ]
+  },
+  "b19": {
+    "name": "diablo_tiger",
+    "weapon_slots": [
+      {
+        "type": 3,
+        "enabled": 1
+      },
+      {
+        "type": 3,
+        "enabled": 0
+      },
+      {
+        "type": 2,
+        "enabled": 1
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 1
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 1
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 0,
+        "enabled": 0
+      },
+      {
+        "type": 0,
+        "enabled": 0
+      }
+    ],
+    "stats": {
+      "hp": 400,
+      "stat_38": 15,
+      "stat_40": 10,
+      "stat_41": 23,
+      "speed": 9,
+      "stat_43": 40,
+      "stat_44": 5,
+      "stat_45": 40,
+      "stat_46": 12,
+      "defense": 95,
+      "stat_48": 3,
+      "stat_49": 30,
+      "attack": 20,
+      "stat_51": 20,
+      "stat_52": 70,
+      "stat_53": 224,
+      "weight": 324,
+      "stat_55": 0
+    },
+    "physics": {
+      "float_58": 0.0,
+      "float_59": 7.0,
+      "float_60": 25.0
+    },
+    "loadouts": [
+      {
+        "damage": 4,
+        "field2": 18,
+        "range": 180,
+        "ammo": 21
+      },
+      {
+        "damage": 37,
+        "field2": 18,
+        "range": 150,
+        "ammo": 21
+      },
+      {
+        "damage": 37,
+        "field2": 18,
+        "range": 210,
+        "ammo": 21
+      },
+      {
+        "damage": 37,
+        "field2": 18,
+        "range": 180,
+        "ammo": 7
+      },
+      {
+        "damage": 37,
+        "field2": 18,
+        "range": 180,
+        "ammo": 30
+      },
+      {
+        "damage": 43,
+        "field2": 18,
+        "range": 145,
+        "ammo": 30
+      },
+      {
+        "damage": 43,
+        "field2": 18,
+        "range": 215,
+        "ammo": 30
+      },
+      {
+        "damage": 43,
+        "field2": 18,
+        "range": 180,
+        "ammo": 38
+      },
+      {
+        "damage": 50,
+        "field2": 18,
+        "range": 145,
+        "ammo": 38
+      },
+      {
+        "damage": 50,
+        "field2": 18,
+        "range": 215,
+        "ammo": 38
+      },
+      {
+        "damage": 50,
+        "field2": 18,
+        "range": 180,
+        "ammo": 21
+      },
+      {
+        "damage": 37,
+        "field2": 18,
+        "range": 150,
+        "ammo": 21
+      },
+      {
+        "damage": 37,
+        "field2": 18,
+        "range": 210,
+        "ammo": 21
+      },
+      {
+        "damage": 37,
+        "field2": 18,
+        "range": 180,
+        "ammo": 7
+      },
+      {
+        "damage": 37,
+        "field2": 18,
+        "range": 180,
+        "ammo": 31
+      },
+      {
+        "damage": 44,
+        "field2": 18,
+        "range": 145,
+        "ammo": 31
+      },
+      {
+        "damage": 44,
+        "field2": 18,
+        "range": 215,
+        "ammo": 31
+      },
+      {
+        "damage": 44,
+        "field2": 10,
+        "range": 180,
+        "ammo": 30
+      },
+      {
+        "damage": 25,
+        "field2": 10,
+        "range": 140,
+        "ammo": 30
+      },
+      {
+        "damage": 25,
+        "field2": 10,
+        "range": 220,
+        "ammo": 30
+      },
+      {
+        "damage": 25,
+        "field2": 0,
+        "range": 0,
+        "ammo": 0
+      },
+      {
+        "damage": 0,
+        "field2": 22,
+        "range": 0,
+        "ammo": 60
+      },
+      {
+        "damage": 90,
+        "field2": 120,
+        "range": 0,
+        "ammo": 0
+      },
+      {
+        "damage": 0,
+        "field2": 0,
+        "range": 486,
+        "ammo": 0
+      }
+    ]
+  },
+  "b20": {
+    "name": "diablo_tiger_b",
+    "weapon_slots": [
+      {
+        "type": 3,
+        "enabled": 1
+      },
+      {
+        "type": 3,
+        "enabled": 0
+      },
+      {
+        "type": 2,
+        "enabled": 1
+      },
+      {
+        "type": 2,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 1
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 1
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 0,
+        "enabled": 0
+      },
+      {
+        "type": 0,
+        "enabled": 0
+      }
+    ],
+    "stats": {
+      "hp": 380,
+      "stat_38": 15,
+      "stat_40": 13,
+      "stat_41": 24,
+      "speed": 9,
+      "stat_43": 40,
+      "stat_44": 5,
+      "stat_45": 40,
+      "stat_46": 12,
+      "defense": 120,
+      "stat_48": 3,
+      "stat_49": 30,
+      "attack": 20,
+      "stat_51": 20,
+      "stat_52": 70,
+      "stat_53": 224,
+      "weight": 319,
+      "stat_55": 300
+    },
+    "physics": {
+      "float_58": 0.0,
+      "float_59": 7.0,
+      "float_60": 25.0
+    },
+    "loadouts": [
+      {
+        "damage": 4,
+        "field2": 18,
+        "range": 180,
+        "ammo": 21
+      },
+      {
+        "damage": 37,
+        "field2": 18,
+        "range": 150,
+        "ammo": 21
+      },
+      {
+        "damage": 37,
+        "field2": 18,
+        "range": 210,
+        "ammo": 21
+      },
+      {
+        "damage": 37,
+        "field2": 18,
+        "range": 180,
+        "ammo": 7
+      },
+      {
+        "damage": 37,
+        "field2": 18,
+        "range": 180,
+        "ammo": 30
+      },
+      {
+        "damage": 43,
+        "field2": 18,
+        "range": 145,
+        "ammo": 30
+      },
+      {
+        "damage": 43,
+        "field2": 18,
+        "range": 215,
+        "ammo": 30
+      },
+      {
+        "damage": 43,
+        "field2": 18,
+        "range": 180,
+        "ammo": 38
+      },
+      {
+        "damage": 50,
+        "field2": 18,
+        "range": 145,
+        "ammo": 38
+      },
+      {
+        "damage": 50,
+        "field2": 18,
+        "range": 215,
+        "ammo": 38
+      },
+      {
+        "damage": 50,
+        "field2": 18,
+        "range": 180,
+        "ammo": 21
+      },
+      {
+        "damage": 37,
+        "field2": 18,
+        "range": 150,
+        "ammo": 21
+      },
+      {
+        "damage": 37,
+        "field2": 18,
+        "range": 215,
+        "ammo": 21
+      },
+      {
+        "damage": 37,
+        "field2": 18,
+        "range": 180,
+        "ammo": 7
+      },
+      {
+        "damage": 37,
+        "field2": 18,
+        "range": 180,
+        "ammo": 31
+      },
+      {
+        "damage": 41,
+        "field2": 18,
+        "range": 145,
+        "ammo": 31
+      },
+      {
+        "damage": 41,
+        "field2": 18,
+        "range": 215,
+        "ammo": 31
+      },
+      {
+        "damage": 41,
+        "field2": 10,
+        "range": 180,
+        "ammo": 30
+      },
+      {
+        "damage": 25,
+        "field2": 10,
+        "range": 140,
+        "ammo": 30
+      },
+      {
+        "damage": 25,
+        "field2": 10,
+        "range": 220,
+        "ammo": 30
+      },
+      {
+        "damage": 25,
+        "field2": 0,
+        "range": 0,
+        "ammo": 0
+      },
+      {
+        "damage": 0,
+        "field2": 22,
+        "range": 0,
+        "ammo": 60
+      },
+      {
+        "damage": 90,
+        "field2": 120,
+        "range": 0,
+        "ammo": 0
+      },
+      {
+        "damage": 0,
+        "field2": 0,
+        "range": 486,
+        "ammo": 0
+      }
+    ]
+  },
+  "b21": {
+    "name": "rev_raptor",
+    "weapon_slots": [
+      {
+        "type": 3,
+        "enabled": 1
+      },
+      {
+        "type": 2,
+        "enabled": 1
+      },
+      {
+        "type": 2,
+        "enabled": 1
+      },
+      {
+        "type": 2,
+        "enabled": 1
+      },
+      {
+        "type": 1,
+        "enabled": 2
+      },
+      {
+        "type": 1,
+        "enabled": 1
+      },
+      {
+        "type": 1,
+        "enabled": 2
+      },
+      {
+        "type": 1,
+        "enabled": 1
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 0,
+        "enabled": 0
+      },
+      {
+        "type": 0,
+        "enabled": 0
+      }
+    ],
+    "stats": {
+      "hp": 130,
+      "stat_38": 10,
+      "stat_40": 10,
+      "stat_41": 23,
+      "speed": 9,
+      "stat_43": 40,
+      "stat_44": 6,
+      "stat_45": 40,
+      "stat_46": 12,
+      "defense": 70,
+      "stat_48": 5,
+      "stat_49": 40,
+      "attack": 20,
+      "stat_51": 20,
+      "stat_52": 55,
+      "stat_53": 240,
+      "weight": 208,
+      "stat_55": 0
+    },
+    "physics": {
+      "float_58": 0.0,
+      "float_59": 7.0,
+      "float_60": 25.0
+    },
+    "loadouts": [
+      {
+        "damage": 4,
+        "field2": 18,
+        "range": 180,
+        "ammo": 16
+      },
+      {
+        "damage": 36,
+        "field2": 18,
+        "range": 150,
+        "ammo": 16
+      },
+      {
+        "damage": 36,
+        "field2": 18,
+        "range": 210,
+        "ammo": 16
+      },
+      {
+        "damage": 36,
+        "field2": 18,
+        "range": 180,
+        "ammo": 9
+      },
+      {
+        "damage": 36,
+        "field2": 18,
+        "range": 180,
+        "ammo": 21
+      },
+      {
+        "damage": 40,
+        "field2": 18,
+        "range": 145,
+        "ammo": 21
+      },
+      {
+        "damage": 40,
+        "field2": 18,
+        "range": 215,
+        "ammo": 21
+      },
+      {
+        "damage": 40,
+        "field2": 18,
+        "range": 180,
+        "ammo": 27
+      },
+      {
+        "damage": 48,
+        "field2": 18,
+        "range": 145,
+        "ammo": 27
+      },
+      {
+        "damage": 48,
+        "field2": 18,
+        "range": 215,
+        "ammo": 28
+      },
+      {
+        "damage": 48,
+        "field2": 18,
+        "range": 180,
+        "ammo": 16
+      },
+      {
+        "damage": 36,
+        "field2": 18,
+        "range": 150,
+        "ammo": 16
+      },
+      {
+        "damage": 36,
+        "field2": 18,
+        "range": 210,
+        "ammo": 16
+      },
+      {
+        "damage": 36,
+        "field2": 18,
+        "range": 180,
+        "ammo": 9
+      },
+      {
+        "damage": 36,
+        "field2": 18,
+        "range": 180,
+        "ammo": 22
+      },
+      {
+        "damage": 41,
+        "field2": 18,
+        "range": 145,
+        "ammo": 22
+      },
+      {
+        "damage": 41,
+        "field2": 22,
+        "range": 215,
+        "ammo": 22
+      },
+      {
+        "damage": 41,
+        "field2": 10,
+        "range": 180,
+        "ammo": 40
+      },
+      {
+        "damage": 31,
+        "field2": 18,
+        "range": 150,
+        "ammo": 30
+      },
+      {
+        "damage": 31,
+        "field2": 18,
+        "range": 210,
+        "ammo": 30
+      },
+      {
+        "damage": 31,
+        "field2": 0,
+        "range": 0,
+        "ammo": 0
+      },
+      {
+        "damage": 0,
+        "field2": 12,
+        "range": 0,
+        "ammo": 65
+      },
+      {
+        "damage": 90,
+        "field2": 120,
+        "range": 0,
+        "ammo": 0
+      },
+      {
+        "damage": 0,
+        "field2": 0,
+        "range": 480,
+        "ammo": 0
+      }
+    ]
+  },
+  "b25": {
+    "name": "psycho_genosaurer",
+    "weapon_slots": [
+      {
+        "type": 3,
+        "enabled": 1
+      },
+      {
+        "type": 3,
+        "enabled": 0
+      },
+      {
+        "type": 2,
+        "enabled": 1
+      },
+      {
+        "type": 2,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 1
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 1
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 0,
+        "enabled": 0
+      },
+      {
+        "type": 0,
+        "enabled": 0
+      }
+    ],
+    "stats": {
+      "hp": 148,
+      "stat_38": 10,
+      "stat_40": 10,
+      "stat_41": 17,
+      "speed": 9,
+      "stat_43": 40,
+      "stat_44": 6,
+      "stat_45": 40,
+      "stat_46": 18,
+      "defense": 74,
+      "stat_48": 12,
+      "stat_49": 30,
+      "attack": 20,
+      "stat_51": 20,
+      "stat_52": 38,
+      "stat_53": 180,
+      "weight": 140,
+      "stat_55": 300
+    },
+    "physics": {
+      "float_58": 0.0,
+      "float_59": 7.0,
+      "float_60": 25.0
+    },
+    "loadouts": [
+      {
+        "damage": 4,
+        "field2": 18,
+        "range": 180,
+        "ammo": 28
+      },
+      {
+        "damage": 40,
+        "field2": 18,
+        "range": 150,
+        "ammo": 28
+      },
+      {
+        "damage": 40,
+        "field2": 18,
+        "range": 210,
+        "ammo": 28
+      },
+      {
+        "damage": 40,
+        "field2": 18,
+        "range": 180,
+        "ammo": 10
+      },
+      {
+        "damage": 37,
+        "field2": 18,
+        "range": 180,
+        "ammo": 33
+      },
+      {
+        "damage": 45,
+        "field2": 18,
+        "range": 145,
+        "ammo": 33
+      },
+      {
+        "damage": 45,
+        "field2": 18,
+        "range": 215,
+        "ammo": 33
+      },
+      {
+        "damage": 45,
+        "field2": 18,
+        "range": 180,
+        "ammo": 38
+      },
+      {
+        "damage": 56,
+        "field2": 18,
+        "range": 145,
+        "ammo": 38
+      },
+      {
+        "damage": 56,
+        "field2": 18,
+        "range": 215,
+        "ammo": 38
+      },
+      {
+        "damage": 56,
+        "field2": 18,
+        "range": 180,
+        "ammo": 28
+      },
+      {
+        "damage": 40,
+        "field2": 18,
+        "range": 150,
+        "ammo": 28
+      },
+      {
+        "damage": 40,
+        "field2": 18,
+        "range": 210,
+        "ammo": 28
+      },
+      {
+        "damage": 40,
+        "field2": 18,
+        "range": 180,
+        "ammo": 10
+      },
+      {
+        "damage": 37,
+        "field2": 18,
+        "range": 180,
+        "ammo": 34
+      },
+      {
+        "damage": 46,
+        "field2": 18,
+        "range": 145,
+        "ammo": 34
+      },
+      {
+        "damage": 46,
+        "field2": 18,
+        "range": 215,
+        "ammo": 34
+      },
+      {
+        "damage": 46,
+        "field2": 18,
+        "range": 180,
+        "ammo": 40
+      },
+      {
+        "damage": 31,
+        "field2": 18,
+        "range": 150,
+        "ammo": 40
+      },
+      {
+        "damage": 31,
+        "field2": 18,
+        "range": 210,
+        "ammo": 40
+      },
+      {
+        "damage": 31,
+        "field2": 0,
+        "range": 0,
+        "ammo": 0
+      },
+      {
+        "damage": 0,
+        "field2": 26,
+        "range": 0,
+        "ammo": 55
+      },
+      {
+        "damage": 90,
+        "field2": 120,
+        "range": 0,
+        "ammo": 0
+      },
+      {
+        "damage": 0,
+        "field2": 0,
+        "range": 484,
+        "ammo": 0
+      }
+    ]
+  },
+  "b26": {
+    "name": "iron_kong_pk",
+    "weapon_slots": [
+      {
+        "type": 3,
+        "enabled": 1
+      },
+      {
+        "type": 2,
+        "enabled": 1
+      },
+      {
+        "type": 2,
+        "enabled": 1
+      },
+      {
+        "type": 2,
+        "enabled": 1
+      },
+      {
+        "type": 1,
+        "enabled": 1
+      },
+      {
+        "type": 1,
+        "enabled": 1
+      },
+      {
+        "type": 1,
+        "enabled": 1
+      },
+      {
+        "type": 1,
+        "enabled": 1
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 0,
+        "enabled": 0
+      },
+      {
+        "type": 0,
+        "enabled": 0
+      }
+    ],
+    "stats": {
+      "hp": 135,
+      "stat_38": 10,
+      "stat_40": 10,
+      "stat_41": 17,
+      "speed": 9,
+      "stat_43": 40,
+      "stat_44": 8,
+      "stat_45": 40,
+      "stat_46": 18,
+      "defense": 70,
+      "stat_48": 12,
+      "stat_49": 35,
+      "attack": 15,
+      "stat_51": 15,
+      "stat_52": 45,
+      "stat_53": 180,
+      "weight": 268,
+      "stat_55": 580
+    },
+    "physics": {
+      "float_58": 0.0,
+      "float_59": 7.0,
+      "float_60": 25.0
+    },
+    "loadouts": [
+      {
+        "damage": 4,
+        "field2": 18,
+        "range": 180,
+        "ammo": 30
+      },
+      {
+        "damage": 41,
+        "field2": 18,
+        "range": 150,
+        "ammo": 30
+      },
+      {
+        "damage": 41,
+        "field2": 18,
+        "range": 210,
+        "ammo": 30
+      },
+      {
+        "damage": 40,
+        "field2": 0,
+        "range": 180,
+        "ammo": 5
+      },
+      {
+        "damage": 39,
+        "field2": 18,
+        "range": 180,
+        "ammo": 38
+      },
+      {
+        "damage": 49,
+        "field2": 18,
+        "range": 145,
+        "ammo": 38
+      },
+      {
+        "damage": 49,
+        "field2": 18,
+        "range": 215,
+        "ammo": 38
+      },
+      {
+        "damage": 49,
+        "field2": 18,
+        "range": 180,
+        "ammo": 40
+      },
+      {
+        "damage": 57,
+        "field2": 18,
+        "range": 145,
+        "ammo": 40
+      },
+      {
+        "damage": 57,
+        "field2": 18,
+        "range": 215,
+        "ammo": 40
+      },
+      {
+        "damage": 57,
+        "field2": 18,
+        "range": 180,
+        "ammo": 30
+      },
+      {
+        "damage": 41,
+        "field2": 18,
+        "range": 150,
+        "ammo": 30
+      },
+      {
+        "damage": 41,
+        "field2": 18,
+        "range": 210,
+        "ammo": 30
+      },
+      {
+        "damage": 41,
+        "field2": 0,
+        "range": 180,
+        "ammo": 5
+      },
+      {
+        "damage": 39,
+        "field2": 18,
+        "range": 180,
+        "ammo": 39
+      },
+      {
+        "damage": 50,
+        "field2": 18,
+        "range": 145,
+        "ammo": 39
+      },
+      {
+        "damage": 50,
+        "field2": 18,
+        "range": 215,
+        "ammo": 39
+      },
+      {
+        "damage": 51,
+        "field2": 18,
+        "range": 180,
+        "ammo": 30
+      },
+      {
+        "damage": 60,
+        "field2": 18,
+        "range": 120,
+        "ammo": 30
+      },
+      {
+        "damage": 60,
+        "field2": 18,
+        "range": 240,
+        "ammo": 30
+      },
+      {
+        "damage": 60,
+        "field2": 0,
+        "range": 0,
+        "ammo": 0
+      },
+      {
+        "damage": 1,
+        "field2": 25,
+        "range": 0,
+        "ammo": 55
+      },
+      {
+        "damage": 90,
+        "field2": 120,
+        "range": 0,
+        "ammo": 0
+      },
+      {
+        "damage": 0,
+        "field2": 0,
+        "range": 490,
+        "ammo": 0
+      }
+    ]
+  },
+  "b27": {
+    "name": "green_horn",
+    "weapon_slots": [
+      {
+        "type": 3,
+        "enabled": 2
+      },
+      {
+        "type": 2,
+        "enabled": 0
+      },
+      {
+        "type": 2,
+        "enabled": 2
+      },
+      {
+        "type": 2,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 2
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 2
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 1,
+        "enabled": 0
+      },
+      {
+        "type": 0,
+        "enabled": 0
+      },
+      {
+        "type": 0,
+        "enabled": 0
+      }
+    ],
+    "stats": {
+      "hp": 130,
+      "stat_38": 7,
+      "stat_40": 10,
+      "stat_41": 12,
+      "speed": 9,
+      "stat_43": 40,
+      "stat_44": 7,
+      "stat_45": 30,
+      "stat_46": 20,
+      "defense": 65,
+      "stat_48": 8,
+      "stat_49": 40,
+      "attack": 10,
+      "stat_51": 20,
+      "stat_52": 35,
+      "stat_53": 100,
+      "weight": 100,
+      "stat_55": 300
+    },
+    "physics": {
+      "float_58": 0.0,
+      "float_59": 7.0,
+      "float_60": 25.0
+    },
+    "loadouts": [
+      {
+        "damage": 4,
+        "field2": 10,
+        "range": 180,
+        "ammo": 22
+      },
+      {
+        "damage": 39,
+        "field2": 10,
+        "range": 150,
+        "ammo": 22
+      },
+      {
+        "damage": 39,
+        "field2": 10,
+        "range": 210,
+        "ammo": 22
+      },
+      {
+        "damage": 39,
+        "field2": 18,
+        "range": 180,
+        "ammo": 10
+      },
+      {
+        "damage": 39,
+        "field2": 10,
+        "range": 180,
+        "ammo": 30
+      },
+      {
+        "damage": 48,
+        "field2": 10,
+        "range": 145,
+        "ammo": 30
+      },
+      {
+        "damage": 48,
+        "field2": 10,
+        "range": 215,
+        "ammo": 30
+      },
+      {
+        "damage": 48,
+        "field2": 10,
+        "range": 180,
+        "ammo": 34
+      },
+      {
+        "damage": 55,
+        "field2": 10,
+        "range": 145,
+        "ammo": 34
+      },
+      {
+        "damage": 55,
+        "field2": 10,
+        "range": 215,
+        "ammo": 34
+      },
+      {
+        "damage": 55,
+        "field2": 10,
+        "range": 180,
+        "ammo": 22
+      },
+      {
+        "damage": 39,
+        "field2": 10,
+        "range": 150,
+        "ammo": 22
+      },
+      {
+        "damage": 39,
+        "field2": 10,
+        "range": 210,
+        "ammo": 22
+      },
+      {
+        "damage": 39,
+        "field2": 18,
+        "range": 180,
+        "ammo": 10
+      },
+      {
+        "damage": 39,
+        "field2": 10,
+        "range": 180,
+        "ammo": 31
+      },
+      {
+        "damage": 49,
+        "field2": 10,
+        "range": 145,
+        "ammo": 31
+      },
+      {
+        "damage": 49,
+        "field2": 10,
+        "range": 215,
+        "ammo": 31
+      },
+      {
+        "damage": 49,
+        "field2": 10,
+        "range": 180,
+        "ammo": 30
+      },
+      {
+        "damage": 25,
+        "field2": 10,
+        "range": 140,
+        "ammo": 30
+      },
+      {
+        "damage": 25,
+        "field2": 10,
+        "range": 220,
+        "ammo": 30
+      },
+      {
+        "damage": 25,
+        "field2": 0,
+        "range": 0,
+        "ammo": 0
+      },
+      {
+        "damage": 0,
+        "field2": 10,
+        "range": 0,
+        "ammo": 50
+      },
+      {
+        "damage": 90,
+        "field2": 120,
+        "range": 0,
+        "ammo": 0
+      },
+      {
+        "damage": 0,
+        "field2": 0,
+        "range": 484,
+        "ammo": 0
+      }
+    ]
+  }
+}

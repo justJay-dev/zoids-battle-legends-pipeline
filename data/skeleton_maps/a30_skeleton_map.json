@@ -1,0 +1,598 @@
+{
+  "rest_pose_count": 31,
+  "model_joint_count": 122,
+  "links": [
+    {
+      "rest_joint": 33,
+      "link_type": "child",
+      "model_offset": 181972,
+      "model_dfs_idx": 107,
+      "model_name": ""
+    },
+    {
+      "rest_joint": 35,
+      "link_type": "child",
+      "model_offset": 183124,
+      "model_dfs_idx": 119,
+      "model_name": ""
+    },
+    {
+      "rest_joint": 36,
+      "link_type": "sibling",
+      "model_offset": 178824,
+      "model_dfs_idx": 70,
+      "model_name": "a30_R_HAND_joint"
+    },
+    {
+      "rest_joint": 37,
+      "link_type": "child",
+      "model_offset": 175660,
+      "model_dfs_idx": 35,
+      "model_name": "a30_BUST1_joint"
+    },
+    {
+      "rest_joint": 37,
+      "link_type": "sibling",
+      "model_offset": 176692,
+      "model_dfs_idx": 47,
+      "model_name": "a30_NECK1_joint"
+    },
+    {
+      "rest_joint": 39,
+      "link_type": "child",
+      "model_offset": 181848,
+      "model_dfs_idx": 106,
+      "model_name": "a30_TEAL1_joint"
+    },
+    {
+      "rest_joint": 44,
+      "link_type": "child",
+      "model_offset": 178136,
+      "model_dfs_idx": 63,
+      "model_name": ""
+    },
+    {
+      "rest_joint": 67,
+      "link_type": "sibling",
+      "model_offset": 182752,
+      "model_dfs_idx": 116,
+      "model_name": ""
+    },
+    {
+      "rest_joint": 70,
+      "link_type": "child",
+      "model_offset": 180804,
+      "model_dfs_idx": 94,
+      "model_name": "a30_R_LEG1_joint"
+    },
+    {
+      "rest_joint": 70,
+      "link_type": "sibling",
+      "model_offset": 179884,
+      "model_dfs_idx": 83,
+      "model_name": "a30_L_LEG2_joint"
+    },
+    {
+      "rest_joint": 72,
+      "link_type": "child",
+      "model_offset": 176692,
+      "model_dfs_idx": 47,
+      "model_name": "a30_NECK1_joint"
+    },
+    {
+      "rest_joint": 73,
+      "link_type": "sibling",
+      "model_offset": 176944,
+      "model_dfs_idx": 50,
+      "model_name": "a30_HEAD1_joint"
+    },
+    {
+      "rest_joint": 80,
+      "link_type": "sibling",
+      "model_offset": 180136,
+      "model_dfs_idx": 86,
+      "model_name": ""
+    },
+    {
+      "rest_joint": 83,
+      "link_type": "child",
+      "model_offset": 180928,
+      "model_dfs_idx": 95,
+      "model_name": "a30_R_LEG2_joint"
+    },
+    {
+      "rest_joint": 86,
+      "link_type": "child",
+      "model_offset": 178448,
+      "model_dfs_idx": 66,
+      "model_name": "a30_R_ARM1_joint"
+    },
+    {
+      "rest_joint": 87,
+      "link_type": "sibling",
+      "model_offset": 181972,
+      "model_dfs_idx": 107,
+      "model_name": ""
+    },
+    {
+      "rest_joint": 89,
+      "link_type": "sibling",
+      "model_offset": 178824,
+      "model_dfs_idx": 70,
+      "model_name": "a30_R_HAND_joint"
+    },
+    {
+      "rest_joint": 93,
+      "link_type": "sibling",
+      "model_offset": 173492,
+      "model_dfs_idx": 3,
+      "model_name": ""
+    },
+    {
+      "rest_joint": 100,
+      "link_type": "child",
+      "model_offset": 174604,
+      "model_dfs_idx": 20,
+      "model_name": "a30_L_spip_joint"
+    },
+    {
+      "rest_joint": 101,
+      "link_type": "sibling",
+      "model_offset": 174872,
+      "model_dfs_idx": 24,
+      "model_name": "a30_buckle_joint"
+    },
+    {
+      "rest_joint": 104,
+      "link_type": "sibling",
+      "model_offset": 183300,
+      "model_dfs_idx": 121,
+      "model_name": "a30_a_1_joint"
+    },
+    {
+      "rest_joint": 105,
+      "link_type": "sibling",
+      "model_offset": 175660,
+      "model_dfs_idx": 35,
+      "model_name": "a30_BUST1_joint"
+    },
+    {
+      "rest_joint": 108,
+      "link_type": "child",
+      "model_offset": 175912,
+      "model_dfs_idx": 38,
+      "model_name": "a30_L_ARM1_joint"
+    },
+    {
+      "rest_joint": 113,
+      "link_type": "child",
+      "model_offset": 174604,
+      "model_dfs_idx": 20,
+      "model_name": "a30_L_spip_joint"
+    },
+    {
+      "rest_joint": 115,
+      "link_type": "sibling",
+      "model_offset": 176756,
+      "model_dfs_idx": 48,
+      "model_name": "a30_c_neck_joint"
+    },
+    {
+      "rest_joint": 117,
+      "link_type": "child",
+      "model_offset": 177068,
+      "model_dfs_idx": 51,
+      "model_name": ""
+    },
+    {
+      "rest_joint": 120,
+      "link_type": "child",
+      "model_offset": 177548,
+      "model_dfs_idx": 57,
+      "model_name": "a30_mtp_9_joint"
+    },
+    {
+      "rest_joint": 124,
+      "link_type": "sibling",
+      "model_offset": 178260,
+      "model_dfs_idx": 64,
+      "model_name": ""
+    },
+    {
+      "rest_joint": 128,
+      "link_type": "sibling",
+      "model_offset": 178700,
+      "model_dfs_idx": 69,
+      "model_name": ""
+    },
+    {
+      "rest_joint": 134,
+      "link_type": "child",
+      "model_offset": 179244,
+      "model_dfs_idx": 76,
+      "model_name": "a30_mtp_2_joint"
+    },
+    {
+      "rest_joint": 137,
+      "link_type": "child",
+      "model_offset": 179508,
+      "model_dfs_idx": 79,
+      "model_name": "a30_HIP1_joint"
+    },
+    {
+      "rest_joint": 138,
+      "link_type": "sibling",
+      "model_offset": 179572,
+      "model_dfs_idx": 80,
+      "model_name": "a30_c_hip_joint"
+    },
+    {
+      "rest_joint": 145,
+      "link_type": "child",
+      "model_offset": 180400,
+      "model_dfs_idx": 89,
+      "model_name": ""
+    }
+  ],
+  "rest_joint_to_model": {
+    "33": [
+      {
+        "rest_joint": 33,
+        "link_type": "child",
+        "model_offset": 181972,
+        "model_dfs_idx": 107,
+        "model_name": ""
+      }
+    ],
+    "35": [
+      {
+        "rest_joint": 35,
+        "link_type": "child",
+        "model_offset": 183124,
+        "model_dfs_idx": 119,
+        "model_name": ""
+      }
+    ],
+    "36": [
+      {
+        "rest_joint": 36,
+        "link_type": "sibling",
+        "model_offset": 178824,
+        "model_dfs_idx": 70,
+        "model_name": "a30_R_HAND_joint"
+      }
+    ],
+    "37": [
+      {
+        "rest_joint": 37,
+        "link_type": "child",
+        "model_offset": 175660,
+        "model_dfs_idx": 35,
+        "model_name": "a30_BUST1_joint"
+      },
+      {
+        "rest_joint": 37,
+        "link_type": "sibling",
+        "model_offset": 176692,
+        "model_dfs_idx": 47,
+        "model_name": "a30_NECK1_joint"
+      }
+    ],
+    "39": [
+      {
+        "rest_joint": 39,
+        "link_type": "child",
+        "model_offset": 181848,
+        "model_dfs_idx": 106,
+        "model_name": "a30_TEAL1_joint"
+      }
+    ],
+    "44": [
+      {
+        "rest_joint": 44,
+        "link_type": "child",
+        "model_offset": 178136,
+        "model_dfs_idx": 63,
+        "model_name": ""
+      }
+    ],
+    "67": [
+      {
+        "rest_joint": 67,
+        "link_type": "sibling",
+        "model_offset": 182752,
+        "model_dfs_idx": 116,
+        "model_name": ""
+      }
+    ],
+    "70": [
+      {
+        "rest_joint": 70,
+        "link_type": "child",
+        "model_offset": 180804,
+        "model_dfs_idx": 94,
+        "model_name": "a30_R_LEG1_joint"
+      },
+      {
+        "rest_joint": 70,
+        "link_type": "sibling",
+        "model_offset": 179884,
+        "model_dfs_idx": 83,
+        "model_name": "a30_L_LEG2_joint"
+      }
+    ],
+    "72": [
+      {
+        "rest_joint": 72,
+        "link_type": "child",
+        "model_offset": 176692,
+        "model_dfs_idx": 47,
+        "model_name": "a30_NECK1_joint"
+      }
+    ],
+    "73": [
+      {
+        "rest_joint": 73,
+        "link_type": "sibling",
+        "model_offset": 176944,
+        "model_dfs_idx": 50,
+        "model_name": "a30_HEAD1_joint"
+      }
+    ],
+    "80": [
+      {
+        "rest_joint": 80,
+        "link_type": "sibling",
+        "model_offset": 180136,
+        "model_dfs_idx": 86,
+        "model_name": ""
+      }
+    ],
+    "83": [
+      {
+        "rest_joint": 83,
+        "link_type": "child",
+        "model_offset": 180928,
+        "model_dfs_idx": 95,
+        "model_name": "a30_R_LEG2_joint"
+      }
+    ],
+    "86": [
+      {
+        "rest_joint": 86,
+        "link_type": "child",
+        "model_offset": 178448,
+        "model_dfs_idx": 66,
+        "model_name": "a30_R_ARM1_joint"
+      }
+    ],
+    "87": [
+      {
+        "rest_joint": 87,
+        "link_type": "sibling",
+        "model_offset": 181972,
+        "model_dfs_idx": 107,
+        "model_name": ""
+      }
+    ],
+    "89": [
+      {
+        "rest_joint": 89,
+        "link_type": "sibling",
+        "model_offset": 178824,
+        "model_dfs_idx": 70,
+        "model_name": "a30_R_HAND_joint"
+      }
+    ],
+    "93": [
+      {
+        "rest_joint": 93,
+        "link_type": "sibling",
+        "model_offset": 173492,
+        "model_dfs_idx": 3,
+        "model_name": ""
+      }
+    ],
+    "100": [
+      {
+        "rest_joint": 100,
+        "link_type": "child",
+        "model_offset": 174604,
+        "model_dfs_idx": 20,
+        "model_name": "a30_L_spip_joint"
+      }
+    ],
+    "101": [
+      {
+        "rest_joint": 101,
+        "link_type": "sibling",
+        "model_offset": 174872,
+        "model_dfs_idx": 24,
+        "model_name": "a30_buckle_joint"
+      }
+    ],
+    "104": [
+      {
+        "rest_joint": 104,
+        "link_type": "sibling",
+        "model_offset": 183300,
+        "model_dfs_idx": 121,
+        "model_name": "a30_a_1_joint"
+      }
+    ],
+    "105": [
+      {
+        "rest_joint": 105,
+        "link_type": "sibling",
+        "model_offset": 175660,
+        "model_dfs_idx": 35,
+        "model_name": "a30_BUST1_joint"
+      }
+    ],
+    "108": [
+      {
+        "rest_joint": 108,
+        "link_type": "child",
+        "model_offset": 175912,
+        "model_dfs_idx": 38,
+        "model_name": "a30_L_ARM1_joint"
+      }
+    ],
+    "113": [
+      {
+        "rest_joint": 113,
+        "link_type": "child",
+        "model_offset": 174604,
+        "model_dfs_idx": 20,
+        "model_name": "a30_L_spip_joint"
+      }
+    ],
+    "115": [
+      {
+        "rest_joint": 115,
+        "link_type": "sibling",
+        "model_offset": 176756,
+        "model_dfs_idx": 48,
+        "model_name": "a30_c_neck_joint"
+      }
+    ],
+    "117": [
+      {
+        "rest_joint": 117,
+        "link_type": "child",
+        "model_offset": 177068,
+        "model_dfs_idx": 51,
+        "model_name": ""
+      }
+    ],
+    "120": [
+      {
+        "rest_joint": 120,
+        "link_type": "child",
+        "model_offset": 177548,
+        "model_dfs_idx": 57,
+        "model_name": "a30_mtp_9_joint"
+      }
+    ],
+    "124": [
+      {
+        "rest_joint": 124,
+        "link_type": "sibling",
+        "model_offset": 178260,
+        "model_dfs_idx": 64,
+        "model_name": ""
+      }
+    ],
+    "128": [
+      {
+        "rest_joint": 128,
+        "link_type": "sibling",
+        "model_offset": 178700,
+        "model_dfs_idx": 69,
+        "model_name": ""
+      }
+    ],
+    "134": [
+      {
+        "rest_joint": 134,
+        "link_type": "child",
+        "model_offset": 179244,
+        "model_dfs_idx": 76,
+        "model_name": "a30_mtp_2_joint"
+      }
+    ],
+    "137": [
+      {
+        "rest_joint": 137,
+        "link_type": "child",
+        "model_offset": 179508,
+        "model_dfs_idx": 79,
+        "model_name": "a30_HIP1_joint"
+      }
+    ],
+    "138": [
+      {
+        "rest_joint": 138,
+        "link_type": "sibling",
+        "model_offset": 179572,
+        "model_dfs_idx": 80,
+        "model_name": "a30_c_hip_joint"
+      }
+    ],
+    "145": [
+      {
+        "rest_joint": 145,
+        "link_type": "child",
+        "model_offset": 180400,
+        "model_dfs_idx": 89,
+        "model_name": ""
+      }
+    ]
+  },
+  "model_names": {
+    "6": "a30_att_E_joint",
+    "7": "a30_b_base_joint",
+    "8": "a30_L_shoe_joint",
+    "9": "a30_L_spik_joint",
+    "10": "a30_R_shoe_joint",
+    "11": "a30_R_spik_joint",
+    "12": "a30_berut1_joint",
+    "14": "a30_fly_joint",
+    "15": "a30_to_fly_joint",
+    "16": "a30_to_to_fly_joint",
+    "17": "a30_to_to_to_fly_joint",
+    "18": "a30_f_base_joint",
+    "19": "a30_L_glove_joint",
+    "20": "a30_L_spip_joint",
+    "21": "a30_R_glove_joint",
+    "22": "a30_R_spip_joint",
+    "24": "a30_buckle_joint",
+    "25": "a30_jacket_joint",
+    "26": "a30_collar_joint",
+    "27": "a30_cap_joint",
+    "28": "a30_senter_joint",
+    "29": "a30_up_WP_joint",
+    "32": "a30_NAVEL_joint",
+    "33": "a30_c_BODY_joint",
+    "35": "a30_BUST1_joint",
+    "36": "a30_c_bust_joint",
+    "38": "a30_L_ARM1_joint",
+    "39": "a30_L_ARM2_joint",
+    "40": "a30_c_l_arm2_joint",
+    "42": "a30_L_HAND_joint",
+    "45": "a30_c_l_arm1_joint",
+    "47": "a30_NECK1_joint",
+    "48": "a30_c_neck_joint",
+    "50": "a30_HEAD1_joint",
+    "52": "a30_c_head_joint",
+    "54": "a30_mtp_5_joint",
+    "57": "a30_mtp_9_joint",
+    "60": "a30_mtp_7_joint",
+    "62": "a30_mtp_8_joint",
+    "66": "a30_R_ARM1_joint",
+    "67": "a30_R_ARM2_joint",
+    "68": "a30_c_r_arm2_joint",
+    "70": "a30_R_HAND_joint",
+    "73": "a30_c_r_arm1_joint",
+    "75": "a30_mtp_0_joint",
+    "76": "a30_mtp_2_joint",
+    "77": "a30_mtp_4_joint",
+    "79": "a30_HIP1_joint",
+    "80": "a30_c_hip_joint",
+    "82": "a30_L_LEG1_joint",
+    "83": "a30_L_LEG2_joint",
+    "84": "a30_c_l_leg2_joint",
+    "88": "a30_L_FOOT_joint",
+    "92": "a30_c_l_leg1_joint",
+    "94": "a30_R_LEG1_joint",
+    "95": "a30_R_LEG2_joint",
+    "96": "a30_c_r_leg2_joint",
+    "100": "a30_R_FOOT_joint",
+    "104": "a30_c_r_leg1_joint",
+    "106": "a30_TEAL1_joint",
+    "110": "a30_c_tail_joint",
+    "113": "a30_mtp_1_joint",
+    "114": "a30_mtp_3_joint",
+    "121": "a30_a_1_joint"
+  }
+}

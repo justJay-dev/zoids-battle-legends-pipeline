@@ -1,0 +1,82 @@
+<!doctype html>
+<html>
+    <head>
+        <title>Zoids Battle Legends — Asset Viewer</title>
+        <style>
+            * {
+                box-sizing: border-box;
+                margin: 0;
+                padding: 0;
+            }
+            body {
+                background: #1a1a2e;
+                color: #ccc;
+                font-family: sans-serif;
+                padding: 40px;
+            }
+            h1 {
+                color: #fff;
+                margin-bottom: 8px;
+            }
+            p {
+                color: #888;
+                margin-bottom: 32px;
+            }
+            .links {
+                display: flex;
+                gap: 16px;
+                flex-wrap: wrap;
+            }
+            a.card {
+                display: block;
+                padding: 24px 32px;
+                background: #222;
+                border: 1px solid #333;
+                border-radius: 8px;
+                color: #ccc;
+                text-decoration: none;
+                min-width: 200px;
+                transition:
+                    border-color 0.2s,
+                    background 0.2s;
+            }
+            a.card:hover {
+                border-color: #668;
+                background: #2a2a3e;
+            }
+            a.card h2 {
+                color: #fff;
+                font-size: 18px;
+                margin-bottom: 4px;
+            }
+            a.card span {
+                color: #888;
+                font-size: 13px;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>Zoids Battle Legends</h1>
+        <p>Reverse engineered assets from GameCube .dat files</p>
+        <div class="links">
+            <a class="card" href="glb-viewer.html">
+                <h2>Model Viewer</h2>
+                <span>Zoid models with textures (glTF)</span>
+            </a>
+            <a class="card" href="glb-viewer.html#wa0103">
+                <h2>Weapon Viewer</h2>
+                <span>Weapon models (glTF)</span>
+            </a>
+            <a class="card" href="mapper.html#b02">
+                <h2>Joint Mapper</h2>
+                <span>Skeleton joint visualization</span>
+            </a>
+            <a class="card" href="viewer/">
+                <h2>.dat Viewer</h2>
+                <span
+                    >Raw HSD binary inspector — joints, geometry, textures</span
+                >
+            </a>
+        </div>
+    </body>
+</html>

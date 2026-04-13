@@ -1,0 +1,454 @@
+<!doctype html>
+<html>
+    <head>
+        <title>Zoids Asset Viewer</title>
+        <script type="importmap">
+            {
+                "imports": {
+                    "three": "./node_modules/three/build/three.module.js",
+                    "three/addons/": "./node_modules/three/examples/jsm/"
+                }
+            }
+        </script>
+        <script type="module">
+            import * as THREE from "three";
+            import { GLTFLoader } from "three/addons/loaders/GLTFLoader.js";
+            import { OrbitControls } from "three/addons/controls/OrbitControls.js";
+
+            // --- State ---
+            const gltfLoader = new GLTFLoader();
+            let currentModel = null;
+            let currentWeapons = [];  // {name, object, visible}
+            let scene, camera, controls, renderer, grid;
+
+            // --- Load index ---
+            const index = await fetch("./output/index.json").then(r => r.json());
+            const zoidNames = Object.keys(index);
+
+            // --- Parse hash: #zoid_name or #zoid_name/weapon_id ---
+            const hash = (window.location.hash || "#berserk_fury").substring(1);
+            const [initZoid] = hash.split("/");
+
+            // --- Build UI ---
+            const selZoid = document.getElementById("selZoid");
+            for (const name of zoidNames) {
+                const opt = document.createElement("option");
+                opt.value = name;
+                opt.text = name.replace(/_/g, " ");
+                selZoid.appendChild(opt);
+            }
+            selZoid.value = initZoid;
+
+            const weaponList = document.getElementById("weaponList");
+            const info = document.getElementById("info");
+
+            // --- Scene setup ---
+            scene = new THREE.Scene();
+            scene.background = new THREE.Color(0x1a1a2e);
+
+            scene.add(new THREE.AmbientLight(0xffffff, 1.5));
+            scene.add(new THREE.HemisphereLight(0xffffff, 0x444466, 1.0));
+            const keyLight = new THREE.DirectionalLight(0xffffff, 2.5);
+            keyLight.position.set(10, 20, 10);
+            scene.add(keyLight);
+            const fillLight = new THREE.DirectionalLight(0xddeeff, 1.2);
+            fillLight.position.set(-10, 10, 10);
+            scene.add(fillLight);
+
+            const container = document.getElementById("container");
+            renderer = new THREE.WebGLRenderer({ antialias: true });
+            renderer.setPixelRatio(window.devicePixelRatio);
+            renderer.setSize(container.clientWidth, container.clientHeight);
+            container.appendChild(renderer.domElement);
+
+            camera = new THREE.PerspectiveCamera(60, container.clientWidth / container.clientHeight, 0.1, 10000);
+            controls = new OrbitControls(camera, renderer.domElement);
+
+            window.addEventListener("resize", () => {
+                camera.aspect = container.clientWidth / container.clientHeight;
+                camera.updateProjectionMatrix();
+                renderer.setSize(container.clientWidth, container.clientHeight);
+            });
+
+            // --- Load zoid ---
+            async function loadZoid(name) {
+                // Clear previous
+                if (currentModel) { scene.remove(currentModel); currentModel = null; }
+                for (const w of currentWeapons) {
+                    if (w.object.parent) w.object.parent.remove(w.object);
+                    else scene.remove(w.object);
+                }
+                currentWeapons = [];
+                currentManifest = null;
+                if (grid) scene.remove(grid);
+
+                info.textContent = `Loading ${name}...`;
+
+                // Load manifest
+                try {
+                    currentManifest = await fetch(`./output/${name}/manifest.json`).then(r => r.json());
+                } catch(e) { currentManifest = null; }
+
+                try {
+                    const gltf = await new Promise((resolve, reject) =>
+                        gltfLoader.load(`./output/${name}/model.glb`, resolve, undefined, reject));
+
+                    currentModel = gltf.scene;
+                    scene.add(currentModel);
+
+                    // Fit camera
+                    const box = new THREE.Box3().setFromObject(currentModel);
+                    const size = box.getSize(new THREE.Vector3());
+                    const center = box.getCenter(new THREE.Vector3());
+                    const maxDim = Math.max(size.x, size.y, size.z);
+
+                    camera.position.set(center.x + maxDim, center.y + maxDim * 0.5, center.z + maxDim * 1.5);
+                    controls.target.copy(center);
+                    camera.near = maxDim * 0.01;
+                    camera.far = maxDim * 100;
+                    camera.updateProjectionMatrix();
+                    controls.update();
+
+                    grid = new THREE.GridHelper(maxDim * 4, 24, 0x444466, 0x333344);
+                    grid.position.y = box.min.y;
+                    scene.add(grid);
+
+                    // Stats
+                    let meshCount = 0, vertCount = 0;
+                    currentModel.traverse(o => {
+                        if (o.isMesh) { meshCount++; vertCount += o.geometry.attributes.position?.count || 0; }
+                    });
+
+                    info.textContent = `${name} — ${meshCount} meshes, ${vertCount} verts`;
+
+                    // Collect joint nodes. For skinned meshes, use the skin's joint order.
+                    // For legacy per-joint meshes, collect by name prefix.
+                    allJoints = [];
+                    let skinnedMesh = null;
+                    currentModel.traverse(o => {
+                        if (o.isSkinnedMesh) skinnedMesh = o;
+                    });
+                    if (skinnedMesh && skinnedMesh.skeleton) {
+                        allJoints = [...skinnedMesh.skeleton.bones];
+                        console.log(`Skinned mesh: ${allJoints.length} bones (first: ${allJoints[0]?.name})`);
+                    } else {
+                        currentModel.traverse(o => {
+                            if (o.name && o.name.startsWith('joint_')) allJoints.push(o);
+                        });
+                        console.log(`Legacy joints: ${allJoints.length} (first: ${allJoints[0]?.name})`);
+                    }
+
+                    // Load animation data
+                    await loadAnimations(name);
+                } catch (e) {
+                    info.textContent = `Error loading ${name}: ${e.message}`;
+                }
+
+                // Build weapon toggles
+                buildWeaponList(name);
+            }
+
+            function buildWeaponList(zoidName) {
+                weaponList.innerHTML = "";
+                const weapons = index[zoidName]?.weapons || [];
+                if (weapons.length === 0) {
+                    weaponList.innerHTML = "<div style='color:#666'>No weapons</div>";
+                    return;
+                }
+
+                for (const wid of weapons) {
+                    const row = document.createElement("label");
+                    row.style.cssText = "display:block;padding:3px 0;cursor:pointer;font-size:11px;";
+                    const cb = document.createElement("input");
+                    cb.type = "checkbox";
+                    cb.style.cssText = "margin-right:6px;";
+                    cb.onchange = () => toggleWeapon(zoidName, wid, cb.checked);
+                    row.appendChild(cb);
+
+                    // Add weapon info from manifest
+                    const weaponInfo = currentManifest?.weapons?.find(w => w.id === wid);
+                    const mountRegions = weaponInfo?.mount_points?.map(mp => mp.body_region).filter(r => r !== 'unknown') || [];
+                    const desc = weaponInfo?.description;
+
+                    const nameSpan = document.createElement("span");
+                    nameSpan.textContent = wid;
+                    nameSpan.style.cssText = "color:#fff;";
+                    row.appendChild(nameSpan);
+
+                    if (mountRegions.length > 0) {
+                        const regionSpan = document.createElement("span");
+                        regionSpan.textContent = ` [${[...new Set(mountRegions)].join(',')}]`;
+                        regionSpan.style.cssText = "color:#88f;";
+                        row.appendChild(regionSpan);
+                    }
+
+                    if (desc) {
+                        const descDiv = document.createElement("div");
+                        descDiv.textContent = desc.substring(0, 60);
+                        descDiv.style.cssText = "color:#666;padding-left:20px;font-size:10px;";
+                        row.appendChild(descDiv);
+                    }
+
+                    weaponList.appendChild(row);
+                }
+            }
+
+            let currentManifest = null;
+
+            async function toggleWeapon(zoidName, weaponId, show) {
+                // Find existing
+                const existing = currentWeapons.find(w => w.name === weaponId);
+                if (existing) {
+                    existing.object.visible = show;
+                    return;
+                }
+
+                if (!show) return;
+
+                // Load weapon GLB
+                try {
+                    const gltf = await new Promise((resolve, reject) =>
+                        gltfLoader.load(`./output/${zoidName}/weapons/${weaponId}.glb`, resolve, undefined, reject));
+
+                    const obj = gltf.scene;
+
+                    // Add weapon to scene — same world coordinate space as zoid
+                    scene.add(obj);
+                    console.log(`Weapon ${weaponId} root pos:`, obj.children[0]?.position, 'rot:', obj.children[0]?.rotation);
+
+                    currentWeapons.push({ name: weaponId, object: obj, visible: true });
+                } catch (e) {
+                    console.warn(`Failed to load weapon ${weaponId}:`, e);
+                }
+            }
+
+            // --- Events ---
+            selZoid.onchange = () => {
+                const name = selZoid.value;
+                window.location.hash = name;
+                loadZoid(name);
+            };
+
+            // --- Animation system ---
+            let allJoints = [];
+            let animData = null;
+            let currentClip = 0;
+            let animTime = 0;
+            let animPlaying = false;
+            const animSpeed = 30; // frames per second
+
+            async function loadAnimations(zoidName) {
+                // Map zoid name to ID
+                const zoidId = currentManifest?.id;
+                if (!zoidId) return;
+
+                try {
+                    const resp = await fetch(`./animations/${zoidId}_anims.json`);
+                    if (!resp.ok) return;
+                    animData = await resp.json();
+                    console.log(`Loaded ${animData.clips.length} animation clips`);
+                    storeRestTransforms();
+                    buildAnimUI();
+                } catch(e) { animData = null; }
+            }
+
+            function buildAnimUI() {
+                if (!animData) return;
+                const animDiv = document.createElement("div");
+                animDiv.style.cssText = "margin-top:12px;border-top:1px solid #333;padding-top:8px;";
+                animDiv.innerHTML = "<h3 style='color:#fff;margin-bottom:6px;font-size:13px;'>Animations</h3>";
+
+                const clipSelect = document.createElement("select");
+                clipSelect.style.cssText = "width:100%;margin-bottom:4px;font:11px monospace;";
+                for (const clip of animData.clips) {
+                    const opt = document.createElement("option");
+                    opt.value = String(clip.index);
+                    opt.text = `${clip.action} (${clip.frameCount.toFixed(0)}f)`;
+                    clipSelect.appendChild(opt);
+                }
+                clipSelect.value = "4"; // default to walk
+                clipSelect.onchange = () => { currentClip = animData.clips.findIndex(c => c.index === +clipSelect.value); animTime = 0; };
+                currentClip = animData.clips.findIndex(c => c.index === 4); // walk
+                if (currentClip < 0) currentClip = 0;
+
+                const playBtn = document.createElement("button");
+                playBtn.textContent = "Play";
+                playBtn.style.cssText = "width:100%;padding:4px;";
+                playBtn.onclick = () => { animPlaying = !animPlaying; playBtn.textContent = animPlaying ? "Pause" : "Play"; };
+
+                // Scale slider
+                const scaleRow = document.createElement("div");
+                scaleRow.style.cssText = "margin-bottom:4px;";
+                const scaleLabel = document.createElement("span");
+                scaleLabel.style.cssText = "color:#aaa;font-size:11px;";
+                scaleLabel.textContent = `Scale: ${animScale.toFixed(2)}`;
+                const scaleSlider = document.createElement("input");
+                scaleSlider.type = "range"; scaleSlider.min = "0"; scaleSlider.max = "1"; scaleSlider.step = "0.01";
+                scaleSlider.value = String(animScale);
+                scaleSlider.style.cssText = "width:100%;";
+                scaleSlider.oninput = () => { animScale = +scaleSlider.value; scaleLabel.textContent = `Scale: ${animScale.toFixed(2)}`; };
+                scaleRow.appendChild(scaleLabel);
+                scaleRow.appendChild(scaleSlider);
+                animDiv.appendChild(scaleRow);
+
+                animDiv.appendChild(clipSelect);
+                animDiv.appendChild(playBtn);
+                document.getElementById("weaponList").parentElement.appendChild(animDiv);
+            }
+
+            function evalTrack(keys, frame) {
+                if (!keys || keys.length === 0) return undefined;
+                if (keys.length === 1) return keys[0].v;
+                let prev = keys[0], next = keys[keys.length-1];
+                for (let i = 0; i < keys.length-1; i++) {
+                    if (keys[i+1].f >= frame) { prev = keys[i]; next = keys[i+1]; break; }
+                }
+                if (frame <= prev.f) return prev.v;
+                if (frame >= next.f) return next.v;
+                if (prev.v === undefined) return next.v;
+                if (next.v === undefined) return prev.v;
+                // Garbage values now filtered in export pipeline
+                const t = (frame - prev.f) / (next.f - prev.f);
+                return prev.v + (next.v - prev.v) * t;
+            }
+
+            // Store rest-pose transforms when animation is loaded
+            let restTransforms = []; // [{pos, rot, scl}, ...]
+
+            function storeRestTransforms() {
+                restTransforms = allJoints.map(j => ({
+                    pos: j.position.clone(),
+                    rot: new THREE.Euler(j.rotation.x, j.rotation.y, j.rotation.z, j.rotation.order),
+                    scl: j.scale.clone(),
+                }));
+            }
+
+            let animScale = 0.35; // delta scale — gap joints absorb ~65% of motion
+
+            function applyAnimation(clip, frame) {
+                const f = clip.frameCount > 0 ? frame % clip.frameCount : 0;
+                const restPose = animData.restPose || [];
+                const s = animScale;
+
+                for (let i = 0; i < clip.joints.length && i < allJoints.length; i++) {
+                    const aj = clip.joints[i];
+                    const obj3d = allJoints[i];
+                    const rest = restTransforms[i];
+                    const rp = restPose[i];
+                    if (!aj.tracks || !rest || !rp) continue;
+
+                    // Apply as scaled delta from rest pose
+                    const tx = evalTrack(aj.tracks.TRAX, f);
+                    const ty = evalTrack(aj.tracks.TRAY, f);
+                    const tz = evalTrack(aj.tracks.TRAZ, f);
+                    if (tx !== undefined) obj3d.position.x = rest.pos.x + (tx - rp.translation[0]) * s;
+                    if (ty !== undefined) obj3d.position.y = rest.pos.y + (ty - rp.translation[1]) * s;
+                    if (tz !== undefined) obj3d.position.z = rest.pos.z + (tz - rp.translation[2]) * s;
+
+                    const rx = evalTrack(aj.tracks.ROTX, f);
+                    const ry = evalTrack(aj.tracks.ROTY, f);
+                    const rz = evalTrack(aj.tracks.ROTZ, f);
+                    if (rx !== undefined) obj3d.rotation.x = rest.rot.x + (rx - rp.rotation[0]) * s;
+                    if (ry !== undefined) obj3d.rotation.y = rest.rot.y + (ry - rp.rotation[1]) * s;
+                    if (rz !== undefined) obj3d.rotation.z = rest.rot.z + (rz - rp.rotation[2]) * s;
+
+                    const sx = evalTrack(aj.tracks.SCAX, f);
+                    const sy = evalTrack(aj.tracks.SCAY, f);
+                    const sz = evalTrack(aj.tracks.SCAZ, f);
+                    if (sx !== undefined) obj3d.scale.x = sx;
+                    if (sy !== undefined) obj3d.scale.y = sy;
+                    if (sz !== undefined) obj3d.scale.z = sz;
+                }
+            }
+
+            // --- WASD + Q/E camera controls ---
+            const keys = new Set();
+            window.addEventListener("keydown", e => keys.add(e.code));
+            window.addEventListener("keyup", e => keys.delete(e.code));
+            const _f = new THREE.Vector3(), _r = new THREE.Vector3();
+            const _p = new THREE.Vector3(), _o = new THREE.Vector3();
+            const _q = new THREE.Quaternion();
+
+            let lastTime = performance.now();
+            const animate = () => {
+                requestAnimationFrame(animate);
+                const now = performance.now();
+                const dt = (now - lastTime) / 1000;
+                lastTime = now;
+
+                // Animation playback
+                if (animPlaying && animData && animData.clips.length > 0 && currentClip >= 0) {
+                    animTime += dt * animSpeed;
+                    applyAnimation(animData.clips[currentClip], animTime);
+                }
+
+                if (keys.size > 0 && currentModel) {
+                    const box = new THREE.Box3().setFromObject(currentModel);
+                    const size = box.getSize(new THREE.Vector3());
+                    const panSpeed = Math.max(size.x, size.y, size.z) * 0.02;
+                    const rotSpeed = 0.03;
+
+                    camera.getWorldDirection(_f); _f.y = 0; _f.normalize();
+                    _r.crossVectors(_f, camera.up).normalize();
+                    _p.set(0, 0, 0);
+
+                    if (keys.has("KeyW") || keys.has("ArrowUp")) _p.addScaledVector(_f, panSpeed);
+                    if (keys.has("KeyS") || keys.has("ArrowDown")) _p.addScaledVector(_f, -panSpeed);
+                    if (keys.has("KeyA") || keys.has("ArrowLeft")) _p.addScaledVector(_r, -panSpeed);
+                    if (keys.has("KeyD") || keys.has("ArrowRight")) _p.addScaledVector(_r, panSpeed);
+
+                    camera.position.add(_p);
+                    controls.target.add(_p);
+
+                    if (keys.has("KeyQ") || keys.has("KeyE")) {
+                        const angle = keys.has("KeyQ") ? rotSpeed : -rotSpeed;
+                        _q.setFromAxisAngle(camera.up, angle);
+                        _o.subVectors(camera.position, controls.target).applyQuaternion(_q);
+                        camera.position.copy(controls.target).add(_o);
+                        camera.lookAt(controls.target);
+                    }
+                }
+
+                controls.update();
+                renderer.render(scene, camera);
+            };
+            animate();
+
+            // --- Initial load ---
+            loadZoid(initZoid);
+        </script>
+        <style>
+            * { box-sizing: border-box; margin: 0; padding: 0; }
+            html, body { height: 100%; background: #111; }
+            body { display: flex; flex-direction: column; }
+            #toolbar {
+                padding: 8px 12px; background: #222; color: #ccc;
+                font: 13px monospace; border-bottom: 1px solid #333;
+                display: flex; align-items: center; gap: 12px;
+            }
+            #toolbar select { font: 13px monospace; }
+            #info { color: #8f8; }
+            #main { display: flex; flex: 1; min-height: 0; }
+            #container { flex: 1; }
+            #container canvas { display: block; width: 100% !important; height: 100% !important; }
+            #sidebar {
+                width: 200px; background: #1a1a2e; border-left: 1px solid #333;
+                padding: 8px; overflow-y: auto; color: #ccc; font: 12px monospace;
+            }
+            #sidebar h3 { color: #fff; margin-bottom: 6px; font-size: 13px; }
+        </style>
+    </head>
+    <body>
+        <div id="toolbar">
+            <select id="selZoid"></select>
+            <span id="info"></span>
+        </div>
+        <div id="main">
+            <div id="container"></div>
+            <div id="sidebar">
+                <h3>Weapons</h3>
+                <div id="weaponList"></div>
+            </div>
+        </div>
+    </body>
+</html>

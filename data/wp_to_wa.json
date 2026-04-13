@@ -1,0 +1,1958 @@
+{
+  "wp000": {
+    "file": "wa0100",
+    "wa_num": 100,
+    "has_model": true,
+    "description": "\ufffd\ufffd\ufffd\ufffd000\ufffd\ufffd \ufffd\ufffd\ufffd\ufffd"
+  },
+  "wp001": {
+    "file": null,
+    "wa_num": 101,
+    "has_model": false,
+    "description": "Cannon Tortoise's armament. A long-distance single-shot cannon."
+  },
+  "wp002": {
+    "file": "wb0102",
+    "wa_num": 102,
+    "has_model": true,
+    "description": "Cannon Tortoise's armament. A Beam Vulcan weapon with the capability for a burst of rounds."
+  },
+  "wp003": {
+    "file": "wa0103",
+    "wa_num": 103,
+    "has_model": true,
+    "description": "A mid-range beam cannon."
+  },
+  "wp004": {
+    "file": "wa0104",
+    "wa_num": 104,
+    "has_model": true,
+    "description": "Dibison's armament. A mid-range beam cannon."
+  },
+  "wp005": {
+    "file": null,
+    "wa_num": 105,
+    "has_model": false,
+    "description": "Dibison's armament. A long-range cannon."
+  },
+  "wp006": {
+    "file": null,
+    "wa_num": 106,
+    "has_model": false,
+    "description": "A multi-shot missile launcher. High accuracy."
+  },
+  "wp007": {
+    "file": null,
+    "wa_num": 107,
+    "has_model": false,
+    "description": "Cannon Tortoise's ultimate combat weapon."
+  },
+  "wp019": {
+    "file": null,
+    "wa_num": 108,
+    "has_model": false,
+    "description": "Shield Liger's armament. A multi-missle pod. High accuracy."
+  },
+  "wp020": {
+    "file": null,
+    "wa_num": 109,
+    "has_model": false,
+    "description": "Molga's armament. A long-range cannon."
+  },
+  "wp021": {
+    "file": null,
+    "wa_num": 110,
+    "has_model": false,
+    "description": "Shield Liger's armament. A mid-range cannon."
+  },
+  "wp022": {
+    "file": null,
+    "wa_num": 111,
+    "has_model": false,
+    "description": "Elephander's armament. A combat weapon with iron claws. The gun's range is short but extremely effective."
+  },
+  "wp023": {
+    "file": null,
+    "wa_num": 112,
+    "has_model": false,
+    "description": "Elephander's armament. A Valcan weapon with a burst of rounds. It can shoot enemies that are coming from behind and is useful for gaining distance from enemy Zoids."
+  },
+  "wp024": {
+    "file": null,
+    "wa_num": 113,
+    "has_model": false,
+    "description": "A mid-range beam gun. There are 2 kinds of beam guns."
+  },
+  "wp025": {
+    "file": null,
+    "wa_num": 114,
+    "has_model": false,
+    "description": "A mid-range beam gun."
+  },
+  "wp026": {
+    "file": null,
+    "wa_num": 115,
+    "has_model": false,
+    "description": "A weapon that has both missiles and gatling capabilities."
+  },
+  "wp035": {
+    "file": null,
+    "wa_num": 116,
+    "has_model": false,
+    "description": "Trinity Liger's armament. A mid-range beam gun."
+  },
+  "wp036": {
+    "file": null,
+    "wa_num": 117,
+    "has_model": false,
+    "description": "Command Wolf's ultimate combat weapon."
+  },
+  "wp037": {
+    "file": null,
+    "wa_num": 118,
+    "has_model": false,
+    "description": "Dibison's ultimate combat weapon."
+  },
+  "wp038": {
+    "file": null,
+    "wa_num": 119,
+    "has_model": false,
+    "description": "Liger Zero's ultimate combat weapon."
+  },
+  "wp039": {
+    "file": null,
+    "wa_num": 120,
+    "has_model": false,
+    "description": "Molga's ultimate combat weapon."
+  },
+  "wp040": {
+    "file": null,
+    "wa_num": 121,
+    "has_model": false,
+    "description": "Berserk Fuhrer's ultimate weapon."
+  },
+  "wp041": {
+    "file": null,
+    "wa_num": 122,
+    "has_model": false,
+    "description": "Konig Wolf's ultimate combat weapon."
+  },
+  "wp053": {
+    "file": null,
+    "wa_num": 123,
+    "has_model": false,
+    "description": "A mid-range beam cannon."
+  },
+  "wp054": {
+    "file": null,
+    "wa_num": 124,
+    "has_model": false,
+    "description": "For  long-range missiles. High accuracy."
+  },
+  "wp055": {
+    "file": null,
+    "wa_num": 125,
+    "has_model": false,
+    "description": "A mid-range beam cannon. Light weight and safe for armament."
+  },
+  "wp056": {
+    "file": null,
+    "wa_num": 126,
+    "has_model": false,
+    "description": "A mid-range beam cannon."
+  },
+  "wp057": {
+    "file": null,
+    "wa_num": 127,
+    "has_model": false,
+    "description": "A mid-range beam cannon. Light weight and safe for armament."
+  },
+  "wp058": {
+    "file": null,
+    "wa_num": 128,
+    "has_model": false,
+    "description": "A mid-range beam cannon. Light weight and safe for armament."
+  },
+  "wp059": {
+    "file": null,
+    "wa_num": 129,
+    "has_model": false,
+    "description": "A sniper rifle. It changes to the sniper mode when in use. Not perfect for defense but effective in cover attacks from behind."
+  },
+  "wp060": {
+    "file": "wa0130",
+    "wa_num": 130,
+    "has_model": true,
+    "description": "A mid-range cannon."
+  },
+  "wp061": {
+    "file": null,
+    "wa_num": 131,
+    "has_model": false,
+    "description": "A Vulcan weapon with the capability for a burst of rounds."
+  },
+  "wp062": {
+    "file": null,
+    "wa_num": 132,
+    "has_model": false,
+    "description": "Shadow Fox's armament. Good for attacking enemies that are coming from behind and is effective when you need to get away from them."
+  },
+  "wp063": {
+    "file": null,
+    "wa_num": 133,
+    "has_model": false,
+    "description": "Elephander's Stoller armament."
+  },
+  "wp064": {
+    "file": null,
+    "wa_num": 134,
+    "has_model": false,
+    "description": "Jager's armament. A multi-shot Vulcan weapon."
+  },
+  "wp065": {
+    "file": null,
+    "wa_num": 135,
+    "has_model": false,
+    "description": "Panzer's mid-range armament. A mid-range cannon."
+  },
+  "wp066": {
+    "file": null,
+    "wa_num": 136,
+    "has_model": false,
+    "description": "Liger Zero Panzer's armament. A multi-missile launcher with high accuracy."
+  },
+  "wp067": {
+    "file": null,
+    "wa_num": 137,
+    "has_model": false,
+    "description": "Liger Zero Panzer's armament. A multi-missile launcher with high accuracy."
+  },
+  "wp075": {
+    "file": null,
+    "wa_num": 138,
+    "has_model": false,
+    "description": "A single-shot beam cannon. The built-in booster increases the beam speed."
+  },
+  "wp076": {
+    "file": null,
+    "wa_num": 139,
+    "has_model": false,
+    "description": "A multi-missile launcher with high accuracy."
+  },
+  "wp077": {
+    "file": null,
+    "wa_num": 140,
+    "has_model": false,
+    "description": "A mid-range beam cannon. This is equiped with shields, providing stronger armor."
+  },
+  "wp078": {
+    "file": null,
+    "wa_num": 141,
+    "has_model": false,
+    "description": "A mid-range beam rifle."
+  },
+  "wp079": {
+    "file": null,
+    "wa_num": 142,
+    "has_model": false,
+    "description": "Konig Wolf's armament. It changes to the sniper mode when in use. Not perfect for defense but effective in cover attacks from behind."
+  },
+  "wp080": {
+    "file": null,
+    "wa_num": 143,
+    "has_model": false,
+    "description": "A long-range missile with high accuracy."
+  },
+  "wp081": {
+    "file": null,
+    "wa_num": 144,
+    "has_model": false,
+    "description": "A long-range missile with high accuracy."
+  },
+  "wp082": {
+    "file": null,
+    "wa_num": 145,
+    "has_model": false,
+    "description": "Ultrasaurus's armament. A long-range cannon."
+  },
+  "wp087": {
+    "file": null,
+    "wa_num": 146,
+    "has_model": false,
+    "description": "Ultrasaurus's armament. Long-range missiles. It can shoot at enemies that are coming from behind."
+  },
+  "wp103": {
+    "file": null,
+    "wa_num": 147,
+    "has_model": false,
+    "description": "E shield for Shield Liger. Certain damages from enemy's frontal attacks can be stopped with this. Can be used for offensive purposes also."
+  },
+  "wp104": {
+    "file": null,
+    "wa_num": 148,
+    "has_model": false,
+    "description": "Liger Zero X's ultimate combat weapon."
+  },
+  "wp105": {
+    "file": null,
+    "wa_num": 149,
+    "has_model": false,
+    "description": "- - - - -"
+  },
+  "wp106": {
+    "file": null,
+    "wa_num": 150,
+    "has_model": false,
+    "description": "Lightning Saix's ultimate combat weapon."
+  },
+  "wp107": {
+    "file": null,
+    "wa_num": 151,
+    "has_model": false,
+    "description": "A mid-range beam gun. Light weight and safe for armament."
+  },
+  "wp108": {
+    "file": null,
+    "wa_num": 152,
+    "has_model": false,
+    "description": "E shield for Liger Aero. Certain damages from enemy's frontal attacks can be stopped with this. Can be used for offensive purposes also."
+  },
+  "wp109": {
+    "file": null,
+    "wa_num": 153,
+    "has_model": false,
+    "description": "Iron Kong's armament with high accuracy. Multi-rocket launcher."
+  },
+  "wp110": {
+    "file": null,
+    "wa_num": 154,
+    "has_model": false,
+    "description": "A multi-missile launcher with high accuracy."
+  },
+  "wp111": {
+    "file": null,
+    "wa_num": 155,
+    "has_model": false,
+    "description": "A multi-rocket launcher with high accuracy."
+  },
+  "wp112": {
+    "file": null,
+    "wa_num": 156,
+    "has_model": false,
+    "description": "- - - - -"
+  },
+  "wp120": {
+    "file": null,
+    "wa_num": 157,
+    "has_model": false,
+    "description": "Griffon's armament with high accuracy. Long-range missiles."
+  },
+  "wp121": {
+    "file": null,
+    "wa_num": 158,
+    "has_model": false,
+    "description": "Griffon's armament with high accuracy. Long-range missiles."
+  },
+  "wp122": {
+    "file": null,
+    "wa_num": 159,
+    "has_model": false,
+    "description": "A Vulcan weapon with a burst of rounds."
+  },
+  "wp123": {
+    "file": null,
+    "wa_num": 160,
+    "has_model": false,
+    "description": "Dark Sniper's armament. Mid-range beam rifles."
+  },
+  "wp124": {
+    "file": null,
+    "wa_num": 161,
+    "has_model": false,
+    "description": "Elephander's booster. It boosts the maximum speed for a certain period of time."
+  },
+  "wp125": {
+    "file": null,
+    "wa_num": 162,
+    "has_model": false,
+    "description": "E shield for Elephander. Certain damages from enemy's frontal attacks can be stopped with this. Can be used for offensive purposes also."
+  },
+  "wp126": {
+    "file": null,
+    "wa_num": 163,
+    "has_model": false,
+    "description": "Diablo Tiger's armament. Mid-range Cannons."
+  },
+  "wp127": {
+    "file": null,
+    "wa_num": 164,
+    "has_model": false,
+    "description": "Griffon's armament with high accuracy. Long-range missiles."
+  },
+  "wp128": {
+    "file": null,
+    "wa_num": 165,
+    "has_model": false,
+    "description": "Geno Hydra's booster. It boosts the maximum speed for a certain period of time."
+  },
+  "wp129": {
+    "file": null,
+    "wa_num": 166,
+    "has_model": false,
+    "description": "Trinity Liger's booster. It boosts the maximum speed for a certain period of time."
+  },
+  "wp130": {
+    "file": null,
+    "wa_num": 167,
+    "has_model": false,
+    "description": "Rev Raptor's weapon for pile banker combats. It has a short range but very effective."
+  },
+  "wp131": {
+    "file": null,
+    "wa_num": 168,
+    "has_model": false,
+    "description": "Rev Raptor's weapon for pile banker combats. It has a short range but very effective."
+  },
+  "wp132": {
+    "file": null,
+    "wa_num": 169,
+    "has_model": false,
+    "description": "Blitz Tiger's booster. It boosts the maximum speed for a certain period of time."
+  },
+  "wp133": {
+    "file": null,
+    "wa_num": 170,
+    "has_model": false,
+    "description": "Rev Raptor's weapon for pile banker combats. It has a short range but very effective. Shreds enemy robots as it moves."
+  },
+  "wp134": {
+    "file": null,
+    "wa_num": 171,
+    "has_model": false,
+    "description": "Griffon's booster. It boosts the maximum speed for a certain period of time."
+  },
+  "wp135": {
+    "file": null,
+    "wa_num": 172,
+    "has_model": false,
+    "description": "Sinker's booster. It boosts the maximum speed for a certain period of time."
+  },
+  "wp136": {
+    "file": null,
+    "wa_num": 173,
+    "has_model": false,
+    "description": "Chimera Dragon's booster. It boosts the maximum speed for a certain period of time."
+  },
+  "wp137": {
+    "file": null,
+    "wa_num": 174,
+    "has_model": false,
+    "description": "Double Arm Lizard's booster. It boosts the maximum speed for a certain period of time."
+  },
+  "wp138": {
+    "file": null,
+    "wa_num": 175,
+    "has_model": false,
+    "description": "Long-range missiles with high accuracy. Good for attacking enemies who are coming from behind and effective when you need to gain distance from them."
+  },
+  "wp139": {
+    "file": null,
+    "wa_num": 176,
+    "has_model": false,
+    "description": "Gojulas' ultimate combat weapon."
+  },
+  "wp140": {
+    "file": null,
+    "wa_num": 177,
+    "has_model": false,
+    "description": "Geno Breaker's ultimate combat weapon."
+  },
+  "wp141": {
+    "file": null,
+    "wa_num": 178,
+    "has_model": false,
+    "description": "Death Saurer's armament. Very effective and causes huge damages to enemies."
+  },
+  "wp142": {
+    "file": null,
+    "wa_num": 179,
+    "has_model": false,
+    "description": "Lord Gale's booster. It boosts the maximum speed for a certain period of time."
+  },
+  "wp143": {
+    "file": null,
+    "wa_num": 180,
+    "has_model": false,
+    "description": "Matrix Dragon's booster. It boosts the maximum speed for a certain period of time."
+  },
+  "wp144": {
+    "file": null,
+    "wa_num": 181,
+    "has_model": false,
+    "description": "E shield for Geno Hydra. Certain damages from enemy's frontal attacks can be stopped with this. Can be used for offensive purposes also."
+  },
+  "wp145": {
+    "file": null,
+    "wa_num": 182,
+    "has_model": false,
+    "description": "Shadow Fox's ultimate combat weapon."
+  },
+  "wp152": {
+    "file": null,
+    "wa_num": 183,
+    "has_model": false,
+    "description": "Geno Saurer's ultimate combat weapon."
+  },
+  "wp153": {
+    "file": null,
+    "wa_num": 184,
+    "has_model": false,
+    "description": "E shield for Double Arm Lizard. Certain damages from enemy's frontal attacks can be stopped with this. Can be used for offensive purposes also."
+  },
+  "wp154": {
+    "file": null,
+    "wa_num": 185,
+    "has_model": false,
+    "description": "Iron Kong's ultimate combat weapon."
+  },
+  "wp155": {
+    "file": null,
+    "wa_num": 186,
+    "has_model": false,
+    "description": "- - - - -"
+  },
+  "wp156": {
+    "file": null,
+    "wa_num": 187,
+    "has_model": false,
+    "description": "E shield for Lord Gale. Certain damages from enemy's frontal attacks can be stopped with this. Can be used for offensive purposes also."
+  },
+  "wp157": {
+    "file": null,
+    "wa_num": 188,
+    "has_model": false,
+    "description": "Saber Tiger's ultimate combat weapon."
+  },
+  "wp158": {
+    "file": null,
+    "wa_num": 189,
+    "has_model": false,
+    "description": "Blade Liger's weapon for pile banker combats. It has a short range but very effective. Shreds enemy robots as it moves."
+  },
+  "wp159": {
+    "file": null,
+    "wa_num": 190,
+    "has_model": false,
+    "description": "- - - - -"
+  },
+  "wp160": {
+    "file": null,
+    "wa_num": 191,
+    "has_model": false,
+    "description": "E shield for Matrix Dragon. Certain damages from enemy's frontal attacks can be stopped with this. Can be used for offensive purposes also."
+  },
+  "wp161": {
+    "file": null,
+    "wa_num": 192,
+    "has_model": false,
+    "description": "A long-range cannon. It's an excellent weapon."
+  },
+  "wp162": {
+    "file": null,
+    "wa_num": 193,
+    "has_model": false,
+    "description": "Gojula Giga's ultimate combat weapon."
+  },
+  "wp163": {
+    "file": null,
+    "wa_num": 194,
+    "has_model": false,
+    "description": "Seismosaurus' armament. A mid-range cannon."
+  },
+  "wp164": {
+    "file": null,
+    "wa_num": 195,
+    "has_model": false,
+    "description": "Seismosaurus' armament. A mid-range beam cannon."
+  },
+  "wp165": {
+    "file": null,
+    "wa_num": 196,
+    "has_model": false,
+    "description": "Seismosaurus' armament. A mid-range beam cannon."
+  },
+  "wp166": {
+    "file": null,
+    "wa_num": 197,
+    "has_model": false,
+    "description": "Seismosaurus' armament. A mid-range beam gun. It covers wide combat areas and can shoot multiple robots."
+  },
+  "wp167": {
+    "file": null,
+    "wa_num": 198,
+    "has_model": false,
+    "description": "Liger Zero Schneider's weapon. It has a short range but very effective. Shreds enemy robots as it moves."
+  },
+  "wp168": {
+    "file": "wa0199",
+    "wa_num": 199,
+    "has_model": true,
+    "description": "Seismosaurus' armament. A charged particle gun that can erase everything it shoots. It's an excellent weapon."
+  },
+  "wp169": {
+    "file": "wa0200",
+    "wa_num": 200,
+    "has_model": true,
+    "description": "BF Strum's ultimate combat weapon."
+  },
+  "wp170": {
+    "file": "wa0201",
+    "wa_num": 201,
+    "has_model": true,
+    "description": "Lord Gale's armament. A mid-range beam cannon."
+  },
+  "wp171": {
+    "file": "wa0202",
+    "wa_num": 202,
+    "has_model": true,
+    "description": "Liger Zero X's armament. A mid-range beam cannon."
+  },
+  "wp172": {
+    "file": null,
+    "wa_num": 203,
+    "has_model": false,
+    "description": "Snipe Master's combat armament, consisting of a powerful set of nails. It has a short range but the effect is excellent."
+  },
+  "wp173": {
+    "file": "wb0204",
+    "wa_num": 204,
+    "has_model": true,
+    "description": "Proto Saber's armament. A mid-range beam cannon."
+  },
+  "wp174": {
+    "file": null,
+    "wa_num": 205,
+    "has_model": false,
+    "description": "Snipe Master's ultimate combat weapon."
+  },
+  "wp175": {
+    "file": "wa0206",
+    "wa_num": 206,
+    "has_model": true,
+    "description": "Death Stinger's armament. Very effective and causes huge damages to enemies."
+  },
+  "wp176": {
+    "file": null,
+    "wa_num": 207,
+    "has_model": false,
+    "description": "Snipe Master's armament. A strike-tonfa weapon for close-range combat. It has a short range, but the effect is enormous."
+  },
+  "wp177": {
+    "file": null,
+    "wa_num": 208,
+    "has_model": false,
+    "description": "Energy Liger's armament. A mid-range beam cannon."
+  },
+  "wp182": {
+    "file": null,
+    "wa_num": 209,
+    "has_model": false,
+    "description": "Gojulas Giga's armament. A powerful tail for close-range combats. It has a short range but effect is enormous."
+  },
+  "wp183": {
+    "file": null,
+    "wa_num": 210,
+    "has_model": false,
+    "description": "Liger Phoenix's armament. A Vulcan weapon with the capability of a burst of rounds."
+  },
+  "wp184": {
+    "file": null,
+    "wa_num": 211,
+    "has_model": false,
+    "description": "Salamander's armament. A Vulcan weapon with the capability of a burst of rounds."
+  },
+  "wp185": {
+    "file": null,
+    "wa_num": 212,
+    "has_model": false,
+    "description": "Salamander's armament. A mid-range beam gun."
+  },
+  "wp186": {
+    "file": null,
+    "wa_num": 213,
+    "has_model": false,
+    "description": "- - - - -"
+  },
+  "wp187": {
+    "file": null,
+    "wa_num": 214,
+    "has_model": false,
+    "description": "Cyclops II's armament. A mid-range cannon."
+  },
+  "wp188": {
+    "file": "wb0215",
+    "wa_num": 215,
+    "has_model": true,
+    "description": "Salamander's armament. Wide-area attacks are possible with this flame thrower."
+  },
+  "wp189": {
+    "file": "wb0216",
+    "wa_num": 216,
+    "has_model": true,
+    "description": "Liger Phoenix's armament. A mid-range cannon."
+  },
+  "wp190": {
+    "file": "wa0217",
+    "wa_num": 217,
+    "has_model": true,
+    "description": "- - - - -"
+  },
+  "wp191": {
+    "file": null,
+    "wa_num": 218,
+    "has_model": false,
+    "description": "Dark Sniper's ultimate combat weapon."
+  },
+  "wp192": {
+    "file": null,
+    "wa_num": 219,
+    "has_model": false,
+    "description": "A mid-range beam cannon made from Blox \"Shellkarn\" parts."
+  },
+  "wp193": {
+    "file": "wa0220",
+    "wa_num": 220,
+    "has_model": true,
+    "description": "A mid-range beam cannon made from Blox \"Flyscissors\" parts."
+  },
+  "wp194": {
+    "file": null,
+    "wa_num": 221,
+    "has_model": false,
+    "description": "A long-range missile made from Blox \"Nightwise\" parts."
+  },
+  "wp195": {
+    "file": "wa0222",
+    "wa_num": 222,
+    "has_model": true,
+    "description": "A long-range missile made from Blox \"Mosasledge\" parts."
+  },
+  "wp196": {
+    "file": null,
+    "wa_num": 223,
+    "has_model": false,
+    "description": "A mid-range beam cannon made from Blox \"Unenlagia\" parts."
+  },
+  "wp197": {
+    "file": null,
+    "wa_num": 224,
+    "has_model": false,
+    "description": "A mid-range beam cannon made from Blox \"Diploguns\" parts."
+  },
+  "wp198": {
+    "file": null,
+    "wa_num": 225,
+    "has_model": false,
+    "description": "A mid-range beam cannon made from Blox \"Demonshead\" parts."
+  },
+  "wp199": {
+    "file": null,
+    "wa_num": 226,
+    "has_model": false,
+    "description": "A mid-range beam cannon made from Blox \"Leoblaze\" parts."
+  },
+  "wp200": {
+    "file": null,
+    "wa_num": 227,
+    "has_model": false,
+    "description": "Diablo Tiger \ufffd\ufffd's ultimate combat weapon."
+  },
+  "wp201": {
+    "file": null,
+    "wa_num": 228,
+    "has_model": false,
+    "description": "Diablo Tiger \ufffd\ufffd's ultimate combat weapon."
+  },
+  "wp202": {
+    "file": null,
+    "wa_num": 229,
+    "has_model": false,
+    "description": "Cyclops II's ultimate combat weapon."
+  },
+  "wp203": {
+    "file": "wa0230",
+    "wa_num": 230,
+    "has_model": true,
+    "description": "- - - - -"
+  },
+  "wp204": {
+    "file": null,
+    "wa_num": 231,
+    "has_model": false,
+    "description": "- - - - -"
+  },
+  "wp205": {
+    "file": null,
+    "wa_num": 232,
+    "has_model": false,
+    "description": "- - - - -"
+  },
+  "wp206": {
+    "file": null,
+    "wa_num": 233,
+    "has_model": false,
+    "description": "Cyclops I's ultimate combat weapon."
+  },
+  "wp207": {
+    "file": null,
+    "wa_num": 234,
+    "has_model": false,
+    "description": "Sinker's ultimate combat weapon."
+  },
+  "wp208": {
+    "file": null,
+    "wa_num": 235,
+    "has_model": false,
+    "description": "Helcat's ultimate combat weapon."
+  },
+  "wp209": {
+    "file": null,
+    "wa_num": 236,
+    "has_model": false,
+    "description": "Shield Liger's ultimate combat weapon."
+  },
+  "wp210": {
+    "file": null,
+    "wa_num": 237,
+    "has_model": false,
+    "description": "Liger Aero's ultimate combat weapon."
+  },
+  "wp211": {
+    "file": null,
+    "wa_num": 238,
+    "has_model": false,
+    "description": "Proto Saber's ultimate combat weapon."
+  },
+  "wp212": {
+    "file": null,
+    "wa_num": 239,
+    "has_model": false,
+    "description": "Elephander's ultimate combat weapon."
+  },
+  "wp213": {
+    "file": null,
+    "wa_num": 240,
+    "has_model": false,
+    "description": "Geno Hydra's ultimate combat weapon."
+  },
+  "wp214": {
+    "file": null,
+    "wa_num": 241,
+    "has_model": false,
+    "description": "Trinity Liger's ultimate combat weapon."
+  },
+  "wp215": {
+    "file": null,
+    "wa_num": 242,
+    "has_model": false,
+    "description": "Blitz Tiger's ultimate combat weapon."
+  },
+  "wp216": {
+    "file": null,
+    "wa_num": 243,
+    "has_model": false,
+    "description": "Chimera Dragon's ultimate combat weapon."
+  },
+  "wp217": {
+    "file": null,
+    "wa_num": 244,
+    "has_model": false,
+    "description": "Double Arm Lizard's ultimate combat weapon."
+  },
+  "wp218": {
+    "file": null,
+    "wa_num": 245,
+    "has_model": false,
+    "description": "Lord Gale's ultimate combat weapon."
+  },
+  "wp219": {
+    "file": null,
+    "wa_num": 246,
+    "has_model": false,
+    "description": "Matrix Dragon's ultimate combat weapon."
+  },
+  "wp220": {
+    "file": null,
+    "wa_num": 247,
+    "has_model": false,
+    "description": "- - - - -"
+  },
+  "wp221": {
+    "file": null,
+    "wa_num": 248,
+    "has_model": false,
+    "description": "- - - - -"
+  },
+  "wp222": {
+    "file": null,
+    "wa_num": 249,
+    "has_model": false,
+    "description": "Griffon's ultimate combat weapon."
+  },
+  "wp223": {
+    "file": null,
+    "wa_num": 250,
+    "has_model": false,
+    "description": "- - - - -"
+  },
+  "wp224": {
+    "file": null,
+    "wa_num": 251,
+    "has_model": false,
+    "description": "Energy Liger's ultimate combat weapon."
+  },
+  "wp225": {
+    "file": null,
+    "wa_num": 252,
+    "has_model": false,
+    "description": "Liger Phoenix's ultimate combat weapon."
+  },
+  "wp226": {
+    "file": null,
+    "wa_num": 253,
+    "has_model": false,
+    "description": "\ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@"
+  },
+  "wp227": {
+    "file": null,
+    "wa_num": 254,
+    "has_model": false,
+    "description": "\ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@"
+  },
+  "wp228": {
+    "file": null,
+    "wa_num": 255,
+    "has_model": false,
+    "description": "\ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@"
+  },
+  "wp229": {
+    "file": null,
+    "wa_num": 256,
+    "has_model": false,
+    "description": "\ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@"
+  },
+  "wp230": {
+    "file": null,
+    "wa_num": 257,
+    "has_model": false,
+    "description": "\ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@"
+  },
+  "wp231": {
+    "file": null,
+    "wa_num": 258,
+    "has_model": false,
+    "description": "\ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@"
+  },
+  "wp232": {
+    "file": null,
+    "wa_num": 259,
+    "has_model": false,
+    "description": "\ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@"
+  },
+  "wp233": {
+    "file": null,
+    "wa_num": 260,
+    "has_model": false,
+    "description": "\ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@"
+  },
+  "wp234": {
+    "file": null,
+    "wa_num": 261,
+    "has_model": false,
+    "description": "\ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@"
+  },
+  "wp235": {
+    "file": null,
+    "wa_num": 262,
+    "has_model": false,
+    "description": "\ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@"
+  },
+  "wp236": {
+    "file": null,
+    "wa_num": 263,
+    "has_model": false,
+    "description": "\ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@"
+  },
+  "wp237": {
+    "file": null,
+    "wa_num": 264,
+    "has_model": false,
+    "description": "\ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@"
+  },
+  "wp238": {
+    "file": null,
+    "wa_num": 265,
+    "has_model": false,
+    "description": "\ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@"
+  },
+  "wp239": {
+    "file": null,
+    "wa_num": 266,
+    "has_model": false,
+    "description": "\ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@"
+  },
+  "wp240": {
+    "file": null,
+    "wa_num": 267,
+    "has_model": false,
+    "description": "\ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@"
+  },
+  "wp241": {
+    "file": null,
+    "wa_num": 268,
+    "has_model": false,
+    "description": "\ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@"
+  },
+  "wp242": {
+    "file": null,
+    "wa_num": 269,
+    "has_model": false,
+    "description": "\ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@"
+  },
+  "wp243": {
+    "file": null,
+    "wa_num": 270,
+    "has_model": false,
+    "description": "\ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@"
+  },
+  "wp244": {
+    "file": null,
+    "wa_num": 271,
+    "has_model": false,
+    "description": "A multi-missile launcher with high accuracy."
+  },
+  "wp245": {
+    "file": null,
+    "wa_num": 272,
+    "has_model": false,
+    "description": "Death Saurer's armament. A gun for mid-range combats."
+  },
+  "wp246": {
+    "file": null,
+    "wa_num": 273,
+    "has_model": false,
+    "description": "Death Saurer's armament. A gun for mid-range combats."
+  },
+  "wp247": {
+    "file": null,
+    "wa_num": 274,
+    "has_model": false,
+    "description": "Death Saurer's armament. A gun for mid-range combats."
+  },
+  "wp248": {
+    "file": null,
+    "wa_num": 275,
+    "has_model": false,
+    "description": "\ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@"
+  },
+  "wp249": {
+    "file": null,
+    "wa_num": 276,
+    "has_model": false,
+    "description": "Death Saurer's armament. A multi-missile launcher with high accuracy."
+  },
+  "wp250": {
+    "file": null,
+    "wa_num": 277,
+    "has_model": false,
+    "description": "Liger Phoenix's booster. It boosts the maximum speed for a certain period of time."
+  },
+  "wp251": {
+    "file": null,
+    "wa_num": 278,
+    "has_model": false,
+    "description": "E shield for Liger Phoenix. Certain damages from enemy's frontal attacks can be stopped with this. Can be used for offensive purposes also."
+  },
+  "wp252": {
+    "file": null,
+    "wa_num": 279,
+    "has_model": false,
+    "description": "Energy Liger's booster. It boosts the maximum speed for a certain period of time."
+  },
+  "wp253": {
+    "file": null,
+    "wa_num": 280,
+    "has_model": false,
+    "description": "E shield for Energy Liger. Certain damages from enemy's frontal attacks can be stopped with this. Can be used for offensive purposes also."
+  },
+  "wp254": {
+    "file": null,
+    "wa_num": 281,
+    "has_model": false,
+    "description": "Death Stinger's armament. A cannon for mid-range combats."
+  },
+  "wp255": {
+    "file": null,
+    "wa_num": 282,
+    "has_model": false,
+    "description": "Diable Tiger's armament. A cannon for mid-range combats."
+  },
+  "wp256": {
+    "file": null,
+    "wa_num": 283,
+    "has_model": false,
+    "description": "Death Stinger's armament. A Vulcan weapon with the capability of a burst of rounds."
+  },
+  "wp257": {
+    "file": null,
+    "wa_num": 284,
+    "has_model": false,
+    "description": "\ufffd\ufffd\ufffdK\ufffdU\ufffdE\ufffd\ufffd\ufffd[\ufffd\ufffd\ufffdp\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdB\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdA\ufffd\ufffd\ufffd_\ufffd\ufffd\ufffd[\ufffdW\ufffd\ufffd\ufffd^\ufffd\ufffd\ufffd\ufffd\ufffdB\ufffd@ \ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@"
+  },
+  "wp258": {
+    "file": null,
+    "wa_num": 285,
+    "has_model": false,
+    "description": "Death Stinger's armament. A Vulcan weapon with the capability of a burst of rounds."
+  },
+  "wp259": {
+    "file": null,
+    "wa_num": 286,
+    "has_model": false,
+    "description": "\ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@"
+  },
+  "wp260": {
+    "file": null,
+    "wa_num": 287,
+    "has_model": false,
+    "description": "\ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@"
+  },
+  "wp261": {
+    "file": null,
+    "wa_num": 288,
+    "has_model": false,
+    "description": "\ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@"
+  },
+  "wp262": {
+    "file": null,
+    "wa_num": 289,
+    "has_model": false,
+    "description": "\ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@"
+  },
+  "wp263": {
+    "file": null,
+    "wa_num": 290,
+    "has_model": false,
+    "description": "Death Stinger's armament. A Vulcan weapon with the capability of a burst of rounds."
+  },
+  "wp264": {
+    "file": null,
+    "wa_num": 291,
+    "has_model": false,
+    "description": "\ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@"
+  },
+  "wp276": {
+    "file": null,
+    "wa_num": 292,
+    "has_model": false,
+    "description": "Dark Sniper's armament. A cannon for mid-range combat."
+  },
+  "wp277": {
+    "file": null,
+    "wa_num": 293,
+    "has_model": false,
+    "description": "A smoke-screen generator, with which enemy's visibility is lost. A robot that touches the black smoke becomes unsearchable."
+  },
+  "wp278": {
+    "file": null,
+    "wa_num": 294,
+    "has_model": false,
+    "description": "\ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@"
+  },
+  "wp279": {
+    "file": null,
+    "wa_num": 295,
+    "has_model": false,
+    "description": "\ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@"
+  },
+  "wp280": {
+    "file": null,
+    "wa_num": 296,
+    "has_model": false,
+    "description": "\ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@"
+  },
+  "wp281": {
+    "file": null,
+    "wa_num": 297,
+    "has_model": false,
+    "description": "\ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@"
+  },
+  "wp282": {
+    "file": null,
+    "wa_num": 298,
+    "has_model": false,
+    "description": "\ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@"
+  },
+  "wp283": {
+    "file": null,
+    "wa_num": 299,
+    "has_model": false,
+    "description": "\ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@"
+  },
+  "wp284": {
+    "file": null,
+    "wa_num": 300,
+    "has_model": false,
+    "description": "\ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@"
+  },
+  "wp285": {
+    "file": "wa0301",
+    "wa_num": 301,
+    "has_model": true,
+    "description": "\ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@"
+  },
+  "wp286": {
+    "file": "wa0302",
+    "wa_num": 302,
+    "has_model": true,
+    "description": "\ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@"
+  },
+  "wp287": {
+    "file": "wa0303",
+    "wa_num": 303,
+    "has_model": true,
+    "description": "\ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@"
+  },
+  "wp288": {
+    "file": null,
+    "wa_num": 304,
+    "has_model": false,
+    "description": "\ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@"
+  },
+  "wp289": {
+    "file": null,
+    "wa_num": 305,
+    "has_model": false,
+    "description": "\ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@"
+  },
+  "wp290": {
+    "file": null,
+    "wa_num": 306,
+    "has_model": false,
+    "description": "\ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@"
+  },
+  "wp291": {
+    "file": null,
+    "wa_num": 307,
+    "has_model": false,
+    "description": "\ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@"
+  },
+  "wp292": {
+    "file": "wb0308",
+    "wa_num": 308,
+    "has_model": true,
+    "description": "\ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@"
+  },
+  "wp293": {
+    "file": "wb0309",
+    "wa_num": 309,
+    "has_model": true,
+    "description": "A beam cannon for mid-range combats."
+  },
+  "wp294": {
+    "file": "wb0310",
+    "wa_num": 310,
+    "has_model": true,
+    "description": "\ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@"
+  },
+  "wp295": {
+    "file": null,
+    "wa_num": 311,
+    "has_model": false,
+    "description": "\ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@"
+  },
+  "wp296": {
+    "file": null,
+    "wa_num": 312,
+    "has_model": false,
+    "description": "\ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@"
+  },
+  "wp297": {
+    "file": null,
+    "wa_num": 313,
+    "has_model": false,
+    "description": "\ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@"
+  },
+  "wp298": {
+    "file": "wb0314",
+    "wa_num": 314,
+    "has_model": true,
+    "description": "A weapon that works for both beams and missiles."
+  },
+  "wp299": {
+    "file": "wb0315",
+    "wa_num": 315,
+    "has_model": true,
+    "description": "Iron Kong's armament. Long-range missiles with high accuracy."
+  },
+  "wp300": {
+    "file": "wb0316",
+    "wa_num": 316,
+    "has_model": true,
+    "description": "Iron Kong's armament. A beam cannon for mid-range combats."
+  },
+  "wp301": {
+    "file": null,
+    "wa_num": 317,
+    "has_model": false,
+    "description": "A weapon that works for both beams and missiles."
+  },
+  "wp302": {
+    "file": null,
+    "wa_num": 318,
+    "has_model": false,
+    "description": "Mega Saurer's armament. Very effective and causes huge damages to enemies."
+  },
+  "wp303": {
+    "file": "wb0319",
+    "wa_num": 319,
+    "has_model": true,
+    "description": "Long-range missiles with high accuracy. Good for attacking enemies who are coming from behind and effective when you need to gain distance from them."
+  },
+  "wp304": {
+    "file": "wa0320",
+    "wa_num": 320,
+    "has_model": true,
+    "description": "A Vulcan weapon with a burst of rounds."
+  },
+  "wp305": {
+    "file": null,
+    "wa_num": 321,
+    "has_model": false,
+    "description": "A weapon that works for both beams and missiles."
+  },
+  "wp306": {
+    "file": null,
+    "wa_num": 322,
+    "has_model": false,
+    "description": "\ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@"
+  },
+  "wp307": {
+    "file": null,
+    "wa_num": 323,
+    "has_model": false,
+    "description": "A multi-shot missile armament with high accuracy."
+  },
+  "wp308": {
+    "file": null,
+    "wa_num": 324,
+    "has_model": false,
+    "description": "A multi-shot missile armament with high accuracy."
+  },
+  "wp309": {
+    "file": null,
+    "wa_num": 325,
+    "has_model": false,
+    "description": "A multi-shot missile armament with high accuracy."
+  },
+  "wp310": {
+    "file": null,
+    "wa_num": 326,
+    "has_model": false,
+    "description": "A multi-shot missile armament with high accuracy."
+  },
+  "wp311": {
+    "file": null,
+    "wa_num": 327,
+    "has_model": false,
+    "description": "A multi-shot missile armament with high accuracy. Very effective for a burst of rounds."
+  },
+  "wp312": {
+    "file": null,
+    "wa_num": 328,
+    "has_model": false,
+    "description": "\ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@"
+  },
+  "wp313": {
+    "file": null,
+    "wa_num": 329,
+    "has_model": false,
+    "description": "\ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@"
+  },
+  "wp314": {
+    "file": "wa0330",
+    "wa_num": 330,
+    "has_model": true,
+    "description": "\ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@"
+  },
+  "wp315": {
+    "file": null,
+    "wa_num": 331,
+    "has_model": false,
+    "description": "\ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@"
+  },
+  "wp316": {
+    "file": null,
+    "wa_num": 332,
+    "has_model": false,
+    "description": "\ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@"
+  },
+  "wp317": {
+    "file": null,
+    "wa_num": 333,
+    "has_model": false,
+    "description": "\ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@"
+  },
+  "wp318": {
+    "file": null,
+    "wa_num": 334,
+    "has_model": false,
+    "description": "\ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@"
+  },
+  "wp319": {
+    "file": null,
+    "wa_num": 335,
+    "has_model": false,
+    "description": "\ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@"
+  },
+  "wp320": {
+    "file": null,
+    "wa_num": 336,
+    "has_model": false,
+    "description": "\ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@"
+  },
+  "wp321": {
+    "file": null,
+    "wa_num": 337,
+    "has_model": false,
+    "description": "\ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@"
+  },
+  "wp322": {
+    "file": null,
+    "wa_num": 338,
+    "has_model": false,
+    "description": "\ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@"
+  },
+  "wp323": {
+    "file": null,
+    "wa_num": 339,
+    "has_model": false,
+    "description": "Dark Sniper's armament. A beam cannon for mid-range combat."
+  },
+  "wp324": {
+    "file": "wa0340",
+    "wa_num": 340,
+    "has_model": true,
+    "description": "\ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@"
+  },
+  "wp325": {
+    "file": null,
+    "wa_num": 341,
+    "has_model": false,
+    "description": "Cannon Tortoise's booster. It boosts the maximum speed for a certain period of time."
+  },
+  "wp326": {
+    "file": null,
+    "wa_num": 342,
+    "has_model": false,
+    "description": "Dibison's booster. It boosts the maximum speed for a certain period of time."
+  },
+  "wp327": {
+    "file": null,
+    "wa_num": 343,
+    "has_model": false,
+    "description": "Molga's booster. It boosts the maximum speed for a certain period of time."
+  },
+  "wp328": {
+    "file": null,
+    "wa_num": 344,
+    "has_model": false,
+    "description": "Konig Wolf's booster. It boosts the maximum speed for a certain period of time."
+  },
+  "wp329": {
+    "file": null,
+    "wa_num": 345,
+    "has_model": false,
+    "description": "\ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@"
+  },
+  "wp330": {
+    "file": null,
+    "wa_num": 346,
+    "has_model": false,
+    "description": "Panzer's booster. It boosts the maximum speed for a certain period of time."
+  },
+  "wp331": {
+    "file": null,
+    "wa_num": 347,
+    "has_model": false,
+    "description": "X's booster. It boosts the maximum speed for a certain period of time."
+  },
+  "wp332": {
+    "file": null,
+    "wa_num": 348,
+    "has_model": false,
+    "description": "\ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@"
+  },
+  "wp333": {
+    "file": null,
+    "wa_num": 349,
+    "has_model": false,
+    "description": "Gojulas' booster. It boosts the maximum speed for a certain period of time."
+  },
+  "wp334": {
+    "file": null,
+    "wa_num": 350,
+    "has_model": false,
+    "description": "Shadow Fox's booster. It boosts the maximum speed for a certain period of time."
+  },
+  "wp335": {
+    "file": null,
+    "wa_num": 351,
+    "has_model": false,
+    "description": "Rev Raptor's booster. It boosts the maximum speed for a certain period of time."
+  },
+  "wp336": {
+    "file": null,
+    "wa_num": 352,
+    "has_model": false,
+    "description": "Geno Saurer's booster. It boosts the maximum speed for a certain period of time."
+  },
+  "wp337": {
+    "file": null,
+    "wa_num": 353,
+    "has_model": false,
+    "description": "\ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@"
+  },
+  "wp338": {
+    "file": null,
+    "wa_num": 354,
+    "has_model": false,
+    "description": "Gun Sniper's booster. It boosts the maximum speed for a certain period of time."
+  },
+  "wp339": {
+    "file": null,
+    "wa_num": 355,
+    "has_model": false,
+    "description": "A booster for Saber Tiger and Proto Saber. It boosts the maximum speed for a certain period of time."
+  },
+  "wp340": {
+    "file": null,
+    "wa_num": 356,
+    "has_model": false,
+    "description": "Red Horn's booster. It boosts the maximum speed for a certain period of time."
+  },
+  "wp341": {
+    "file": null,
+    "wa_num": 357,
+    "has_model": false,
+    "description": "BF Strum's booster. It boosts the maximum speed for a certain period of time."
+  },
+  "wp342": {
+    "file": null,
+    "wa_num": 358,
+    "has_model": false,
+    "description": "Snipe Master's booster. It boosts the maximum speed for a certain period of time."
+  },
+  "wp343": {
+    "file": null,
+    "wa_num": 359,
+    "has_model": false,
+    "description": "Snipe Master's booster. It boosts the maximum speed for a certain period of time."
+  },
+  "wp344": {
+    "file": null,
+    "wa_num": 360,
+    "has_model": false,
+    "description": "-"
+  },
+  "wp345": {
+    "file": null,
+    "wa_num": 361,
+    "has_model": false,
+    "description": "Blitz Tiger's booster. It boosts the maximum speed for a certain period of time."
+  },
+  "wp346": {
+    "file": null,
+    "wa_num": 362,
+    "has_model": false,
+    "description": "Cyclops I's booster. It boosts the maximum speed for a certain period of time."
+  },
+  "wp347": {
+    "file": null,
+    "wa_num": 363,
+    "has_model": false,
+    "description": "Cyclops II's booster. It boosts the maximum speed for a certain period of time."
+  },
+  "wp348": {
+    "file": null,
+    "wa_num": 364,
+    "has_model": false,
+    "description": "\ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@"
+  },
+  "wp349": {
+    "file": null,
+    "wa_num": 365,
+    "has_model": false,
+    "description": "\ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@"
+  },
+  "wp350": {
+    "file": null,
+    "wa_num": 366,
+    "has_model": false,
+    "description": "Blade Liger's booster. It boosts the maximum speed for a certain period of time."
+  },
+  "wp351": {
+    "file": null,
+    "wa_num": 367,
+    "has_model": false,
+    "description": "Liger Zero's booster. It boosts the maximum speed for a certain period of time."
+  },
+  "wp352": {
+    "file": null,
+    "wa_num": 368,
+    "has_model": false,
+    "description": "Iron Kong's booster. It boosts the maximum speed for a certain period of time."
+  },
+  "wp353": {
+    "file": null,
+    "wa_num": 369,
+    "has_model": false,
+    "description": "Lightning Saix's booster. It boosts the maximum speed for a certain period of time."
+  },
+  "wp354": {
+    "file": null,
+    "wa_num": 370,
+    "has_model": false,
+    "description": "Command Wolf and Lord Gale's booster. It boosts the maximum speed for a certain period of time."
+  },
+  "wp355": {
+    "file": null,
+    "wa_num": 371,
+    "has_model": false,
+    "description": "\ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@"
+  },
+  "wp356": {
+    "file": null,
+    "wa_num": 372,
+    "has_model": false,
+    "description": "Schneider's booster. It boosts the maximum speed for a certain period of time."
+  },
+  "wp357": {
+    "file": null,
+    "wa_num": 373,
+    "has_model": false,
+    "description": "Jager's booster. It boosts the maximum speed for a certain period of time."
+  },
+  "wp358": {
+    "file": null,
+    "wa_num": 374,
+    "has_model": false,
+    "description": "\ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@"
+  },
+  "wp359": {
+    "file": null,
+    "wa_num": 375,
+    "has_model": false,
+    "description": "Berserk Fuhrer's booster. It boosts the maximum speed for a certain period of time."
+  },
+  "wp360": {
+    "file": null,
+    "wa_num": 376,
+    "has_model": false,
+    "description": "\ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@"
+  },
+  "wp361": {
+    "file": null,
+    "wa_num": 377,
+    "has_model": false,
+    "description": "\ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@"
+  },
+  "wp370": {
+    "file": null,
+    "wa_num": 378,
+    "has_model": false,
+    "description": "E shield for Dibison. Certain damages from enemy's frontal attacks can be stopped with this. Can be used for offensive purposes also."
+  },
+  "wp371": {
+    "file": null,
+    "wa_num": 379,
+    "has_model": false,
+    "description": "E shield for Liger Zero. Certain damages from enemy's frontal attacks can be stopped with this. Can be used for offensive purposes also."
+  },
+  "wp372": {
+    "file": null,
+    "wa_num": 380,
+    "has_model": false,
+    "description": "E shield for Molga. Certain damages from enemy's frontal attacks can be stopped with this. Can be used for offensive purposes also."
+  },
+  "wp373": {
+    "file": null,
+    "wa_num": 381,
+    "has_model": false,
+    "description": "E shield for Konig Wolf. Certain damages from enemy's frontal attacks can be stopped with this. Can be used for offensive purposes also."
+  },
+  "wp374": {
+    "file": null,
+    "wa_num": 382,
+    "has_model": false,
+    "description": "E shield for LZ Jager. Certain damages from enemy's frontal attacks can be stopped with this. Can be used for offensive purposes also."
+  },
+  "wp375": {
+    "file": null,
+    "wa_num": 383,
+    "has_model": false,
+    "description": "E shield for Panzer. Certain damages from enemy's frontal attacks can be stopped with this. Can be used for offensive purposes also."
+  },
+  "wp376": {
+    "file": null,
+    "wa_num": 384,
+    "has_model": false,
+    "description": "E shield for X. Certain damages from enemy's frontal attacks can be stopped with this. Can be used for offensive purposes also."
+  },
+  "wp377": {
+    "file": null,
+    "wa_num": 385,
+    "has_model": false,
+    "description": "E shield for Lightning Saix. Certain damages from enemy's frontal attacks can be stopped with this. Can be used for offensive purposes also."
+  },
+  "wp378": {
+    "file": null,
+    "wa_num": 386,
+    "has_model": false,
+    "description": "E shield for Gojulas. Certain damages from enemy's frontal attacks can be stopped with this. Can be used for offensive purposes also."
+  },
+  "wp379": {
+    "file": null,
+    "wa_num": 387,
+    "has_model": false,
+    "description": "E shield for Geno Breaker. Certain damages from enemy's frontal attacks can be stopped with this. Can be used for offensive purposes also."
+  },
+  "wp380": {
+    "file": null,
+    "wa_num": 388,
+    "has_model": false,
+    "description": "\ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@"
+  },
+  "wp381": {
+    "file": null,
+    "wa_num": 389,
+    "has_model": false,
+    "description": "E shield for Shadow Fox. Certain damages from enemy's frontal attacks can be stopped with this. Can be used for offensive purposes also."
+  },
+  "wp382": {
+    "file": null,
+    "wa_num": 390,
+    "has_model": false,
+    "description": "E shield for Rev Raptor. Certain damages from enemy's frontal attacks can be stopped with this. Can be used for offensive purposes also."
+  },
+  "wp383": {
+    "file": null,
+    "wa_num": 391,
+    "has_model": false,
+    "description": "E shield for Geno Saurer. Certain damages from enemy's frontal attacks can be stopped with this. Can be used for offensive purposes also."
+  },
+  "wp384": {
+    "file": null,
+    "wa_num": 392,
+    "has_model": false,
+    "description": "E shield for Iron Kong. Certain damages from enemy's frontal attacks can be stopped with this. Can be used for offensive purposes also."
+  },
+  "wp385": {
+    "file": null,
+    "wa_num": 393,
+    "has_model": false,
+    "description": "E shield for Gun Sniper. Certain damages from enemy's frontal attacks can be stopped with this. Can be used for offensive purposes also."
+  },
+  "wp386": {
+    "file": null,
+    "wa_num": 394,
+    "has_model": false,
+    "description": "E shield for Saber Tiger. Certain damages from enemy's frontal attacks can be stopped with this. Can be used for offensive purposes also."
+  },
+  "wp387": {
+    "file": null,
+    "wa_num": 395,
+    "has_model": false,
+    "description": "E shield for Red Horn. Certain damages from enemy's frontal attacks can be stopped with this. Can be used for offensive purposes also."
+  },
+  "wp388": {
+    "file": null,
+    "wa_num": 396,
+    "has_model": false,
+    "description": "E shield for Snipe Master. Certain damages from enemy's frontal attacks can be stopped with this. Can be used for offensive purposes also."
+  },
+  "wp389": {
+    "file": null,
+    "wa_num": 397,
+    "has_model": false,
+    "description": "E shield for Dark Sniper. Certain damages from enemy's frontal attacks can be stopped with this. Can be used for offensive purposes also."
+  },
+  "wp390": {
+    "file": null,
+    "wa_num": 398,
+    "has_model": false,
+    "description": "E shield for Diablo Tiger. Certain damages from enemy's frontal attacks can be stopped with this. Can be used for offensive purposes also."
+  },
+  "wp391": {
+    "file": null,
+    "wa_num": 399,
+    "has_model": false,
+    "description": "E shield for Cyclops II. Certain damages from enemy's frontal attacks can be stopped with this. Can be used for offensive purposes also."
+  },
+  "wp392": {
+    "file": null,
+    "wa_num": 400,
+    "has_model": false,
+    "description": "E shield for Cyclops I. Certain damages from enemy's frontal attacks can be stopped with this. Can be used for offensive purposes also."
+  },
+  "wp393": {
+    "file": "wa0401",
+    "wa_num": 401,
+    "has_model": true,
+    "description": "\ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@"
+  },
+  "wp402": {
+    "file": "wa0402",
+    "wa_num": 402,
+    "has_model": true,
+    "description": "\ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@"
+  },
+  "wp403": {
+    "file": "wa0403",
+    "wa_num": 403,
+    "has_model": true,
+    "description": "\ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@"
+  },
+  "wp404": {
+    "file": "wb0404",
+    "wa_num": 404,
+    "has_model": true,
+    "description": "\ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@"
+  },
+  "wp405": {
+    "file": "wa0405",
+    "wa_num": 405,
+    "has_model": true,
+    "description": "\ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@"
+  },
+  "wp406": {
+    "file": null,
+    "wa_num": 406,
+    "has_model": false,
+    "description": "\ufffd]\ufffdC\ufffdh\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdo\ufffd\ufffd\ufffdE\ufffd\ufffd\ufffdg\ufffd\ufffd\ufffdy\ufffdB \ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd]\ufffdC\ufffdh\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdB\ufffd@\ufffd@ \ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@"
+  },
+  "wp407": {
+    "file": null,
+    "wa_num": 407,
+    "has_model": false,
+    "description": "\ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@"
+  },
+  "wp408": {
+    "file": null,
+    "wa_num": 408,
+    "has_model": false,
+    "description": "\ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@"
+  },
+  "wp409": {
+    "file": null,
+    "wa_num": 409,
+    "has_model": false,
+    "description": "\ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@"
+  },
+  "wp410": {
+    "file": null,
+    "wa_num": 410,
+    "has_model": false,
+    "description": "\ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@"
+  },
+  "wp411": {
+    "file": null,
+    "wa_num": 411,
+    "has_model": false,
+    "description": "Metal parts that strengthens Zoids' armor. This can be worn by any Zoid."
+  },
+  "wp412": {
+    "file": null,
+    "wa_num": 412,
+    "has_model": false,
+    "description": "Metal parts that strengthens Zoids' armor. This can be worn by any Zoid."
+  },
+  "wp413": {
+    "file": "wa0413",
+    "wa_num": 413,
+    "has_model": true,
+    "description": "Metal parts that strengthens Zoids' armor. This can be worn by any Zoid."
+  },
+  "wp414": {
+    "file": null,
+    "wa_num": 414,
+    "has_model": false,
+    "description": "Metal parts that strengthens Zoids' armor. This can be worn by any Zoid."
+  },
+  "wp415": {
+    "file": null,
+    "wa_num": 415,
+    "has_model": false,
+    "description": "Metal parts that strengthens Zoids' armor. This can be worn by any Zoid."
+  },
+  "wp416": {
+    "file": "wa0416",
+    "wa_num": 416,
+    "has_model": true,
+    "description": "A search-radar reenforcement part: it widens the enemy search areas. Can be worn by any Zoid."
+  },
+  "wp417": {
+    "file": null,
+    "wa_num": 417,
+    "has_model": false,
+    "description": "A search-radar reenforcing part: it widens the enemy search areas. Can be worn by any Zoid."
+  },
+  "wp418": {
+    "file": null,
+    "wa_num": 418,
+    "has_model": false,
+    "description": "A search-radar reenforcing part: it widens the enemy search areas. Can be worn by any Zoid."
+  },
+  "wp419": {
+    "file": null,
+    "wa_num": 419,
+    "has_model": false,
+    "description": "\ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@"
+  },
+  "wp420": {
+    "file": "wb0420",
+    "wa_num": 420,
+    "has_model": true,
+    "description": "\ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@"
+  },
+  "wp421": {
+    "file": null,
+    "wa_num": 421,
+    "has_model": false,
+    "description": "\ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@"
+  },
+  "wp422": {
+    "file": null,
+    "wa_num": 422,
+    "has_model": false,
+    "description": "A map-radar reenforcing part. This can be worn by any Zoid."
+  },
+  "wp423": {
+    "file": null,
+    "wa_num": 423,
+    "has_model": false,
+    "description": "A map-radar reenforcing part. This can be worn by any Zoid."
+  },
+  "wp424": {
+    "file": null,
+    "wa_num": 424,
+    "has_model": false,
+    "description": "\ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@"
+  },
+  "wp425": {
+    "file": null,
+    "wa_num": 425,
+    "has_model": false,
+    "description": "\ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@ \ufffd\ufffd\ufffdL\ufffd\ufffd\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@\ufffd@"
+  }
+}

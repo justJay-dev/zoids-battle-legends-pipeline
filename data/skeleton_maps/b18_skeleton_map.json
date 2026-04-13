@@ -1,0 +1,609 @@
+{
+  "rest_pose_count": 27,
+  "model_joint_count": 180,
+  "links": [
+    {
+      "rest_joint": 28,
+      "link_type": "sibling",
+      "model_offset": 185092,
+      "model_dfs_idx": 141,
+      "model_name": ""
+    },
+    {
+      "rest_joint": 30,
+      "link_type": "child",
+      "model_offset": 184780,
+      "model_dfs_idx": 138,
+      "model_name": ""
+    },
+    {
+      "rest_joint": 33,
+      "link_type": "sibling",
+      "model_offset": 173988,
+      "model_dfs_idx": 26,
+      "model_name": ""
+    },
+    {
+      "rest_joint": 34,
+      "link_type": "sibling",
+      "model_offset": 184160,
+      "model_dfs_idx": 133,
+      "model_name": ""
+    },
+    {
+      "rest_joint": 44,
+      "link_type": "child",
+      "model_offset": 172492,
+      "model_dfs_idx": 3,
+      "model_name": "b18_att_E_joint"
+    },
+    {
+      "rest_joint": 45,
+      "link_type": "child",
+      "model_offset": 172492,
+      "model_dfs_idx": 3,
+      "model_name": "b18_att_E_joint"
+    },
+    {
+      "rest_joint": 53,
+      "link_type": "child",
+      "model_offset": 172492,
+      "model_dfs_idx": 3,
+      "model_name": "b18_att_E_joint"
+    },
+    {
+      "rest_joint": 57,
+      "link_type": "child",
+      "model_offset": 184160,
+      "model_dfs_idx": 133,
+      "model_name": ""
+    },
+    {
+      "rest_joint": 57,
+      "link_type": "sibling",
+      "model_offset": 184036,
+      "model_dfs_idx": 132,
+      "model_name": ""
+    },
+    {
+      "rest_joint": 59,
+      "link_type": "child",
+      "model_offset": 186712,
+      "model_dfs_idx": 159,
+      "model_name": ""
+    },
+    {
+      "rest_joint": 61,
+      "link_type": "child",
+      "model_offset": 188740,
+      "model_dfs_idx": 177,
+      "model_name": ""
+    },
+    {
+      "rest_joint": 63,
+      "link_type": "sibling",
+      "model_offset": 183476,
+      "model_dfs_idx": 127,
+      "model_name": ""
+    },
+    {
+      "rest_joint": 64,
+      "link_type": "sibling",
+      "model_offset": 185092,
+      "model_dfs_idx": 141,
+      "model_name": ""
+    },
+    {
+      "rest_joint": 66,
+      "link_type": "child",
+      "model_offset": 187472,
+      "model_dfs_idx": 166,
+      "model_name": ""
+    },
+    {
+      "rest_joint": 66,
+      "link_type": "sibling",
+      "model_offset": 180892,
+      "model_dfs_idx": 99,
+      "model_name": ""
+    },
+    {
+      "rest_joint": 67,
+      "link_type": "child",
+      "model_offset": 177528,
+      "model_dfs_idx": 65,
+      "model_name": "b18_R_ARM2_joint"
+    },
+    {
+      "rest_joint": 98,
+      "link_type": "child",
+      "model_offset": 176780,
+      "model_dfs_idx": 58,
+      "model_name": "b18_NECK1_joint"
+    },
+    {
+      "rest_joint": 101,
+      "link_type": "sibling",
+      "model_offset": 186340,
+      "model_dfs_idx": 156,
+      "model_name": ""
+    },
+    {
+      "rest_joint": 103,
+      "link_type": "sibling",
+      "model_offset": 180320,
+      "model_dfs_idx": 94,
+      "model_name": ""
+    },
+    {
+      "rest_joint": 106,
+      "link_type": "child",
+      "model_offset": 184780,
+      "model_dfs_idx": 138,
+      "model_name": ""
+    },
+    {
+      "rest_joint": 108,
+      "link_type": "sibling",
+      "model_offset": 177776,
+      "model_dfs_idx": 67,
+      "model_name": ""
+    },
+    {
+      "rest_joint": 109,
+      "link_type": "child",
+      "model_offset": 183476,
+      "model_dfs_idx": 127,
+      "model_name": ""
+    },
+    {
+      "rest_joint": 111,
+      "link_type": "child",
+      "model_offset": 177404,
+      "model_dfs_idx": 64,
+      "model_name": "b18_R_ARM1_joint"
+    },
+    {
+      "rest_joint": 113,
+      "link_type": "child",
+      "model_offset": 187596,
+      "model_dfs_idx": 167,
+      "model_name": ""
+    },
+    {
+      "rest_joint": 123,
+      "link_type": "child",
+      "model_offset": 186340,
+      "model_dfs_idx": 156,
+      "model_name": ""
+    },
+    {
+      "rest_joint": 128,
+      "link_type": "child",
+      "model_offset": 178024,
+      "model_dfs_idx": 69,
+      "model_name": ""
+    },
+    {
+      "rest_joint": 128,
+      "link_type": "sibling",
+      "model_offset": 175892,
+      "model_dfs_idx": 49,
+      "model_name": ""
+    },
+    {
+      "rest_joint": 133,
+      "link_type": "child",
+      "model_offset": 172620,
+      "model_dfs_idx": 5,
+      "model_name": "b18_L_shoe_joint"
+    },
+    {
+      "rest_joint": 139,
+      "link_type": "sibling",
+      "model_offset": 172952,
+      "model_dfs_idx": 10,
+      "model_name": ""
+    },
+    {
+      "rest_joint": 143,
+      "link_type": "child",
+      "model_offset": 173540,
+      "model_dfs_idx": 19,
+      "model_name": ""
+    },
+    {
+      "rest_joint": 146,
+      "link_type": "child",
+      "model_offset": 173732,
+      "model_dfs_idx": 22,
+      "model_name": ""
+    },
+    {
+      "rest_joint": 148,
+      "link_type": "child",
+      "model_offset": 173988,
+      "model_dfs_idx": 26,
+      "model_name": ""
+    },
+    {
+      "rest_joint": 162,
+      "link_type": "child",
+      "model_offset": 174836,
+      "model_dfs_idx": 37,
+      "model_name": ""
+    },
+    {
+      "rest_joint": 166,
+      "link_type": "sibling",
+      "model_offset": 174976,
+      "model_dfs_idx": 39,
+      "model_name": ""
+    }
+  ],
+  "rest_joint_to_model": {
+    "28": [
+      {
+        "rest_joint": 28,
+        "link_type": "sibling",
+        "model_offset": 185092,
+        "model_dfs_idx": 141,
+        "model_name": ""
+      }
+    ],
+    "30": [
+      {
+        "rest_joint": 30,
+        "link_type": "child",
+        "model_offset": 184780,
+        "model_dfs_idx": 138,
+        "model_name": ""
+      }
+    ],
+    "33": [
+      {
+        "rest_joint": 33,
+        "link_type": "sibling",
+        "model_offset": 173988,
+        "model_dfs_idx": 26,
+        "model_name": ""
+      }
+    ],
+    "34": [
+      {
+        "rest_joint": 34,
+        "link_type": "sibling",
+        "model_offset": 184160,
+        "model_dfs_idx": 133,
+        "model_name": ""
+      }
+    ],
+    "44": [
+      {
+        "rest_joint": 44,
+        "link_type": "child",
+        "model_offset": 172492,
+        "model_dfs_idx": 3,
+        "model_name": "b18_att_E_joint"
+      }
+    ],
+    "45": [
+      {
+        "rest_joint": 45,
+        "link_type": "child",
+        "model_offset": 172492,
+        "model_dfs_idx": 3,
+        "model_name": "b18_att_E_joint"
+      }
+    ],
+    "53": [
+      {
+        "rest_joint": 53,
+        "link_type": "child",
+        "model_offset": 172492,
+        "model_dfs_idx": 3,
+        "model_name": "b18_att_E_joint"
+      }
+    ],
+    "57": [
+      {
+        "rest_joint": 57,
+        "link_type": "child",
+        "model_offset": 184160,
+        "model_dfs_idx": 133,
+        "model_name": ""
+      },
+      {
+        "rest_joint": 57,
+        "link_type": "sibling",
+        "model_offset": 184036,
+        "model_dfs_idx": 132,
+        "model_name": ""
+      }
+    ],
+    "59": [
+      {
+        "rest_joint": 59,
+        "link_type": "child",
+        "model_offset": 186712,
+        "model_dfs_idx": 159,
+        "model_name": ""
+      }
+    ],
+    "61": [
+      {
+        "rest_joint": 61,
+        "link_type": "child",
+        "model_offset": 188740,
+        "model_dfs_idx": 177,
+        "model_name": ""
+      }
+    ],
+    "63": [
+      {
+        "rest_joint": 63,
+        "link_type": "sibling",
+        "model_offset": 183476,
+        "model_dfs_idx": 127,
+        "model_name": ""
+      }
+    ],
+    "64": [
+      {
+        "rest_joint": 64,
+        "link_type": "sibling",
+        "model_offset": 185092,
+        "model_dfs_idx": 141,
+        "model_name": ""
+      }
+    ],
+    "66": [
+      {
+        "rest_joint": 66,
+        "link_type": "child",
+        "model_offset": 187472,
+        "model_dfs_idx": 166,
+        "model_name": ""
+      },
+      {
+        "rest_joint": 66,
+        "link_type": "sibling",
+        "model_offset": 180892,
+        "model_dfs_idx": 99,
+        "model_name": ""
+      }
+    ],
+    "67": [
+      {
+        "rest_joint": 67,
+        "link_type": "child",
+        "model_offset": 177528,
+        "model_dfs_idx": 65,
+        "model_name": "b18_R_ARM2_joint"
+      }
+    ],
+    "98": [
+      {
+        "rest_joint": 98,
+        "link_type": "child",
+        "model_offset": 176780,
+        "model_dfs_idx": 58,
+        "model_name": "b18_NECK1_joint"
+      }
+    ],
+    "101": [
+      {
+        "rest_joint": 101,
+        "link_type": "sibling",
+        "model_offset": 186340,
+        "model_dfs_idx": 156,
+        "model_name": ""
+      }
+    ],
+    "103": [
+      {
+        "rest_joint": 103,
+        "link_type": "sibling",
+        "model_offset": 180320,
+        "model_dfs_idx": 94,
+        "model_name": ""
+      }
+    ],
+    "106": [
+      {
+        "rest_joint": 106,
+        "link_type": "child",
+        "model_offset": 184780,
+        "model_dfs_idx": 138,
+        "model_name": ""
+      }
+    ],
+    "108": [
+      {
+        "rest_joint": 108,
+        "link_type": "sibling",
+        "model_offset": 177776,
+        "model_dfs_idx": 67,
+        "model_name": ""
+      }
+    ],
+    "109": [
+      {
+        "rest_joint": 109,
+        "link_type": "child",
+        "model_offset": 183476,
+        "model_dfs_idx": 127,
+        "model_name": ""
+      }
+    ],
+    "111": [
+      {
+        "rest_joint": 111,
+        "link_type": "child",
+        "model_offset": 177404,
+        "model_dfs_idx": 64,
+        "model_name": "b18_R_ARM1_joint"
+      }
+    ],
+    "113": [
+      {
+        "rest_joint": 113,
+        "link_type": "child",
+        "model_offset": 187596,
+        "model_dfs_idx": 167,
+        "model_name": ""
+      }
+    ],
+    "123": [
+      {
+        "rest_joint": 123,
+        "link_type": "child",
+        "model_offset": 186340,
+        "model_dfs_idx": 156,
+        "model_name": ""
+      }
+    ],
+    "128": [
+      {
+        "rest_joint": 128,
+        "link_type": "child",
+        "model_offset": 178024,
+        "model_dfs_idx": 69,
+        "model_name": ""
+      },
+      {
+        "rest_joint": 128,
+        "link_type": "sibling",
+        "model_offset": 175892,
+        "model_dfs_idx": 49,
+        "model_name": ""
+      }
+    ],
+    "133": [
+      {
+        "rest_joint": 133,
+        "link_type": "child",
+        "model_offset": 172620,
+        "model_dfs_idx": 5,
+        "model_name": "b18_L_shoe_joint"
+      }
+    ],
+    "139": [
+      {
+        "rest_joint": 139,
+        "link_type": "sibling",
+        "model_offset": 172952,
+        "model_dfs_idx": 10,
+        "model_name": ""
+      }
+    ],
+    "143": [
+      {
+        "rest_joint": 143,
+        "link_type": "child",
+        "model_offset": 173540,
+        "model_dfs_idx": 19,
+        "model_name": ""
+      }
+    ],
+    "146": [
+      {
+        "rest_joint": 146,
+        "link_type": "child",
+        "model_offset": 173732,
+        "model_dfs_idx": 22,
+        "model_name": ""
+      }
+    ],
+    "148": [
+      {
+        "rest_joint": 148,
+        "link_type": "child",
+        "model_offset": 173988,
+        "model_dfs_idx": 26,
+        "model_name": ""
+      }
+    ],
+    "162": [
+      {
+        "rest_joint": 162,
+        "link_type": "child",
+        "model_offset": 174836,
+        "model_dfs_idx": 37,
+        "model_name": ""
+      }
+    ],
+    "166": [
+      {
+        "rest_joint": 166,
+        "link_type": "sibling",
+        "model_offset": 174976,
+        "model_dfs_idx": 39,
+        "model_name": ""
+      }
+    ]
+  },
+  "model_names": {
+    "3": "b18_att_E_joint",
+    "4": "b18_b_base_joint",
+    "5": "b18_L_shoe_joint",
+    "6": "b18_L_spik_joint",
+    "7": "b18_R_shoe_joint",
+    "8": "b18_R_spik_joint",
+    "9": "b18_berut1_joint",
+    "11": "b18_fly_joint",
+    "13": "b18_f_base_joint",
+    "14": "b18_L_glove_joint",
+    "15": "b18_L_spip_joint",
+    "16": "b18_R_glove_joint",
+    "17": "b18_R_spip_joint",
+    "20": "b18_buckle_joint",
+    "21": "b18_jacket_joint",
+    "24": "b18_collar_joint",
+    "25": "b18_senter_joint",
+    "28": "b18_NAVEL_joint",
+    "29": "b18_c_BODY_joint",
+    "31": "b18_BUST1_joint",
+    "32": "b18_a_0_joint",
+    "33": "b18_c_bust_joint",
+    "34": "b18_c_neck_joint",
+    "38": "b18_c_r_arm1_joint",
+    "43": "b18_c_r_leg1_joint",
+    "46": "b18_L_ARM1_joint",
+    "47": "b18_L_ARM2_joint",
+    "48": "b18_L_HAND_joint",
+    "51": "b18_a_4_joint",
+    "52": "b18_mtp_7_joint",
+    "54": "b18_a_2_joint",
+    "55": "b18_c_l_arm2_joint",
+    "56": "b18_mtp_5_joint",
+    "58": "b18_NECK1_joint",
+    "61": "b18_c_head_joint",
+    "62": "b18_mtp_2_joint",
+    "64": "b18_R_ARM1_joint",
+    "65": "b18_R_ARM2_joint",
+    "66": "b18_R_HAND_joint",
+    "70": "b18_a_5_joint",
+    "71": "b18_mtp_8_joint",
+    "72": "b18_a_3_joint",
+    "73": "b18_c_r_arm2_joint",
+    "74": "b18_mtp_6_joint",
+    "78": "b18_c_l_arm1_joint",
+    "83": "b18_c_l_leg1_joint",
+    "108": "b18_HIP1_joint",
+    "109": "b18_a_1_joint",
+    "110": "b18_c_hip_joint",
+    "111": "b18_c_tail2_joint",
+    "115": "b18_c_r_foot_joint",
+    "120": "b18_c_r_leg2_joint",
+    "123": "b18_TEAL1_joint",
+    "128": "b18_c_tail1_joint",
+    "129": "b18_mtp_3_joint",
+    "130": "b18_mtp_4_joint",
+    "131": "b18_mtp_9_joint",
+    "139": "b18_c_tail_joint",
+    "145": "b18_c_l_leg2_joint",
+    "150": "b18_c_l_foot_joint",
+    "153": "b18_mtp_0_joint"
+  }
+}

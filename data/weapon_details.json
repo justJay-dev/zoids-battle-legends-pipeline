@@ -1,0 +1,3966 @@
+{
+  "debug": {
+    "zoid_id": "bbu",
+    "zoid_name": "bbu",
+    "mount_points": [],
+    "has_target": true,
+    "joints": [
+      "debug_link_joint",
+      "debug_pre_link_joint",
+      "debug_target_joint"
+    ]
+  },
+  "ef8401": {
+    "zoid_id": "b84",
+    "zoid_name": "b84",
+    "mount_points": [],
+    "has_target": false,
+    "joints": [
+      "ef8401_te_00_joint",
+      "ef8401_te_01_joint",
+      "ef8401_te_02_joint",
+      "ef8401_te_03_joint",
+      "ef8401_te_04_joint",
+      "ef8401_te_05_joint",
+      "ef8401_te_06_joint",
+      "ef8401_te_07_joint",
+      "ef8401_te_08_joint",
+      "ef8401_te_09_joint",
+      "ef8401_te_10_joint",
+      "ef8401_te_11_joint",
+      "ef8401_te_12_joint"
+    ]
+  },
+  "wa0100": {
+    "zoid_id": "a01",
+    "zoid_name": "cannon_tortoise",
+    "mount_points": [
+      "mtp_01"
+    ],
+    "has_target": true,
+    "joints": [
+      "wa0100_pa_01_joint",
+      "wa0100_target_joint"
+    ]
+  },
+  "wa0103": {
+    "zoid_id": "a01",
+    "zoid_name": "cannon_tortoise",
+    "mount_points": [
+      "mtp_00"
+    ],
+    "has_target": false,
+    "joints": [
+      "wa0103_pa_00_joint"
+    ]
+  },
+  "wa0104": {
+    "zoid_id": "a01",
+    "zoid_name": "cannon_tortoise",
+    "mount_points": [
+      "mtp_01",
+      "mtp_02",
+      "mtp_03",
+      "mtp_04"
+    ],
+    "has_target": true,
+    "joints": [
+      "wa0104_pa_01_joint",
+      "wa0104_pa_02_joint",
+      "wa0104_pa_03_joint",
+      "wa0104_pa_04_joint",
+      "wa0104_target1_joint",
+      "wa0104_target_joint"
+    ]
+  },
+  "wa0130": {
+    "zoid_id": "a01",
+    "zoid_name": "cannon_tortoise",
+    "mount_points": [
+      "mtp_01"
+    ],
+    "has_target": true,
+    "joints": [
+      "wa0130_pa_01_joint",
+      "wa0130_target_joint"
+    ]
+  },
+  "wa0199": {
+    "zoid_id": "a01",
+    "zoid_name": "cannon_tortoise",
+    "mount_points": [
+      "mtp_01"
+    ],
+    "has_target": false,
+    "joints": [
+      "wa0199_pa_01_joint"
+    ]
+  },
+  "wa0200": {
+    "zoid_id": "a02",
+    "zoid_name": "gun_sniper",
+    "mount_points": [
+      "mtp_00"
+    ],
+    "has_target": false,
+    "joints": [
+      "wa0200_pa_00_joint"
+    ]
+  },
+  "wa0201": {
+    "zoid_id": "a02",
+    "zoid_name": "gun_sniper",
+    "mount_points": [
+      "mtp_00",
+      "mtp_02"
+    ],
+    "has_target": false,
+    "joints": [
+      "wa0201_pa_00_joint",
+      "wa0201_pa_02_joint"
+    ]
+  },
+  "wa0202": {
+    "zoid_id": "a02",
+    "zoid_name": "gun_sniper",
+    "mount_points": [
+      "mtp_00",
+      "mtp_02"
+    ],
+    "has_target": false,
+    "joints": [
+      "wa0202_pa_00_joint",
+      "wa0202_pa_02_joint"
+    ]
+  },
+  "wa0206": {
+    "zoid_id": "a02",
+    "zoid_name": "gun_sniper",
+    "mount_points": [
+      "mtp_00"
+    ],
+    "has_target": true,
+    "joints": [
+      "wa0206_pa_00_joint",
+      "wa0206_scope_joint",
+      "wa0206_target_joint"
+    ]
+  },
+  "wa0217": {
+    "zoid_id": "a02",
+    "zoid_name": "gun_sniper",
+    "mount_points": [
+      "mtp_00",
+      "mtp_02"
+    ],
+    "has_target": false,
+    "joints": [
+      "wa0217_pa_00_joint",
+      "wa0217_pa_02_joint"
+    ]
+  },
+  "wa0220": {
+    "zoid_id": "a02",
+    "zoid_name": "gun_sniper",
+    "mount_points": [
+      "mtp_00",
+      "mtp_01",
+      "mtp_02",
+      "mtp_03"
+    ],
+    "has_target": true,
+    "joints": [
+      "wa0220_pa_00_joint",
+      "wa0220_pa_01_joint",
+      "wa0220_pa_02_joint",
+      "wa0220_pa_03_joint",
+      "wa0220_target_joint"
+    ]
+  },
+  "wa0222": {
+    "zoid_id": "a02",
+    "zoid_name": "gun_sniper",
+    "mount_points": [
+      "mtp_00",
+      "mtp_01",
+      "mtp_02",
+      "mtp_03"
+    ],
+    "has_target": true,
+    "joints": [
+      "wa0222_pa_00_joint",
+      "wa0222_pa_01_joint",
+      "wa0222_pa_02_joint",
+      "wa0222_pa_03_joint",
+      "wa0222_target_joint"
+    ]
+  },
+  "wa0230": {
+    "zoid_id": "a02",
+    "zoid_name": "gun_sniper",
+    "mount_points": [],
+    "has_target": false,
+    "joints": []
+  },
+  "wa0301": {
+    "zoid_id": "a03",
+    "zoid_name": "shield_liger",
+    "mount_points": [
+      "mtp_00",
+      "mtp_02"
+    ],
+    "has_target": true,
+    "joints": [
+      "wa0301_pa_00_joint",
+      "wa0301_pa_02_joint",
+      "wa0301_target_joint"
+    ]
+  },
+  "wa0302": {
+    "zoid_id": "a03",
+    "zoid_name": "shield_liger",
+    "mount_points": [
+      "mtp_00",
+      "mtp_02"
+    ],
+    "has_target": false,
+    "joints": [
+      "wa0302_pa_00_joint",
+      "wa0302_pa_02_joint"
+    ]
+  },
+  "wa0303": {
+    "zoid_id": "a03",
+    "zoid_name": "shield_liger",
+    "mount_points": [
+      "mtp_00",
+      "mtp_02"
+    ],
+    "has_target": true,
+    "joints": [
+      "wa0303_link_joint",
+      "wa0303_pa_00_joint",
+      "wa0303_pa_02_joint",
+      "wa0303_pre_link_joint",
+      "wa0303_target1_joint",
+      "wa0303_target_joint"
+    ]
+  },
+  "wa0320": {
+    "zoid_id": "a03",
+    "zoid_name": "shield_liger",
+    "mount_points": [],
+    "has_target": false,
+    "joints": []
+  },
+  "wa0330": {
+    "zoid_id": "a03",
+    "zoid_name": "shield_liger",
+    "mount_points": [],
+    "has_target": false,
+    "joints": [
+      "wa0330_a_1_joint",
+      "wa0330_te_00_joint",
+      "wa0330_te_01_joint",
+      "wa0330_te_02_joint",
+      "wa0330_te_03_joint",
+      "wa0330_te_04_joint",
+      "wa0330_te_05_joint",
+      "wa0330_te_06_joint",
+      "wa0330_te_07_joint",
+      "wa0330_te_08_joint",
+      "wa0330_te_09_joint",
+      "wa0330_te_10_joint",
+      "wa0330_te_11_joint",
+      "wa0330_te_12_joint"
+    ]
+  },
+  "wa0340": {
+    "zoid_id": "a03",
+    "zoid_name": "shield_liger",
+    "mount_points": [],
+    "has_target": false,
+    "joints": [
+      "wa0340_a_1_joint"
+    ]
+  },
+  "wa0401": {
+    "zoid_id": "a04",
+    "zoid_name": "command_wolf",
+    "mount_points": [
+      "mtp_00",
+      "mtp_02"
+    ],
+    "has_target": true,
+    "joints": [
+      "wa0401_pa_00_joint",
+      "wa0401_pa_02_joint",
+      "wa0401_target_joint"
+    ]
+  },
+  "wa0402": {
+    "zoid_id": "a04",
+    "zoid_name": "command_wolf",
+    "mount_points": [
+      "mtp_01",
+      "mtp_02"
+    ],
+    "has_target": true,
+    "joints": [
+      "wa0402_pa_01_joint",
+      "wa0402_pa_02_joint",
+      "wa0402_target1_joint",
+      "wa0402_target_joint"
+    ]
+  },
+  "wa0403": {
+    "zoid_id": "a04",
+    "zoid_name": "command_wolf",
+    "mount_points": [
+      "mtp_00"
+    ],
+    "has_target": true,
+    "joints": [
+      "wa0403_pa_00_joint",
+      "wa0403_target_joint"
+    ]
+  },
+  "wa0405": {
+    "zoid_id": "a04",
+    "zoid_name": "command_wolf",
+    "mount_points": [
+      "mtp_01",
+      "mtp_02"
+    ],
+    "has_target": true,
+    "joints": [
+      "wa0405_pa_01_joint",
+      "wa0405_pa_02_joint",
+      "wa0405_target_joint"
+    ]
+  },
+  "wa0413": {
+    "zoid_id": "a04",
+    "zoid_name": "command_wolf",
+    "mount_points": [
+      "mtp_01"
+    ],
+    "has_target": false,
+    "joints": [
+      "wa0413_pa_01_joint"
+    ]
+  },
+  "wa0416": {
+    "zoid_id": "a04",
+    "zoid_name": "command_wolf",
+    "mount_points": [],
+    "has_target": false,
+    "joints": []
+  },
+  "wa0430": {
+    "zoid_id": "a04",
+    "zoid_name": "command_wolf",
+    "mount_points": [],
+    "has_target": false,
+    "joints": [
+      "wa0430_a_1_joint",
+      "wa0430_te_00_joint",
+      "wa0430_te_01_joint",
+      "wa0430_te_02_joint",
+      "wa0430_te_03_joint",
+      "wa0430_te_04_joint",
+      "wa0430_te_05_joint",
+      "wa0430_te_06_joint",
+      "wa0430_te_07_joint",
+      "wa0430_te_08_joint",
+      "wa0430_te_09_joint",
+      "wa0430_te_10_joint"
+    ]
+  },
+  "wa0501": {
+    "zoid_id": "a05",
+    "zoid_name": "dibison",
+    "mount_points": [
+      "mtp_01"
+    ],
+    "has_target": false,
+    "joints": [
+      "wa0501_pa_01_joint"
+    ]
+  },
+  "wa0502": {
+    "zoid_id": "a05",
+    "zoid_name": "dibison",
+    "mount_points": [
+      "mtp_00",
+      "mtp_02",
+      "mtp_04"
+    ],
+    "has_target": true,
+    "joints": [
+      "wa0502_pa_00_joint",
+      "wa0502_pa_02_joint",
+      "wa0502_pa_04_joint",
+      "wa0502_target_joint"
+    ]
+  },
+  "wa0505": {
+    "zoid_id": "a05",
+    "zoid_name": "dibison",
+    "mount_points": [
+      "mtp_00",
+      "mtp_02"
+    ],
+    "has_target": false,
+    "joints": [
+      "wa0505_pa_00_joint",
+      "wa0505_pa_02_joint"
+    ]
+  },
+  "wa0530": {
+    "zoid_id": "a05",
+    "zoid_name": "dibison",
+    "mount_points": [
+      "mtp_00",
+      "mtp_02"
+    ],
+    "has_target": true,
+    "joints": [
+      "wa0530_pa_00_joint",
+      "wa0530_pa_02_joint",
+      "wa0530_target_joint"
+    ]
+  },
+  "wa0600": {
+    "zoid_id": "a06",
+    "zoid_name": "gojulas",
+    "mount_points": [
+      "mtp_01"
+    ],
+    "has_target": false,
+    "joints": [
+      "wa0600_pa_01_joint"
+    ]
+  },
+  "wa0602": {
+    "zoid_id": "a06",
+    "zoid_name": "gojulas",
+    "mount_points": [
+      "mtp_01"
+    ],
+    "has_target": true,
+    "joints": [
+      "wa0602_pa_01_joint",
+      "wa0602_target_joint"
+    ]
+  },
+  "wa0604": {
+    "zoid_id": "a06",
+    "zoid_name": "gojulas",
+    "mount_points": [
+      "mtp_01"
+    ],
+    "has_target": true,
+    "joints": [
+      "wa0604_pa_01_joint",
+      "wa0604_target_joint"
+    ]
+  },
+  "wa0605": {
+    "zoid_id": "a06",
+    "zoid_name": "gojulas",
+    "mount_points": [
+      "mtp_01",
+      "mtp_02"
+    ],
+    "has_target": true,
+    "joints": [
+      "wa0605_pa_01_joint",
+      "wa0605_pa_02_joint",
+      "wa0605_target1_joint",
+      "wa0605_target_joint"
+    ]
+  },
+  "wa0606": {
+    "zoid_id": "a06",
+    "zoid_name": "gojulas",
+    "mount_points": [
+      "mtp_00"
+    ],
+    "has_target": true,
+    "joints": [
+      "wa0606_pa_00_joint",
+      "wa0606_target_joint"
+    ]
+  },
+  "wa0607": {
+    "zoid_id": "a06",
+    "zoid_name": "gojulas",
+    "mount_points": [
+      "mtp_01",
+      "mtp_02"
+    ],
+    "has_target": false,
+    "joints": [
+      "wa0607_pa_01_joint",
+      "wa0607_pa_02_joint"
+    ]
+  },
+  "wa0630": {
+    "zoid_id": "a06",
+    "zoid_name": "gojulas",
+    "mount_points": [],
+    "has_target": false,
+    "joints": [
+      "wa0630_a_1_joint"
+    ]
+  },
+  "wa0700": {
+    "zoid_id": "a07",
+    "zoid_name": "blade_liger",
+    "mount_points": [
+      "mtp_00"
+    ],
+    "has_target": true,
+    "joints": [
+      "wa0700_pa_00_joint",
+      "wa0700_target_joint"
+    ]
+  },
+  "wa0704": {
+    "zoid_id": "a07",
+    "zoid_name": "blade_liger",
+    "mount_points": [
+      "mtp_00",
+      "mtp_02"
+    ],
+    "has_target": true,
+    "joints": [
+      "wa0704_pa_00_joint",
+      "wa0704_pa_02_joint",
+      "wa0704_target1_joint",
+      "wa0704_target_joint"
+    ]
+  },
+  "wa0707": {
+    "zoid_id": "a07",
+    "zoid_name": "blade_liger",
+    "mount_points": [],
+    "has_target": false,
+    "joints": [
+      "wa0707_a_1_joint",
+      "wa0707_link_joint",
+      "wa0707_te_00_joint",
+      "wa0707_te_01_joint",
+      "wa0707_te_02_joint",
+      "wa0707_te_03_joint",
+      "wa0707_te_04_joint",
+      "wa0707_te_05_joint",
+      "wa0707_te_06_joint",
+      "wa0707_te_07_joint",
+      "wa0707_te_08_joint",
+      "wa0707_te_09_joint",
+      "wa0707_te_10_joint",
+      "wa0707_te_11_joint",
+      "wa0707_te_12_joint"
+    ]
+  },
+  "wa0710": {
+    "zoid_id": "a07",
+    "zoid_name": "blade_liger",
+    "mount_points": [],
+    "has_target": false,
+    "joints": []
+  },
+  "wa0711": {
+    "zoid_id": "a07",
+    "zoid_name": "blade_liger",
+    "mount_points": [],
+    "has_target": false,
+    "joints": [
+      "wa0711_a_1_joint"
+    ]
+  },
+  "wa0730": {
+    "zoid_id": "a07",
+    "zoid_name": "blade_liger",
+    "mount_points": [],
+    "has_target": false,
+    "joints": [
+      "wa0730_a_1_joint",
+      "wa0730_te_00_joint",
+      "wa0730_te_01_joint",
+      "wa0730_te_02_joint",
+      "wa0730_te_03_joint",
+      "wa0730_te_04_joint",
+      "wa0730_te_05_joint",
+      "wa0730_te_06_joint",
+      "wa0730_te_07_joint"
+    ]
+  },
+  "wa0800": {
+    "zoid_id": "a08",
+    "zoid_name": "shadow_fox",
+    "mount_points": [
+      "mtp_00"
+    ],
+    "has_target": true,
+    "joints": [
+      "wa0800_pa_00_joint",
+      "wa0800_target_joint"
+    ]
+  },
+  "wa0801": {
+    "zoid_id": "a08",
+    "zoid_name": "shadow_fox",
+    "mount_points": [
+      "mtp_00"
+    ],
+    "has_target": false,
+    "joints": [
+      "wa0801_pa_00_joint"
+    ]
+  },
+  "wa0830": {
+    "zoid_id": "a08",
+    "zoid_name": "shadow_fox",
+    "mount_points": [],
+    "has_target": false,
+    "joints": [
+      "wa0830_a_1_joint",
+      "wa0830_te_00_joint",
+      "wa0830_te_01_joint",
+      "wa0830_te_02_joint",
+      "wa0830_te_03_joint",
+      "wa0830_te_04_joint",
+      "wa0830_te_05_joint",
+      "wa0830_te_06_joint",
+      "wa0830_te_07_joint",
+      "wa0830_te_08_joint",
+      "wa0830_te_09_joint",
+      "wa0830_te_10_joint"
+    ]
+  },
+  "wa0900": {
+    "zoid_id": "a09",
+    "zoid_name": "liger_zero",
+    "mount_points": [
+      "mtp_00",
+      "mtp_02"
+    ],
+    "has_target": true,
+    "joints": [
+      "wa0900_pa_00_joint",
+      "wa0900_pa_02_joint",
+      "wa0900_target_joint"
+    ]
+  },
+  "wa0905": {
+    "zoid_id": "a09",
+    "zoid_name": "liger_zero",
+    "mount_points": [],
+    "has_target": false,
+    "joints": []
+  },
+  "wa0930": {
+    "zoid_id": "a09",
+    "zoid_name": "liger_zero",
+    "mount_points": [],
+    "has_target": false,
+    "joints": [
+      "wa0930_a_1_joint",
+      "wa0930_te_00_joint",
+      "wa0930_te_01_joint",
+      "wa0930_te_02_joint",
+      "wa0930_te_03_joint",
+      "wa0930_te_04_joint",
+      "wa0930_te_05_joint",
+      "wa0930_te_06_joint",
+      "wa0930_te_07_joint",
+      "wa0930_te_08_joint",
+      "wa0930_te_09_joint",
+      "wa0930_te_10_joint"
+    ]
+  },
+  "wa1000": {
+    "zoid_id": "a10",
+    "zoid_name": "jager",
+    "mount_points": [
+      "mtp_00",
+      "mtp_02"
+    ],
+    "has_target": false,
+    "joints": [
+      "wa1000_pa_00_joint",
+      "wa1000_pa_02_joint"
+    ]
+  },
+  "wa1002": {
+    "zoid_id": "a10",
+    "zoid_name": "jager",
+    "mount_points": [],
+    "has_target": false,
+    "joints": []
+  },
+  "wa1030": {
+    "zoid_id": "a10",
+    "zoid_name": "jager",
+    "mount_points": [],
+    "has_target": false,
+    "joints": [
+      "wa1030_a_1_joint",
+      "wa1030_te_00_joint",
+      "wa1030_te_01_joint",
+      "wa1030_te_02_joint",
+      "wa1030_te_03_joint",
+      "wa1030_te_04_joint",
+      "wa1030_te_05_joint",
+      "wa1030_te_06_joint",
+      "wa1030_te_07_joint",
+      "wa1030_te_08_joint",
+      "wa1030_te_09_joint",
+      "wa1030_te_10_joint",
+      "wa1030_te_11_joint",
+      "wa1030_te_12_joint"
+    ]
+  },
+  "wa1101": {
+    "zoid_id": "a11",
+    "zoid_name": "schneider",
+    "mount_points": [],
+    "has_target": false,
+    "joints": [
+      "wa1101_a_1_joint",
+      "wa1101_link_joint",
+      "wa1101_te_00_joint",
+      "wa1101_te_01_joint",
+      "wa1101_te_02_joint",
+      "wa1101_te_03_joint",
+      "wa1101_te_04_joint",
+      "wa1101_te_05_joint",
+      "wa1101_te_06_joint",
+      "wa1101_te_07_joint",
+      "wa1101_te_08_joint",
+      "wa1101_te_09_joint",
+      "wa1101_te_10_joint",
+      "wa1101_te_11_joint",
+      "wa1101_te_12_joint"
+    ]
+  },
+  "wa1103": {
+    "zoid_id": "a11",
+    "zoid_name": "schneider",
+    "mount_points": [],
+    "has_target": false,
+    "joints": []
+  },
+  "wa1104": {
+    "zoid_id": "a11",
+    "zoid_name": "schneider",
+    "mount_points": [],
+    "has_target": false,
+    "joints": [
+      "wa1104_a_1_joint"
+    ]
+  },
+  "wa1130": {
+    "zoid_id": "a11",
+    "zoid_name": "schneider",
+    "mount_points": [],
+    "has_target": false,
+    "joints": [
+      "wa1130_a_1_joint",
+      "wa1130_te_00_joint",
+      "wa1130_te_01_joint",
+      "wa1130_te_02_joint",
+      "wa1130_te_03_joint",
+      "wa1130_te_04_joint",
+      "wa1130_te_05_joint",
+      "wa1130_te_06_joint",
+      "wa1130_te_07_joint"
+    ]
+  },
+  "wa1200": {
+    "zoid_id": "a12",
+    "zoid_name": "panzer",
+    "mount_points": [
+      "mtp_00",
+      "mtp_02"
+    ],
+    "has_target": true,
+    "joints": [
+      "wa1200_pa_00_joint",
+      "wa1200_pa_02_joint",
+      "wa1200_target_joint"
+    ]
+  },
+  "wa1201": {
+    "zoid_id": "a12",
+    "zoid_name": "panzer",
+    "mount_points": [
+      "mtp_00"
+    ],
+    "has_target": true,
+    "joints": [
+      "wa1201_pa_00_joint",
+      "wa1201_target_joint"
+    ]
+  },
+  "wa1202": {
+    "zoid_id": "a12",
+    "zoid_name": "panzer",
+    "mount_points": [
+      "mtp_00",
+      "mtp_02"
+    ],
+    "has_target": false,
+    "joints": [
+      "wa1202_pa_00_joint",
+      "wa1202_pa_02_joint"
+    ]
+  },
+  "wa1203": {
+    "zoid_id": "a12",
+    "zoid_name": "panzer",
+    "mount_points": [
+      "mtp_00",
+      "mtp_02"
+    ],
+    "has_target": false,
+    "joints": [
+      "wa1203_pa_00_joint",
+      "wa1203_pa_02_joint"
+    ]
+  },
+  "wa1204": {
+    "zoid_id": "a12",
+    "zoid_name": "panzer",
+    "mount_points": [
+      "mtp_00"
+    ],
+    "has_target": false,
+    "joints": [
+      "wa1204_pa_00_joint"
+    ]
+  },
+  "wa1205": {
+    "zoid_id": "a12",
+    "zoid_name": "panzer",
+    "mount_points": [
+      "mtp_00"
+    ],
+    "has_target": false,
+    "joints": [
+      "wa1205_pa_00_joint"
+    ]
+  },
+  "wa1208": {
+    "zoid_id": "a12",
+    "zoid_name": "panzer",
+    "mount_points": [
+      "mtp_00",
+      "mtp_02"
+    ],
+    "has_target": false,
+    "joints": [
+      "wa1208_pa_00_joint",
+      "wa1208_pa_02_joint"
+    ]
+  },
+  "wa1209": {
+    "zoid_id": "a12",
+    "zoid_name": "panzer",
+    "mount_points": [
+      "mtp_00"
+    ],
+    "has_target": false,
+    "joints": [
+      "wa1209_pa_00_joint"
+    ]
+  },
+  "wa1230": {
+    "zoid_id": "a12",
+    "zoid_name": "panzer",
+    "mount_points": [],
+    "has_target": false,
+    "joints": []
+  },
+  "wa1300": {
+    "zoid_id": "a13",
+    "zoid_name": "x",
+    "mount_points": [],
+    "has_target": false,
+    "joints": [
+      "wa1300_a_1_joint",
+      "wa1300_link_joint",
+      "wa1300_te_00_joint",
+      "wa1300_te_01_joint",
+      "wa1300_te_02_joint",
+      "wa1300_te_03_joint",
+      "wa1300_te_04_joint",
+      "wa1300_te_05_joint",
+      "wa1300_te_06_joint",
+      "wa1300_te_07_joint",
+      "wa1300_te_08_joint",
+      "wa1300_te_09_joint",
+      "wa1300_te_10_joint",
+      "wa1300_te_11_joint",
+      "wa1300_te_12_joint"
+    ]
+  },
+  "wa1301": {
+    "zoid_id": "a13",
+    "zoid_name": "x",
+    "mount_points": [
+      "mtp_00",
+      "mtp_02"
+    ],
+    "has_target": true,
+    "joints": [
+      "wa1301_pa_00_joint",
+      "wa1301_pa_02_joint",
+      "wa1301_target_joint"
+    ]
+  },
+  "wa1330": {
+    "zoid_id": "a13",
+    "zoid_name": "x",
+    "mount_points": [
+      "mtp_00"
+    ],
+    "has_target": false,
+    "joints": [
+      "wa1330_a_0_joint",
+      "wa1330_a_1_joint",
+      "wa1330_pa_00_joint"
+    ]
+  },
+  "wa1402": {
+    "zoid_id": "a14",
+    "zoid_name": "snipe_master",
+    "mount_points": [
+      "mtp_00"
+    ],
+    "has_target": true,
+    "joints": [
+      "wa1402_pa_00_joint",
+      "wa1402_scope_joint",
+      "wa1402_target_joint"
+    ]
+  },
+  "wa1405": {
+    "zoid_id": "a14",
+    "zoid_name": "snipe_master",
+    "mount_points": [],
+    "has_target": false,
+    "joints": [
+      "wa1405_a_0_joint",
+      "wa1405_a_1_joint",
+      "wa1405_link_joint"
+    ]
+  },
+  "wa1408": {
+    "zoid_id": "a14",
+    "zoid_name": "snipe_master",
+    "mount_points": [
+      "mtp_00",
+      "mtp_02"
+    ],
+    "has_target": true,
+    "joints": [
+      "wa1408_pa_00_joint",
+      "wa1408_pa_02_joint",
+      "wa1408_target1_joint",
+      "wa1408_target_joint"
+    ]
+  },
+  "wa1411": {
+    "zoid_id": "a14",
+    "zoid_name": "snipe_master",
+    "mount_points": [
+      "mtp_00",
+      "mtp_01"
+    ],
+    "has_target": false,
+    "joints": [
+      "wa1411_link_joint",
+      "wa1411_pa_00_joint",
+      "wa1411_pa_01_joint"
+    ]
+  },
+  "wa1415": {
+    "zoid_id": "a14",
+    "zoid_name": "snipe_master",
+    "mount_points": [
+      "mtp_00",
+      "mtp_02"
+    ],
+    "has_target": false,
+    "joints": [
+      "wa1415_pa_00_joint",
+      "wa1415_pa_02_joint"
+    ]
+  },
+  "wa1417": {
+    "zoid_id": "a14",
+    "zoid_name": "snipe_master",
+    "mount_points": [
+      "mtp_00",
+      "mtp_02"
+    ],
+    "has_target": true,
+    "joints": [
+      "wa1417_pa_00_joint",
+      "wa1417_pa_02_joint",
+      "wa1417_target1_joint",
+      "wa1417_target_joint"
+    ]
+  },
+  "wa1418": {
+    "zoid_id": "a14",
+    "zoid_name": "snipe_master",
+    "mount_points": [],
+    "has_target": false,
+    "joints": [
+      "wa1418_a_0_joint",
+      "wa1418_a_1_joint",
+      "wa1418_link_joint"
+    ]
+  },
+  "wa1430": {
+    "zoid_id": "a14",
+    "zoid_name": "snipe_master",
+    "mount_points": [
+      "mtp_00"
+    ],
+    "has_target": false,
+    "joints": [
+      "wa1430_pa_00_joint"
+    ]
+  },
+  "wa1501": {
+    "zoid_id": "a15",
+    "zoid_name": "konig_wolf",
+    "mount_points": [
+      "mtp_00",
+      "mtp_02"
+    ],
+    "has_target": true,
+    "joints": [
+      "wa1501_pa_00_joint",
+      "wa1501_pa_02_joint",
+      "wa1501_target_joint"
+    ]
+  },
+  "wa1502": {
+    "zoid_id": "a15",
+    "zoid_name": "konig_wolf",
+    "mount_points": [
+      "mtp_00",
+      "mtp_02"
+    ],
+    "has_target": true,
+    "joints": [
+      "wa1502_pa_00_joint",
+      "wa1502_pa_02_joint",
+      "wa1502_scope_joint",
+      "wa1502_target_joint"
+    ]
+  },
+  "wa1504": {
+    "zoid_id": "a15",
+    "zoid_name": "konig_wolf",
+    "mount_points": [
+      "mtp_00",
+      "mtp_02"
+    ],
+    "has_target": false,
+    "joints": [
+      "wa1504_pa_00_joint",
+      "wa1504_pa_02_joint"
+    ]
+  },
+  "wa1530": {
+    "zoid_id": "a15",
+    "zoid_name": "konig_wolf",
+    "mount_points": [],
+    "has_target": false,
+    "joints": [
+      "wa1530_a_1_joint",
+      "wa1530_te_00_joint",
+      "wa1530_te_01_joint",
+      "wa1530_te_02_joint",
+      "wa1530_te_03_joint",
+      "wa1530_te_04_joint",
+      "wa1530_te_05_joint",
+      "wa1530_te_06_joint",
+      "wa1530_te_07_joint",
+      "wa1530_te_08_joint",
+      "wa1530_te_09_joint",
+      "wa1530_te_10_joint"
+    ]
+  },
+  "wa1600": {
+    "zoid_id": "a16",
+    "zoid_name": "gojulas_giga",
+    "mount_points": [],
+    "has_target": false,
+    "joints": []
+  },
+  "wa1602": {
+    "zoid_id": "a16",
+    "zoid_name": "gojulas_giga",
+    "mount_points": [],
+    "has_target": false,
+    "joints": [
+      "wa1602_a_1_joint",
+      "wa1602_link_joint",
+      "wa1602_te_00_joint",
+      "wa1602_te_01_joint",
+      "wa1602_te_02_joint",
+      "wa1602_te_03_joint",
+      "wa1602_te_04_joint",
+      "wa1602_te_05_joint",
+      "wa1602_te_06_joint",
+      "wa1602_te_07_joint",
+      "wa1602_te_08_joint",
+      "wa1602_te_09_joint",
+      "wa1602_te_10_joint",
+      "wa1602_te_11_joint",
+      "wa1602_te_12_joint"
+    ]
+  },
+  "wa1603": {
+    "zoid_id": "a16",
+    "zoid_name": "gojulas_giga",
+    "mount_points": [],
+    "has_target": false,
+    "joints": [
+      "wa1603_a_1_joint"
+    ]
+  },
+  "wa1630": {
+    "zoid_id": "a16",
+    "zoid_name": "gojulas_giga",
+    "mount_points": [
+      "mtp_00",
+      "mtp_02"
+    ],
+    "has_target": false,
+    "joints": [
+      "wa1630_a_0_joint",
+      "wa1630_pa_00_joint",
+      "wa1630_pa_02_joint"
+    ]
+  },
+  "wa1702": {
+    "zoid_id": "a17",
+    "zoid_name": "ultrasaurus",
+    "mount_points": [
+      "mtp_00",
+      "mtp_01",
+      "mtp_02",
+      "mtp_03"
+    ],
+    "has_target": true,
+    "joints": [
+      "wa1702_pa_00_joint",
+      "wa1702_pa_01_joint",
+      "wa1702_pa_02_joint",
+      "wa1702_pa_03_joint",
+      "wa1702_target1_joint",
+      "wa1702_target_joint"
+    ]
+  },
+  "wa1703": {
+    "zoid_id": "a17",
+    "zoid_name": "ultrasaurus",
+    "mount_points": [
+      "mtp_00"
+    ],
+    "has_target": false,
+    "joints": [
+      "wa1703_pa_00_joint"
+    ]
+  },
+  "wa1704": {
+    "zoid_id": "a17",
+    "zoid_name": "ultrasaurus",
+    "mount_points": [
+      "mtp_00",
+      "mtp_02"
+    ],
+    "has_target": false,
+    "joints": [
+      "wa1704_pa_00_joint",
+      "wa1704_pa_02_joint"
+    ]
+  },
+  "wa1705": {
+    "zoid_id": "a17",
+    "zoid_name": "ultrasaurus",
+    "mount_points": [
+      "mtp_00",
+      "mtp_02"
+    ],
+    "has_target": true,
+    "joints": [
+      "wa1705_pa_00_joint",
+      "wa1705_pa_02_joint",
+      "wa1705_target_joint"
+    ]
+  },
+  "wa1706": {
+    "zoid_id": "a17",
+    "zoid_name": "ultrasaurus",
+    "mount_points": [
+      "mtp_00",
+      "mtp_02"
+    ],
+    "has_target": true,
+    "joints": [
+      "wa1706_pa_00_joint",
+      "wa1706_pa_02_joint",
+      "wa1706_target_joint"
+    ]
+  },
+  "wa1707": {
+    "zoid_id": "a17",
+    "zoid_name": "ultrasaurus",
+    "mount_points": [
+      "mtp_00",
+      "mtp_02"
+    ],
+    "has_target": true,
+    "joints": [
+      "wa1707_pa_00_joint",
+      "wa1707_pa_02_joint",
+      "wa1707_target_joint"
+    ]
+  },
+  "wa1801": {
+    "zoid_id": "a18",
+    "zoid_name": "mad_thunder",
+    "mount_points": [
+      "mtp_00",
+      "mtp_02"
+    ],
+    "has_target": false,
+    "joints": [
+      "wa1801_pa_00_joint",
+      "wa1801_pa_02_joint"
+    ]
+  },
+  "wa1802": {
+    "zoid_id": "a18",
+    "zoid_name": "mad_thunder",
+    "mount_points": [
+      "mtp_00",
+      "mtp_02"
+    ],
+    "has_target": true,
+    "joints": [
+      "wa1802_pa_00_joint",
+      "wa1802_pa_02_joint",
+      "wa1802_target_joint"
+    ]
+  },
+  "wa1803": {
+    "zoid_id": "a18",
+    "zoid_name": "mad_thunder",
+    "mount_points": [
+      "mtp_00",
+      "mtp_02"
+    ],
+    "has_target": true,
+    "joints": [
+      "wa1803_pa_00_joint",
+      "wa1803_pa_02_joint",
+      "wa1803_target_joint"
+    ]
+  },
+  "wa1804": {
+    "zoid_id": "a18",
+    "zoid_name": "mad_thunder",
+    "mount_points": [
+      "mtp_00",
+      "mtp_02"
+    ],
+    "has_target": true,
+    "joints": [
+      "wa1804_pa_00_joint",
+      "wa1804_pa_02_joint",
+      "wa1804_target_joint"
+    ]
+  },
+  "wa1805": {
+    "zoid_id": "a18",
+    "zoid_name": "mad_thunder",
+    "mount_points": [
+      "mtp_00",
+      "mtp_02"
+    ],
+    "has_target": true,
+    "joints": [
+      "wa1805_pa_00_joint",
+      "wa1805_pa_02_joint",
+      "wa1805_target_joint"
+    ]
+  },
+  "wa1900": {
+    "zoid_id": "a19",
+    "zoid_name": "pteras",
+    "mount_points": [
+      "mtp_00",
+      "mtp_02"
+    ],
+    "has_target": true,
+    "joints": [
+      "wa1900_pa_00_joint",
+      "wa1900_pa_02_joint",
+      "wa1900_target1_joint",
+      "wa1900_target_joint"
+    ]
+  },
+  "wa1901": {
+    "zoid_id": "a19",
+    "zoid_name": "pteras",
+    "mount_points": [
+      "mtp_00",
+      "mtp_01",
+      "mtp_02",
+      "mtp_03"
+    ],
+    "has_target": true,
+    "joints": [
+      "wa1901_pa_00_joint",
+      "wa1901_pa_01_joint",
+      "wa1901_pa_02_joint",
+      "wa1901_pa_03_joint",
+      "wa1901_target1_joint",
+      "wa1901_target_joint"
+    ]
+  },
+  "wa1903": {
+    "zoid_id": "a19",
+    "zoid_name": "pteras",
+    "mount_points": [],
+    "has_target": false,
+    "joints": [
+      "wa1903_a_0_joint",
+      "wa1903_a_1_joint",
+      "wa1903_a_2_joint",
+      "wa1903_a_3_joint",
+      "wa1903_a_4_joint",
+      "wa1903_a_5_joint",
+      "wa1903_a_6_joint",
+      "wa1903_a_7_joint",
+      "wa1903_a_8_joint",
+      "wa1903_a_9_joint",
+      "wa1903_a_a_joint",
+      "wa1903_te_00_joint",
+      "wa1903_te_01_joint",
+      "wa1903_te_02_joint",
+      "wa1903_te_03_joint",
+      "wa1903_te_04_joint",
+      "wa1903_te_05_joint",
+      "wa1903_te_06_joint",
+      "wa1903_te_07_joint",
+      "wa1903_te_08_joint",
+      "wa1903_te_09_joint",
+      "wa1903_te_10_joint"
+    ]
+  },
+  "wa1904": {
+    "zoid_id": "a19",
+    "zoid_name": "pteras",
+    "mount_points": [
+      "mtp_00",
+      "mtp_02"
+    ],
+    "has_target": false,
+    "joints": [
+      "wa1904_pa_00_joint",
+      "wa1904_pa_02_joint"
+    ]
+  },
+  "wa2002": {
+    "zoid_id": "a20",
+    "zoid_name": "cyclops",
+    "mount_points": [
+      "mtp_00"
+    ],
+    "has_target": true,
+    "joints": [
+      "wa2002_pa_00_joint",
+      "wa2002_target_joint"
+    ]
+  },
+  "wa2003": {
+    "zoid_id": "a20",
+    "zoid_name": "cyclops",
+    "mount_points": [
+      "mtp_00",
+      "mtp_02"
+    ],
+    "has_target": false,
+    "joints": [
+      "wa2003_pa_00_joint",
+      "wa2003_pa_02_joint"
+    ]
+  },
+  "wa2030": {
+    "zoid_id": "a20",
+    "zoid_name": "cyclops",
+    "mount_points": [
+      "mtp_00"
+    ],
+    "has_target": true,
+    "joints": [
+      "wa2030_pa_00_joint",
+      "wa2030_target_joint"
+    ]
+  },
+  "wa2101": {
+    "zoid_id": "a21",
+    "zoid_name": "cyclops_ii",
+    "mount_points": [
+      "mtp_00"
+    ],
+    "has_target": true,
+    "joints": [
+      "wa2101_pa_00_joint",
+      "wa2101_target_joint"
+    ]
+  },
+  "wa2130": {
+    "zoid_id": "a21",
+    "zoid_name": "cyclops_ii",
+    "mount_points": [
+      "mtp_00"
+    ],
+    "has_target": true,
+    "joints": [
+      "wa2130_pa_00_joint",
+      "wa2130_target_joint"
+    ]
+  },
+  "wa2201": {
+    "zoid_id": "a22",
+    "zoid_name": "trinity_liger",
+    "mount_points": [
+      "mtp_00"
+    ],
+    "has_target": true,
+    "joints": [
+      "wa2201_pa_00_joint",
+      "wa2201_target_joint"
+    ]
+  },
+  "wa2202": {
+    "zoid_id": "a22",
+    "zoid_name": "trinity_liger",
+    "mount_points": [
+      "mtp_00",
+      "mtp_02"
+    ],
+    "has_target": true,
+    "joints": [
+      "wa2202_pa_00_joint",
+      "wa2202_pa_02_joint",
+      "wa2202_target_joint"
+    ]
+  },
+  "wa2220": {
+    "zoid_id": "a22",
+    "zoid_name": "trinity_liger",
+    "mount_points": [],
+    "has_target": false,
+    "joints": [
+      "wa2220_link_joint"
+    ]
+  },
+  "wa2230": {
+    "zoid_id": "a22",
+    "zoid_name": "trinity_liger",
+    "mount_points": [],
+    "has_target": false,
+    "joints": [
+      "wa2230_a_1_joint",
+      "wa2230_te_00_joint",
+      "wa2230_te_01_joint",
+      "wa2230_te_02_joint",
+      "wa2230_te_03_joint",
+      "wa2230_te_04_joint",
+      "wa2230_te_05_joint",
+      "wa2230_te_06_joint",
+      "wa2230_te_07_joint",
+      "wa2230_te_08_joint",
+      "wa2230_te_09_joint",
+      "wa2230_te_10_joint"
+    ]
+  },
+  "wa2240": {
+    "zoid_id": "a22",
+    "zoid_name": "trinity_liger",
+    "mount_points": [],
+    "has_target": false,
+    "joints": [
+      "wa2240_a_1_joint"
+    ]
+  },
+  "wa2301": {
+    "zoid_id": "a23",
+    "zoid_name": "blitz_tiger",
+    "mount_points": [
+      "mtp_00"
+    ],
+    "has_target": true,
+    "joints": [
+      "wa2301_pa_00_joint",
+      "wa2301_target_joint"
+    ]
+  },
+  "wa2302": {
+    "zoid_id": "a23",
+    "zoid_name": "blitz_tiger",
+    "mount_points": [],
+    "has_target": false,
+    "joints": [
+      "wa2302_a_1_joint",
+      "wa2302_link_joint",
+      "wa2302_te_00_joint",
+      "wa2302_te_01_joint",
+      "wa2302_te_02_joint",
+      "wa2302_te_03_joint",
+      "wa2302_te_04_joint",
+      "wa2302_te_05_joint",
+      "wa2302_te_06_joint",
+      "wa2302_te_07_joint",
+      "wa2302_te_08_joint",
+      "wa2302_te_09_joint",
+      "wa2302_te_10_joint",
+      "wa2302_te_11_joint",
+      "wa2302_te_12_joint"
+    ]
+  },
+  "wa2320": {
+    "zoid_id": "a23",
+    "zoid_name": "blitz_tiger",
+    "mount_points": [],
+    "has_target": false,
+    "joints": []
+  },
+  "wa2330": {
+    "zoid_id": "a23",
+    "zoid_name": "blitz_tiger",
+    "mount_points": [
+      "mtp_00",
+      "mtp_02"
+    ],
+    "has_target": false,
+    "joints": [
+      "wa2330_pa_00_joint",
+      "wa2330_pa_02_joint"
+    ]
+  },
+  "wa2340": {
+    "zoid_id": "a23",
+    "zoid_name": "blitz_tiger",
+    "mount_points": [],
+    "has_target": false,
+    "joints": [
+      "wa2340_a_1_joint"
+    ]
+  },
+  "wa2501": {
+    "zoid_id": "a25",
+    "zoid_name": "matrix_dragon",
+    "mount_points": [
+      "mtp_00",
+      "mtp_02"
+    ],
+    "has_target": false,
+    "joints": [
+      "wa2501_pa_00_joint",
+      "wa2501_pa_02_joint"
+    ]
+  },
+  "wa2502": {
+    "zoid_id": "a25",
+    "zoid_name": "matrix_dragon",
+    "mount_points": [
+      "mtp_00"
+    ],
+    "has_target": true,
+    "joints": [
+      "wa2502_pa_00_joint",
+      "wa2502_scope_joint",
+      "wa2502_target_joint"
+    ]
+  },
+  "wa2503": {
+    "zoid_id": "a25",
+    "zoid_name": "matrix_dragon",
+    "mount_points": [
+      "mtp_00",
+      "mtp_02"
+    ],
+    "has_target": true,
+    "joints": [
+      "wa2503_pa_00_joint",
+      "wa2503_pa_02_joint",
+      "wa2503_target1_joint",
+      "wa2503_target_joint"
+    ]
+  },
+  "wa2504": {
+    "zoid_id": "a25",
+    "zoid_name": "matrix_dragon",
+    "mount_points": [
+      "mtp_00",
+      "mtp_02"
+    ],
+    "has_target": false,
+    "joints": [
+      "wa2504_pa_00_joint",
+      "wa2504_pa_02_joint"
+    ]
+  },
+  "wa2520": {
+    "zoid_id": "a25",
+    "zoid_name": "matrix_dragon",
+    "mount_points": [],
+    "has_target": false,
+    "joints": [
+      "wa2520_link_joint"
+    ]
+  },
+  "wa2530": {
+    "zoid_id": "a25",
+    "zoid_name": "matrix_dragon",
+    "mount_points": [
+      "mtp_00",
+      "mtp_02"
+    ],
+    "has_target": false,
+    "joints": [
+      "wa2530_pa_00_joint",
+      "wa2530_pa_02_joint"
+    ]
+  },
+  "wa2540": {
+    "zoid_id": "a25",
+    "zoid_name": "matrix_dragon",
+    "mount_points": [],
+    "has_target": false,
+    "joints": [
+      "wa2540_a_1_joint"
+    ]
+  },
+  "wa2620": {
+    "zoid_id": "a26",
+    "zoid_name": "double_arms_lizard",
+    "mount_points": [],
+    "has_target": false,
+    "joints": [
+      "wa2620_link_joint"
+    ]
+  },
+  "wa2630": {
+    "zoid_id": "a26",
+    "zoid_name": "double_arms_lizard",
+    "mount_points": [
+      "mtp_00",
+      "mtp_02"
+    ],
+    "has_target": false,
+    "joints": [
+      "wa2630_pa_00_joint",
+      "wa2630_pa_02_joint"
+    ]
+  },
+  "wa2640": {
+    "zoid_id": "a26",
+    "zoid_name": "double_arms_lizard",
+    "mount_points": [],
+    "has_target": false,
+    "joints": [
+      "wa2640_a_1_joint"
+    ]
+  },
+  "wa2701": {
+    "zoid_id": "a27",
+    "zoid_name": "griffin",
+    "mount_points": [
+      "mtp_00",
+      "mtp_02"
+    ],
+    "has_target": false,
+    "joints": [
+      "wa2701_pa_00_joint",
+      "wa2701_pa_02_joint"
+    ]
+  },
+  "wa2702": {
+    "zoid_id": "a27",
+    "zoid_name": "griffin",
+    "mount_points": [
+      "mtp_00",
+      "mtp_02"
+    ],
+    "has_target": false,
+    "joints": [
+      "wa2702_pa_00_joint",
+      "wa2702_pa_02_joint"
+    ]
+  },
+  "wa2703": {
+    "zoid_id": "a27",
+    "zoid_name": "griffin",
+    "mount_points": [
+      "mtp_00",
+      "mtp_02"
+    ],
+    "has_target": false,
+    "joints": [
+      "wa2703_pa_00_joint",
+      "wa2703_pa_02_joint"
+    ]
+  },
+  "wa2704": {
+    "zoid_id": "a27",
+    "zoid_name": "griffin",
+    "mount_points": [
+      "mtp_00",
+      "mtp_02"
+    ],
+    "has_target": true,
+    "joints": [
+      "wa2704_pa_00_joint",
+      "wa2704_pa_02_joint",
+      "wa2704_target_joint"
+    ]
+  },
+  "wa2720": {
+    "zoid_id": "a27",
+    "zoid_name": "griffin",
+    "mount_points": [],
+    "has_target": false,
+    "joints": [
+      "wa2720_link_joint"
+    ]
+  },
+  "wa2730": {
+    "zoid_id": "a27",
+    "zoid_name": "griffin",
+    "mount_points": [],
+    "has_target": false,
+    "joints": [
+      "wa2730_a_1_joint"
+    ]
+  },
+  "wa2740": {
+    "zoid_id": "a27",
+    "zoid_name": "griffin",
+    "mount_points": [],
+    "has_target": false,
+    "joints": [
+      "wa2740_a_1_joint"
+    ]
+  },
+  "wa2820": {
+    "zoid_id": "a28",
+    "zoid_name": "liger_aero",
+    "mount_points": [],
+    "has_target": false,
+    "joints": []
+  },
+  "wa2830": {
+    "zoid_id": "a28",
+    "zoid_name": "liger_aero",
+    "mount_points": [],
+    "has_target": false,
+    "joints": [
+      "wa2830_a_1_joint",
+      "wa2830_te_00_joint",
+      "wa2830_te_01_joint",
+      "wa2830_te_02_joint",
+      "wa2830_te_03_joint",
+      "wa2830_te_04_joint",
+      "wa2830_te_05_joint",
+      "wa2830_te_06_joint",
+      "wa2830_te_07_joint",
+      "wa2830_te_08_joint",
+      "wa2830_te_09_joint",
+      "wa2830_te_10_joint"
+    ]
+  },
+  "wa2840": {
+    "zoid_id": "a28",
+    "zoid_name": "liger_aero",
+    "mount_points": [],
+    "has_target": false,
+    "joints": [
+      "wa2840_a_1_joint"
+    ]
+  },
+  "wa2901": {
+    "zoid_id": "a29",
+    "zoid_name": "liger_zero_phoenix",
+    "mount_points": [
+      "mtp_00",
+      "mtp_02"
+    ],
+    "has_target": true,
+    "joints": [
+      "wa2901_pa_00_joint",
+      "wa2901_pa_02_joint",
+      "wa2901_target_joint"
+    ]
+  },
+  "wa2903": {
+    "zoid_id": "a29",
+    "zoid_name": "liger_zero_phoenix",
+    "mount_points": [
+      "mtp_00",
+      "mtp_02"
+    ],
+    "has_target": true,
+    "joints": [
+      "wa2903_pa_00_joint",
+      "wa2903_pa_02_joint",
+      "wa2903_target1_joint",
+      "wa2903_target_joint"
+    ]
+  },
+  "wa2920": {
+    "zoid_id": "a29",
+    "zoid_name": "liger_zero_phoenix",
+    "mount_points": [],
+    "has_target": false,
+    "joints": []
+  },
+  "wa2930": {
+    "zoid_id": "a29",
+    "zoid_name": "liger_zero_phoenix",
+    "mount_points": [],
+    "has_target": false,
+    "joints": [
+      "wa2930_a_1_joint",
+      "wa2930_te_00_joint",
+      "wa2930_te_01_joint",
+      "wa2930_te_02_joint",
+      "wa2930_te_03_joint"
+    ]
+  },
+  "wa2940": {
+    "zoid_id": "a29",
+    "zoid_name": "liger_zero_phoenix",
+    "mount_points": [],
+    "has_target": false,
+    "joints": [
+      "wa2940_a_1_joint"
+    ]
+  },
+  "wa3001": {
+    "zoid_id": "a30",
+    "zoid_name": "energy_liger",
+    "mount_points": [
+      "mtp_00",
+      "mtp_02"
+    ],
+    "has_target": true,
+    "joints": [
+      "wa3001_link_joint",
+      "wa3001_pa_00_joint",
+      "wa3001_pa_02_joint",
+      "wa3001_target_joint"
+    ]
+  },
+  "wa3002": {
+    "zoid_id": "a30",
+    "zoid_name": "energy_liger",
+    "mount_points": [
+      "mtp_00",
+      "mtp_02"
+    ],
+    "has_target": true,
+    "joints": [
+      "wa3002_link_joint",
+      "wa3002_pa_00_joint",
+      "wa3002_pa_02_joint",
+      "wa3002_target_joint"
+    ]
+  },
+  "wa3020": {
+    "zoid_id": "a30",
+    "zoid_name": "energy_liger",
+    "mount_points": [],
+    "has_target": false,
+    "joints": [
+      "wa3020_link_joint"
+    ]
+  },
+  "wa3030": {
+    "zoid_id": "a30",
+    "zoid_name": "energy_liger",
+    "mount_points": [],
+    "has_target": false,
+    "joints": [
+      "wa3030_a_1_joint",
+      "wa3030_te_00_joint",
+      "wa3030_te_01_joint",
+      "wa3030_te_02_joint",
+      "wa3030_te_03_joint",
+      "wa3030_te_04_joint",
+      "wa3030_te_05_joint",
+      "wa3030_te_06_joint",
+      "wa3030_te_07_joint",
+      "wa3030_te_08_joint",
+      "wa3030_te_09_joint",
+      "wa3030_te_10_joint",
+      "wa3030_te_11_joint",
+      "wa3030_te_12_joint"
+    ]
+  },
+  "wa3040": {
+    "zoid_id": "a30",
+    "zoid_name": "energy_liger",
+    "mount_points": [],
+    "has_target": false,
+    "joints": [
+      "wa3040_a_1_joint"
+    ]
+  },
+  "wa3101": {
+    "zoid_id": "a31",
+    "zoid_name": "hover_cargo",
+    "mount_points": [
+      "mtp_00",
+      "mtp_02"
+    ],
+    "has_target": true,
+    "joints": [
+      "wa3101_link_joint",
+      "wa3101_pa_00_joint",
+      "wa3101_pa_02_joint",
+      "wa3101_target1_joint",
+      "wa3101_target_joint"
+    ]
+  },
+  "wa3102": {
+    "zoid_id": "a31",
+    "zoid_name": "hover_cargo",
+    "mount_points": [
+      "mtp_00",
+      "mtp_01",
+      "mtp_02",
+      "mtp_03"
+    ],
+    "has_target": true,
+    "joints": [
+      "wa3102_link_joint",
+      "wa3102_pa_00_joint",
+      "wa3102_pa_01_joint",
+      "wa3102_pa_02_joint",
+      "wa3102_pa_03_joint",
+      "wa3102_target1_joint",
+      "wa3102_target_joint"
+    ]
+  },
+  "wa5001": {
+    "zoid_id": "a50",
+    "zoid_name": "50",
+    "mount_points": [
+      "mtp_00",
+      "mtp_02"
+    ],
+    "has_target": true,
+    "joints": [
+      "wa5001_pa_00_joint",
+      "wa5001_pa_02_joint",
+      "wa5001_target1_joint",
+      "wa5001_target_joint"
+    ]
+  },
+  "wa5002": {
+    "zoid_id": "a50",
+    "zoid_name": "50",
+    "mount_points": [
+      "mtp_00",
+      "mtp_02"
+    ],
+    "has_target": true,
+    "joints": [
+      "wa5002_a_1_joint",
+      "wa5002_pa_00_joint",
+      "wa5002_pa_02_joint",
+      "wa5002_target_joint"
+    ]
+  },
+  "wa5003": {
+    "zoid_id": "a50",
+    "zoid_name": "50",
+    "mount_points": [
+      "mtp_00",
+      "mtp_01",
+      "mtp_02",
+      "mtp_03"
+    ],
+    "has_target": false,
+    "joints": [
+      "wa5003_pa_00_joint",
+      "wa5003_pa_01_joint",
+      "wa5003_pa_02_joint",
+      "wa5003_pa_03_joint"
+    ]
+  },
+  "wa5004": {
+    "zoid_id": "a50",
+    "zoid_name": "50",
+    "mount_points": [
+      "mtp_00",
+      "mtp_02"
+    ],
+    "has_target": false,
+    "joints": [
+      "wa5004_pa_00_joint",
+      "wa5004_pa_02_joint"
+    ]
+  },
+  "wa5005": {
+    "zoid_id": "a50",
+    "zoid_name": "50",
+    "mount_points": [
+      "mtp_00"
+    ],
+    "has_target": true,
+    "joints": [
+      "wa5005_pa_00_joint",
+      "wa5005_target_joint"
+    ]
+  },
+  "wa5006": {
+    "zoid_id": "a50",
+    "zoid_name": "50",
+    "mount_points": [
+      "mtp_00"
+    ],
+    "has_target": true,
+    "joints": [
+      "wa5006_pa_00_joint",
+      "wa5006_target_joint"
+    ]
+  },
+  "wa5007": {
+    "zoid_id": "a50",
+    "zoid_name": "50",
+    "mount_points": [
+      "mtp_00"
+    ],
+    "has_target": true,
+    "joints": [
+      "wa5007_pa_00_joint",
+      "wa5007_target_joint"
+    ]
+  },
+  "wa5008": {
+    "zoid_id": "a50",
+    "zoid_name": "50",
+    "mount_points": [
+      "mtp_00",
+      "mtp_02"
+    ],
+    "has_target": true,
+    "joints": [
+      "wa5008_pa_00_joint",
+      "wa5008_pa_02_joint",
+      "wa5008_target_joint"
+    ]
+  },
+  "wb0100": {
+    "zoid_id": "b01",
+    "zoid_name": "molga",
+    "mount_points": [
+      "mtp_01"
+    ],
+    "has_target": true,
+    "joints": [
+      "wb0100_pa_01_joint",
+      "wb0100_target_joint"
+    ]
+  },
+  "wb0102": {
+    "zoid_id": "b01",
+    "zoid_name": "molga",
+    "mount_points": [
+      "mtp_01",
+      "mtp_02"
+    ],
+    "has_target": false,
+    "joints": [
+      "wb0102_pa_01_joint",
+      "wb0102_pa_02_joint"
+    ]
+  },
+  "wb0104": {
+    "zoid_id": "b01",
+    "zoid_name": "molga",
+    "mount_points": [
+      "mtp_01",
+      "mtp_02"
+    ],
+    "has_target": false,
+    "joints": [
+      "wb0104_pa_01_joint",
+      "wb0104_pa_02_joint"
+    ]
+  },
+  "wb0130": {
+    "zoid_id": "b01",
+    "zoid_name": "molga",
+    "mount_points": [],
+    "has_target": false,
+    "joints": [
+      "wb0130_a_1_joint"
+    ]
+  },
+  "wb0200": {
+    "zoid_id": "b02",
+    "zoid_name": "zaber_fang",
+    "mount_points": [
+      "mtp_00"
+    ],
+    "has_target": true,
+    "joints": [
+      "wb0200_pa_00_joint",
+      "wb0200_target_joint"
+    ]
+  },
+  "wb0204": {
+    "zoid_id": "b02",
+    "zoid_name": "zaber_fang",
+    "mount_points": [
+      "mtp_00",
+      "mtp_02"
+    ],
+    "has_target": true,
+    "joints": [
+      "wb0204_pa_00_joint",
+      "wb0204_pa_02_joint",
+      "wb0204_target_joint"
+    ]
+  },
+  "wb0215": {
+    "zoid_id": "b02",
+    "zoid_name": "zaber_fang",
+    "mount_points": [
+      "mtp_00"
+    ],
+    "has_target": false,
+    "joints": [
+      "wb0215_link_joint",
+      "wb0215_pa_00_joint"
+    ]
+  },
+  "wb0216": {
+    "zoid_id": "b02",
+    "zoid_name": "zaber_fang",
+    "mount_points": [
+      "mtp_00",
+      "mtp_01"
+    ],
+    "has_target": true,
+    "joints": [
+      "wb0216_pa_00_joint",
+      "wb0216_pa_01_joint",
+      "wb0216_target_joint"
+    ]
+  },
+  "wb0230": {
+    "zoid_id": "b02",
+    "zoid_name": "zaber_fang",
+    "mount_points": [],
+    "has_target": false,
+    "joints": [
+      "wb0230_a_1_joint",
+      "wb0230_te_00_joint",
+      "wb0230_te_01_joint",
+      "wb0230_te_02_joint",
+      "wb0230_te_03_joint",
+      "wb0230_te_04_joint",
+      "wb0230_te_05_joint",
+      "wb0230_te_06_joint",
+      "wb0230_te_07_joint",
+      "wb0230_te_08_joint",
+      "wb0230_te_09_joint",
+      "wb0230_te_10_joint",
+      "wb0230_te_11_joint",
+      "wb0230_te_12_joint"
+    ]
+  },
+  "wb0308": {
+    "zoid_id": "b03",
+    "zoid_name": "red_horn",
+    "mount_points": [
+      "mtp_00"
+    ],
+    "has_target": true,
+    "joints": [
+      "wb0308_pa_00_joint",
+      "wb0308_target_joint"
+    ]
+  },
+  "wb0309": {
+    "zoid_id": "b03",
+    "zoid_name": "red_horn",
+    "mount_points": [
+      "mtp_00"
+    ],
+    "has_target": true,
+    "joints": [
+      "wb0309_pa_00_joint",
+      "wb0309_target_joint"
+    ]
+  },
+  "wb0310": {
+    "zoid_id": "b03",
+    "zoid_name": "red_horn",
+    "mount_points": [],
+    "has_target": false,
+    "joints": [
+      "wb0310_a_1_joint",
+      "wb0310_te_00_joint",
+      "wb0310_te_01_joint",
+      "wb0310_te_02_joint",
+      "wb0310_te_03_joint",
+      "wb0310_te_04_joint",
+      "wb0310_te_05_joint",
+      "wb0310_te_06_joint",
+      "wb0310_te_07_joint",
+      "wb0310_te_08_joint",
+      "wb0310_te_09_joint",
+      "wb0310_te_10_joint",
+      "wb0310_te_11_joint",
+      "wb0310_te_12_joint"
+    ]
+  },
+  "wb0314": {
+    "zoid_id": "b03",
+    "zoid_name": "red_horn",
+    "mount_points": [
+      "mtp_01"
+    ],
+    "has_target": true,
+    "joints": [
+      "wb0314_pa_01_joint",
+      "wb0314_target1_joint",
+      "wb0314_target_joint"
+    ]
+  },
+  "wb0315": {
+    "zoid_id": "b03",
+    "zoid_name": "red_horn",
+    "mount_points": [
+      "mtp_00"
+    ],
+    "has_target": true,
+    "joints": [
+      "wb0315_pa_00_joint",
+      "wb0315_target_joint"
+    ]
+  },
+  "wb0316": {
+    "zoid_id": "b03",
+    "zoid_name": "red_horn",
+    "mount_points": [
+      "mtp_00",
+      "mtp_01"
+    ],
+    "has_target": true,
+    "joints": [
+      "wb0316_pa_00_joint",
+      "wb0316_pa_01_joint",
+      "wb0316_target_joint"
+    ]
+  },
+  "wb0319": {
+    "zoid_id": "b03",
+    "zoid_name": "red_horn",
+    "mount_points": [
+      "mtp_01"
+    ],
+    "has_target": true,
+    "joints": [
+      "wb0319_pa_01_joint",
+      "wb0319_target_joint"
+    ]
+  },
+  "wb0320": {
+    "zoid_id": "b03",
+    "zoid_name": "red_horn",
+    "mount_points": [
+      "mtp_00"
+    ],
+    "has_target": true,
+    "joints": [
+      "wb0320_pa_00_joint",
+      "wb0320_target_joint"
+    ]
+  },
+  "wb0401": {
+    "zoid_id": "b04",
+    "zoid_name": "elephander",
+    "mount_points": [],
+    "has_target": false,
+    "joints": [
+      "wb0401_a_1_joint",
+      "wb0401_te_00_joint",
+      "wb0401_te_01_joint",
+      "wb0401_te_02_joint",
+      "wb0401_te_03_joint",
+      "wb0401_te_04_joint",
+      "wb0401_te_05_joint",
+      "wb0401_te_06_joint",
+      "wb0401_te_07_joint",
+      "wb0401_te_08_joint",
+      "wb0401_te_09_joint",
+      "wb0401_te_10_joint"
+    ]
+  },
+  "wb0402": {
+    "zoid_id": "b04",
+    "zoid_name": "elephander",
+    "mount_points": [
+      "mtp_00"
+    ],
+    "has_target": true,
+    "joints": [
+      "wb0402_pa_00_joint",
+      "wb0402_target_joint"
+    ]
+  },
+  "wb0403": {
+    "zoid_id": "b04",
+    "zoid_name": "elephander",
+    "mount_points": [
+      "mtp_00",
+      "mtp_01"
+    ],
+    "has_target": true,
+    "joints": [
+      "wb0403_pa_00_joint",
+      "wb0403_pa_01_joint",
+      "wb0403_target1_joint",
+      "wb0403_target_joint"
+    ]
+  },
+  "wb0404": {
+    "zoid_id": "b04",
+    "zoid_name": "elephander",
+    "mount_points": [
+      "mtp_00"
+    ],
+    "has_target": true,
+    "joints": [
+      "wb0404_pa_00_joint",
+      "wb0404_target1_joint",
+      "wb0404_target_joint"
+    ]
+  },
+  "wb0405": {
+    "zoid_id": "b04",
+    "zoid_name": "elephander",
+    "mount_points": [
+      "mtp_00",
+      "mtp_01"
+    ],
+    "has_target": true,
+    "joints": [
+      "wb0405_pa_00_joint",
+      "wb0405_pa_01_joint",
+      "wb0405_target_joint"
+    ]
+  },
+  "wb0420": {
+    "zoid_id": "b04",
+    "zoid_name": "elephander",
+    "mount_points": [],
+    "has_target": false,
+    "joints": []
+  },
+  "wb0430": {
+    "zoid_id": "b04",
+    "zoid_name": "elephander",
+    "mount_points": [],
+    "has_target": false,
+    "joints": [
+      "wb0430_a_1_joint"
+    ]
+  },
+  "wb0440": {
+    "zoid_id": "b04",
+    "zoid_name": "elephander",
+    "mount_points": [],
+    "has_target": false,
+    "joints": [
+      "wb0440_a_1_joint"
+    ]
+  },
+  "wb0500": {
+    "zoid_id": "b05",
+    "zoid_name": "iron_kong",
+    "mount_points": [
+      "mtp_01"
+    ],
+    "has_target": true,
+    "joints": [
+      "wb0500_pa_01_joint",
+      "wb0500_target_joint"
+    ]
+  },
+  "wb0502": {
+    "zoid_id": "b05",
+    "zoid_name": "iron_kong",
+    "mount_points": [
+      "mtp_01"
+    ],
+    "has_target": false,
+    "joints": [
+      "wb0502_pa_01_joint"
+    ]
+  },
+  "wb0505": {
+    "zoid_id": "b05",
+    "zoid_name": "iron_kong",
+    "mount_points": [
+      "mtp_01"
+    ],
+    "has_target": false,
+    "joints": [
+      "wb0505_pa_01_joint"
+    ]
+  },
+  "wb0506": {
+    "zoid_id": "b05",
+    "zoid_name": "iron_kong",
+    "mount_points": [
+      "mtp_01"
+    ],
+    "has_target": true,
+    "joints": [
+      "wb0506_pa_01_joint",
+      "wb0506_target_joint"
+    ]
+  },
+  "wb0507": {
+    "zoid_id": "b05",
+    "zoid_name": "iron_kong",
+    "mount_points": [
+      "mtp_01"
+    ],
+    "has_target": false,
+    "joints": [
+      "wb0507_pa_01_joint"
+    ]
+  },
+  "wb0512": {
+    "zoid_id": "b05",
+    "zoid_name": "iron_kong",
+    "mount_points": [],
+    "has_target": false,
+    "joints": []
+  },
+  "wb0530": {
+    "zoid_id": "b05",
+    "zoid_name": "iron_kong",
+    "mount_points": [],
+    "has_target": false,
+    "joints": [
+      "wb0530_a_1_joint"
+    ]
+  },
+  "wb0600": {
+    "zoid_id": "b06",
+    "zoid_name": "lightning_saix",
+    "mount_points": [
+      "mtp_00",
+      "mtp_02"
+    ],
+    "has_target": true,
+    "joints": [
+      "wb0600_pa_00_joint",
+      "wb0600_pa_02_joint",
+      "wb0600_target_joint"
+    ]
+  },
+  "wb0601": {
+    "zoid_id": "b06",
+    "zoid_name": "lightning_saix",
+    "mount_points": [
+      "mtp_00"
+    ],
+    "has_target": false,
+    "joints": [
+      "wb0601_pa_00_joint"
+    ]
+  },
+  "wb0604": {
+    "zoid_id": "b06",
+    "zoid_name": "lightning_saix",
+    "mount_points": [],
+    "has_target": false,
+    "joints": []
+  },
+  "wb0630": {
+    "zoid_id": "b06",
+    "zoid_name": "lightning_saix",
+    "mount_points": [
+      "mtp_00"
+    ],
+    "has_target": true,
+    "joints": [
+      "wb0630_pa_00_joint",
+      "wb0630_target_joint"
+    ]
+  },
+  "wb0700": {
+    "zoid_id": "b07",
+    "zoid_name": "berserk_fury",
+    "mount_points": [],
+    "has_target": false,
+    "joints": [
+      "wb0700_a_0_joint",
+      "wb0700_a_1_joint",
+      "wb0700_a_2_joint",
+      "wb0700_a_3_joint",
+      "wb0700_a_4_joint",
+      "wb0700_a_5_joint",
+      "wb0700_a_6_joint",
+      "wb0700_a_7_joint",
+      "wb0700_a_8_joint",
+      "wb0700_a_9_joint",
+      "wb0700_a_a_joint",
+      "wb0700_te_00_joint",
+      "wb0700_te_01_joint",
+      "wb0700_te_02_joint",
+      "wb0700_te_03_joint",
+      "wb0700_te_04_joint",
+      "wb0700_te_05_joint",
+      "wb0700_te_06_joint",
+      "wb0700_te_07_joint",
+      "wb0700_te_08_joint",
+      "wb0700_te_09_joint",
+      "wb0700_te_10_joint"
+    ]
+  },
+  "wb0701": {
+    "zoid_id": "b07",
+    "zoid_name": "berserk_fury",
+    "mount_points": [
+      "mtp_00",
+      "mtp_02"
+    ],
+    "has_target": false,
+    "joints": [
+      "wb0701_pa_00_joint",
+      "wb0701_pa_02_joint"
+    ]
+  },
+  "wb0704": {
+    "zoid_id": "b07",
+    "zoid_name": "berserk_fury",
+    "mount_points": [],
+    "has_target": false,
+    "joints": [
+      "wb0704_a_1_joint"
+    ]
+  },
+  "wb0705": {
+    "zoid_id": "b07",
+    "zoid_name": "berserk_fury",
+    "mount_points": [],
+    "has_target": false,
+    "joints": []
+  },
+  "wb0730": {
+    "zoid_id": "b07",
+    "zoid_name": "berserk_fury",
+    "mount_points": [],
+    "has_target": true,
+    "joints": [
+      "wb0730_a_1_joint",
+      "wb0730_a_2_joint",
+      "wb0730_a_3_joint",
+      "wb0730_target_joint"
+    ]
+  },
+  "wb0801": {
+    "zoid_id": "b08",
+    "zoid_name": "genosaurer",
+    "mount_points": [
+      "mtp_00",
+      "mtp_02"
+    ],
+    "has_target": true,
+    "joints": [
+      "wb0801_pa_00_joint",
+      "wb0801_pa_02_joint",
+      "wb0801_target_joint"
+    ]
+  },
+  "wb0802": {
+    "zoid_id": "b08",
+    "zoid_name": "genosaurer",
+    "mount_points": [
+      "mtp_00"
+    ],
+    "has_target": false,
+    "joints": [
+      "wb0802_pa_00_joint"
+    ]
+  },
+  "wb0803": {
+    "zoid_id": "b08",
+    "zoid_name": "genosaurer",
+    "mount_points": [
+      "mtp_00"
+    ],
+    "has_target": false,
+    "joints": [
+      "wb0803_pa_00_joint"
+    ]
+  },
+  "wb0805": {
+    "zoid_id": "b08",
+    "zoid_name": "genosaurer",
+    "mount_points": [
+      "mtp_00",
+      "mtp_02"
+    ],
+    "has_target": false,
+    "joints": [
+      "wb0805_pa_00_joint",
+      "wb0805_pa_02_joint"
+    ]
+  },
+  "wb0830": {
+    "zoid_id": "b08",
+    "zoid_name": "genosaurer",
+    "mount_points": [],
+    "has_target": true,
+    "joints": [
+      "wb0830_a_1_joint",
+      "wb0830_target_joint"
+    ]
+  },
+  "wb0906": {
+    "zoid_id": "b09",
+    "zoid_name": "geno_breaker",
+    "mount_points": [],
+    "has_target": false,
+    "joints": []
+  },
+  "wb0913": {
+    "zoid_id": "b09",
+    "zoid_name": "geno_breaker",
+    "mount_points": [
+      "mtp_00",
+      "mtp_01",
+      "mtp_02",
+      "mtp_03"
+    ],
+    "has_target": true,
+    "joints": [
+      "wb0913_pa_00_joint",
+      "wb0913_pa_01_joint",
+      "wb0913_pa_02_joint",
+      "wb0913_pa_03_joint",
+      "wb0913_target1_joint",
+      "wb0913_target_joint"
+    ]
+  },
+  "wb0930": {
+    "zoid_id": "b09",
+    "zoid_name": "geno_breaker",
+    "mount_points": [],
+    "has_target": true,
+    "joints": [
+      "wb0930_a_1_joint",
+      "wb0930_target_joint"
+    ]
+  },
+  "wb1001": {
+    "zoid_id": "b10",
+    "zoid_name": "sinker",
+    "mount_points": [
+      "mtp_01",
+      "mtp_02"
+    ],
+    "has_target": false,
+    "joints": [
+      "wb1001_pa_01_joint",
+      "wb1001_pa_02_joint"
+    ]
+  },
+  "wb1002": {
+    "zoid_id": "b10",
+    "zoid_name": "sinker",
+    "mount_points": [
+      "mtp_00",
+      "mtp_02"
+    ],
+    "has_target": false,
+    "joints": [
+      "wb1002_pa_00_joint",
+      "wb1002_pa_02_joint"
+    ]
+  },
+  "wb1020": {
+    "zoid_id": "b10",
+    "zoid_name": "sinker",
+    "mount_points": [],
+    "has_target": false,
+    "joints": []
+  },
+  "wb1030": {
+    "zoid_id": "b10",
+    "zoid_name": "sinker",
+    "mount_points": [],
+    "has_target": false,
+    "joints": [
+      "wb1030_a_1_joint"
+    ]
+  },
+  "wb1040": {
+    "zoid_id": "b10",
+    "zoid_name": "sinker",
+    "mount_points": [],
+    "has_target": false,
+    "joints": [
+      "wb1040_a_1_joint"
+    ]
+  },
+  "wb1101": {
+    "zoid_id": "b11",
+    "zoid_name": "helcat",
+    "mount_points": [
+      "mtp_00",
+      "mtp_02"
+    ],
+    "has_target": true,
+    "joints": [
+      "wb1101_pa_00_joint",
+      "wb1101_pa_02_joint",
+      "wb1101_target1_joint",
+      "wb1101_target_joint"
+    ]
+  },
+  "wb1102": {
+    "zoid_id": "b11",
+    "zoid_name": "helcat",
+    "mount_points": [
+      "mtp_00",
+      "mtp_02"
+    ],
+    "has_target": true,
+    "joints": [
+      "wb1102_pa_00_joint",
+      "wb1102_pa_02_joint",
+      "wb1102_target_joint"
+    ]
+  },
+  "wb1120": {
+    "zoid_id": "b11",
+    "zoid_name": "helcat",
+    "mount_points": [],
+    "has_target": false,
+    "joints": []
+  },
+  "wb1130": {
+    "zoid_id": "b11",
+    "zoid_name": "helcat",
+    "mount_points": [],
+    "has_target": false,
+    "joints": [
+      "wb1130_a_1_joint",
+      "wb1130_te_00_joint",
+      "wb1130_te_01_joint",
+      "wb1130_te_02_joint",
+      "wb1130_te_03_joint",
+      "wb1130_te_04_joint",
+      "wb1130_te_05_joint",
+      "wb1130_te_06_joint",
+      "wb1130_te_07_joint",
+      "wb1130_te_08_joint",
+      "wb1130_te_09_joint",
+      "wb1130_te_10_joint"
+    ]
+  },
+  "wb1140": {
+    "zoid_id": "b11",
+    "zoid_name": "helcat",
+    "mount_points": [],
+    "has_target": false,
+    "joints": [
+      "wb1140_a_1_joint"
+    ]
+  },
+  "wb1206": {
+    "zoid_id": "b12",
+    "zoid_name": "sturm_tyran",
+    "mount_points": [],
+    "has_target": false,
+    "joints": [
+      "wb1206_a_1_joint"
+    ]
+  },
+  "wb1209": {
+    "zoid_id": "b12",
+    "zoid_name": "sturm_tyran",
+    "mount_points": [],
+    "has_target": false,
+    "joints": [
+      "wb1209_a_0_joint",
+      "wb1209_a_2_joint",
+      "wb1209_a_3_joint",
+      "wb1209_a_4_joint"
+    ]
+  },
+  "wb1230": {
+    "zoid_id": "b12",
+    "zoid_name": "sturm_tyran",
+    "mount_points": [],
+    "has_target": false,
+    "joints": [
+      "wb1230_a_1_joint"
+    ]
+  },
+  "wb1300": {
+    "zoid_id": "b13",
+    "zoid_name": "dark_spiner",
+    "mount_points": [
+      "mtp_00",
+      "mtp_02"
+    ],
+    "has_target": true,
+    "joints": [
+      "wb1300_pa_00_joint",
+      "wb1300_pa_02_joint",
+      "wb1300_target1_joint",
+      "wb1300_target_joint"
+    ]
+  },
+  "wb1301": {
+    "zoid_id": "b13",
+    "zoid_name": "dark_spiner",
+    "mount_points": [
+      "mtp_00",
+      "mtp_01",
+      "mtp_02",
+      "mtp_04",
+      "mtp_06",
+      "mtp_08"
+    ],
+    "has_target": false,
+    "joints": [
+      "wb1301_pa_00_joint",
+      "wb1301_pa_01_joint",
+      "wb1301_pa_02_joint",
+      "wb1301_pa_04_joint",
+      "wb1301_pa_06_joint",
+      "wb1301_pa_08_joint"
+    ]
+  },
+  "wb1307": {
+    "zoid_id": "b13",
+    "zoid_name": "dark_spiner",
+    "mount_points": [
+      "mtp_00"
+    ],
+    "has_target": true,
+    "joints": [
+      "wb1307_pa_00_joint",
+      "wb1307_target_joint"
+    ]
+  },
+  "wb1311": {
+    "zoid_id": "b13",
+    "zoid_name": "dark_spiner",
+    "mount_points": [
+      "mtp_00",
+      "mtp_01"
+    ],
+    "has_target": true,
+    "joints": [
+      "wb1311_pa_00_joint",
+      "wb1311_pa_01_joint",
+      "wb1311_target_joint"
+    ]
+  },
+  "wb1330": {
+    "zoid_id": "b13",
+    "zoid_name": "dark_spiner",
+    "mount_points": [
+      "mtp_00",
+      "mtp_02"
+    ],
+    "has_target": false,
+    "joints": [
+      "wb1330_a_1_joint",
+      "wb1330_pa_00_joint",
+      "wb1330_pa_02_joint"
+    ]
+  },
+  "wb1401": {
+    "zoid_id": "b14",
+    "zoid_name": "chimera_dragon",
+    "mount_points": [
+      "mtp_00",
+      "mtp_02"
+    ],
+    "has_target": false,
+    "joints": [
+      "wb1401_pa_00_joint",
+      "wb1401_pa_02_joint"
+    ]
+  },
+  "wb1402": {
+    "zoid_id": "b14",
+    "zoid_name": "chimera_dragon",
+    "mount_points": [
+      "mtp_00",
+      "mtp_02"
+    ],
+    "has_target": true,
+    "joints": [
+      "wb1402_pa_00_joint",
+      "wb1402_pa_02_joint",
+      "wb1402_target1_joint",
+      "wb1402_target_joint"
+    ]
+  },
+  "wb1403": {
+    "zoid_id": "b14",
+    "zoid_name": "chimera_dragon",
+    "mount_points": [
+      "mtp_00"
+    ],
+    "has_target": true,
+    "joints": [
+      "wb1403_pa_00_joint",
+      "wb1403_target_joint"
+    ]
+  },
+  "wb1420": {
+    "zoid_id": "b14",
+    "zoid_name": "chimera_dragon",
+    "mount_points": [],
+    "has_target": false,
+    "joints": [
+      "wb1420_link_joint"
+    ]
+  },
+  "wb1430": {
+    "zoid_id": "b14",
+    "zoid_name": "chimera_dragon",
+    "mount_points": [],
+    "has_target": false,
+    "joints": [
+      "wb1430_a_1_joint",
+      "wb1430_te_00_joint",
+      "wb1430_te_01_joint",
+      "wb1430_te_02_joint",
+      "wb1430_te_03_joint",
+      "wb1430_te_04_joint",
+      "wb1430_te_05_joint",
+      "wb1430_te_06_joint",
+      "wb1430_te_07_joint",
+      "wb1430_te_08_joint",
+      "wb1430_te_09_joint",
+      "wb1430_te_10_joint",
+      "wb1430_te_11_joint",
+      "wb1430_te_12_joint"
+    ]
+  },
+  "wb1440": {
+    "zoid_id": "b14",
+    "zoid_name": "chimera_dragon",
+    "mount_points": [],
+    "has_target": false,
+    "joints": [
+      "wb1440_a_1_joint"
+    ]
+  },
+  "wb1501": {
+    "zoid_id": "b15",
+    "zoid_name": "lord_gale",
+    "mount_points": [
+      "mtp_00",
+      "mtp_02"
+    ],
+    "has_target": true,
+    "joints": [
+      "wb1501_pa_00_joint",
+      "wb1501_pa_02_joint",
+      "wb1501_target_joint"
+    ]
+  },
+  "wb1515": {
+    "zoid_id": "b15",
+    "zoid_name": "lord_gale",
+    "mount_points": [
+      "mtp_01"
+    ],
+    "has_target": false,
+    "joints": [
+      "wb1515_pa_01_joint"
+    ]
+  },
+  "wb1516": {
+    "zoid_id": "b15",
+    "zoid_name": "lord_gale",
+    "mount_points": [
+      "mtp_01"
+    ],
+    "has_target": true,
+    "joints": [
+      "wb1516_pa_01_joint",
+      "wb1516_target_joint"
+    ]
+  },
+  "wb1517": {
+    "zoid_id": "b15",
+    "zoid_name": "lord_gale",
+    "mount_points": [
+      "mtp_00",
+      "mtp_01"
+    ],
+    "has_target": true,
+    "joints": [
+      "wb1517_pa_00_joint",
+      "wb1517_pa_01_joint",
+      "wb1517_target_joint"
+    ]
+  },
+  "wb1519": {
+    "zoid_id": "b15",
+    "zoid_name": "lord_gale",
+    "mount_points": [
+      "mtp_01",
+      "mtp_02"
+    ],
+    "has_target": false,
+    "joints": [
+      "wb1519_pa_01_joint",
+      "wb1519_pa_02_joint"
+    ]
+  },
+  "wb1520": {
+    "zoid_id": "b15",
+    "zoid_name": "lord_gale",
+    "mount_points": [],
+    "has_target": false,
+    "joints": []
+  },
+  "wb1530": {
+    "zoid_id": "b15",
+    "zoid_name": "lord_gale",
+    "mount_points": [],
+    "has_target": false,
+    "joints": [
+      "wb1530_a_0_joint",
+      "wb1530_a_1_joint"
+    ]
+  },
+  "wb1540": {
+    "zoid_id": "b15",
+    "zoid_name": "lord_gale",
+    "mount_points": [],
+    "has_target": false,
+    "joints": [
+      "wb1540_a_1_joint"
+    ]
+  },
+  "wb1601": {
+    "zoid_id": "b16",
+    "zoid_name": "geno_hydra",
+    "mount_points": [
+      "mtp_00",
+      "mtp_02"
+    ],
+    "has_target": false,
+    "joints": [
+      "wb1601_pa_00_joint",
+      "wb1601_pa_02_joint"
+    ]
+  },
+  "wb1602": {
+    "zoid_id": "b16",
+    "zoid_name": "geno_hydra",
+    "mount_points": [
+      "mtp_00",
+      "mtp_02"
+    ],
+    "has_target": false,
+    "joints": [
+      "wb1602_pa_00_joint",
+      "wb1602_pa_02_joint"
+    ]
+  },
+  "wb1603": {
+    "zoid_id": "b16",
+    "zoid_name": "geno_hydra",
+    "mount_points": [
+      "mtp_00"
+    ],
+    "has_target": true,
+    "joints": [
+      "wb1603_pa_00_joint",
+      "wb1603_target_joint"
+    ]
+  },
+  "wb1620": {
+    "zoid_id": "b16",
+    "zoid_name": "geno_hydra",
+    "mount_points": [],
+    "has_target": false,
+    "joints": [
+      "wb1620_link_joint"
+    ]
+  },
+  "wb1630": {
+    "zoid_id": "b16",
+    "zoid_name": "geno_hydra",
+    "mount_points": [],
+    "has_target": true,
+    "joints": [
+      "wb1630_a_1_joint",
+      "wb1630_target_joint"
+    ]
+  },
+  "wb1640": {
+    "zoid_id": "b16",
+    "zoid_name": "geno_hydra",
+    "mount_points": [],
+    "has_target": false,
+    "joints": [
+      "wb1640_a_1_joint"
+    ]
+  },
+  "wb1701": {
+    "zoid_id": "b17",
+    "zoid_name": "death_saurer",
+    "mount_points": [
+      "mtp_00",
+      "mtp_01"
+    ],
+    "has_target": true,
+    "joints": [
+      "wb1701_pa_00_joint",
+      "wb1701_pa_01_joint",
+      "wb1701_target_joint"
+    ]
+  },
+  "wb1702": {
+    "zoid_id": "b17",
+    "zoid_name": "death_saurer",
+    "mount_points": [
+      "mtp_00"
+    ],
+    "has_target": true,
+    "joints": [
+      "wb1702_pa_00_joint",
+      "wb1702_target_joint"
+    ]
+  },
+  "wb1703": {
+    "zoid_id": "b17",
+    "zoid_name": "death_saurer",
+    "mount_points": [
+      "mtp_00",
+      "mtp_01",
+      "mtp_02",
+      "mtp_03"
+    ],
+    "has_target": true,
+    "joints": [
+      "wb1703_pa_00_joint",
+      "wb1703_pa_01_joint",
+      "wb1703_pa_02_joint",
+      "wb1703_pa_03_joint",
+      "wb1703_target_joint"
+    ]
+  },
+  "wb1705": {
+    "zoid_id": "b17",
+    "zoid_name": "death_saurer",
+    "mount_points": [
+      "mtp_00"
+    ],
+    "has_target": false,
+    "joints": [
+      "wb1705_pa_00_joint"
+    ]
+  },
+  "wb1706": {
+    "zoid_id": "b17",
+    "zoid_name": "death_saurer",
+    "mount_points": [],
+    "has_target": true,
+    "joints": [
+      "wb1706_a_1_joint",
+      "wb1706_link_joint",
+      "wb1706_target_joint"
+    ]
+  },
+  "wb1730": {
+    "zoid_id": "b17",
+    "zoid_name": "death_saurer",
+    "mount_points": [],
+    "has_target": true,
+    "joints": [
+      "wb1730_a_1_joint",
+      "wb1730_target_joint"
+    ]
+  },
+  "wb1801": {
+    "zoid_id": "b18",
+    "zoid_name": "death_stinger",
+    "mount_points": [
+      "mtp_00",
+      "mtp_02"
+    ],
+    "has_target": false,
+    "joints": [
+      "wb1801_pa_00_joint",
+      "wb1801_pa_02_joint"
+    ]
+  },
+  "wb1802": {
+    "zoid_id": "b18",
+    "zoid_name": "death_stinger",
+    "mount_points": [
+      "mtp_00",
+      "mtp_02"
+    ],
+    "has_target": true,
+    "joints": [
+      "wb1802_pa_00_joint",
+      "wb1802_pa_02_joint",
+      "wb1802_target_joint"
+    ]
+  },
+  "wb1803": {
+    "zoid_id": "b18",
+    "zoid_name": "death_stinger",
+    "mount_points": [
+      "mtp_00",
+      "mtp_02"
+    ],
+    "has_target": true,
+    "joints": [
+      "wb1803_pa_00_joint",
+      "wb1803_pa_02_joint",
+      "wb1803_target1_joint",
+      "wb1803_target_joint"
+    ]
+  },
+  "wb1807": {
+    "zoid_id": "b18",
+    "zoid_name": "death_stinger",
+    "mount_points": [],
+    "has_target": false,
+    "joints": [
+      "wb1807_a_1_joint"
+    ]
+  },
+  "wb1810": {
+    "zoid_id": "b18",
+    "zoid_name": "death_stinger",
+    "mount_points": [
+      "mtp_00",
+      "mtp_02"
+    ],
+    "has_target": true,
+    "joints": [
+      "wb1810_pa_00_joint",
+      "wb1810_pa_02_joint",
+      "wb1810_target1_joint",
+      "wb1810_target_joint"
+    ]
+  },
+  "wb1830": {
+    "zoid_id": "b18",
+    "zoid_name": "death_stinger",
+    "mount_points": [],
+    "has_target": true,
+    "joints": [
+      "wb1830_a_1_joint",
+      "wb1830_target_joint"
+    ]
+  },
+  "wb1900": {
+    "zoid_id": "b19",
+    "zoid_name": "diablo_tiger",
+    "mount_points": [
+      "mtp_00"
+    ],
+    "has_target": true,
+    "joints": [
+      "wb1900_pa_00_joint",
+      "wb1900_target_joint"
+    ]
+  },
+  "wb1901": {
+    "zoid_id": "b19",
+    "zoid_name": "diablo_tiger",
+    "mount_points": [
+      "mtp_00"
+    ],
+    "has_target": true,
+    "joints": [
+      "wb1901_pa_00_joint",
+      "wb1901_target_joint",
+      "wb1901_te_00_joint",
+      "wb1901_te_01_joint"
+    ]
+  },
+  "wb1930": {
+    "zoid_id": "b19",
+    "zoid_name": "diablo_tiger",
+    "mount_points": [],
+    "has_target": false,
+    "joints": [
+      "wb1930_a_1_joint",
+      "wb1930_te_00_joint",
+      "wb1930_te_01_joint",
+      "wb1930_te_02_joint",
+      "wb1930_te_03_joint",
+      "wb1930_te_04_joint",
+      "wb1930_te_05_joint",
+      "wb1930_te_06_joint",
+      "wb1930_te_07_joint",
+      "wb1930_te_08_joint",
+      "wb1930_te_09_joint",
+      "wb1930_te_10_joint"
+    ]
+  },
+  "wb2103": {
+    "zoid_id": "b21",
+    "zoid_name": "rev_raptor",
+    "mount_points": [
+      "mtp_00"
+    ],
+    "has_target": true,
+    "joints": [
+      "wb2103_a_0_joint",
+      "wb2103_pa_00_joint",
+      "wb2103_target_joint"
+    ]
+  },
+  "wb2104": {
+    "zoid_id": "b21",
+    "zoid_name": "rev_raptor",
+    "mount_points": [
+      "mtp_00"
+    ],
+    "has_target": true,
+    "joints": [
+      "wb2104_a_0_joint",
+      "wb2104_a_1_joint",
+      "wb2104_pa_00_joint",
+      "wb2104_target_joint"
+    ]
+  },
+  "wb2106": {
+    "zoid_id": "b21",
+    "zoid_name": "rev_raptor",
+    "mount_points": [],
+    "has_target": false,
+    "joints": [
+      "wb2106_a_1_joint",
+      "wb2106_link_joint",
+      "wb2106_te_00_joint",
+      "wb2106_te_01_joint",
+      "wb2106_te_02_joint",
+      "wb2106_te_03_joint",
+      "wb2106_te_04_joint",
+      "wb2106_te_05_joint",
+      "wb2106_te_06_joint",
+      "wb2106_te_07_joint",
+      "wb2106_te_08_joint",
+      "wb2106_te_09_joint",
+      "wb2106_te_10_joint"
+    ]
+  },
+  "wb2130": {
+    "zoid_id": "b21",
+    "zoid_name": "rev_raptor",
+    "mount_points": [],
+    "has_target": false,
+    "joints": [
+      "wb2130_a_1_joint",
+      "wb2130_te_00_joint",
+      "wb2130_te_01_joint",
+      "wb2130_te_02_joint",
+      "wb2130_te_03_joint",
+      "wb2130_te_04_joint",
+      "wb2130_te_05_joint",
+      "wb2130_te_06_joint",
+      "wb2130_te_07_joint",
+      "wb2130_te_08_joint",
+      "wb2130_te_09_joint",
+      "wb2130_te_10_joint"
+    ]
+  },
+  "wb2201": {
+    "zoid_id": "b22",
+    "zoid_name": "seismosaurus",
+    "mount_points": [
+      "mtp_00",
+      "mtp_02"
+    ],
+    "has_target": false,
+    "joints": [
+      "wb2201_pa_00_joint",
+      "wb2201_pa_02_joint"
+    ]
+  },
+  "wb2202": {
+    "zoid_id": "b22",
+    "zoid_name": "seismosaurus",
+    "mount_points": [
+      "mtp_00",
+      "mtp_02"
+    ],
+    "has_target": true,
+    "joints": [
+      "wb2202_pa_00_joint",
+      "wb2202_pa_02_joint",
+      "wb2202_target_joint"
+    ]
+  },
+  "wb2203": {
+    "zoid_id": "b22",
+    "zoid_name": "seismosaurus",
+    "mount_points": [
+      "mtp_00",
+      "mtp_02"
+    ],
+    "has_target": true,
+    "joints": [
+      "wb2203_pa_00_joint",
+      "wb2203_pa_02_joint",
+      "wb2203_target_joint"
+    ]
+  },
+  "wb2204": {
+    "zoid_id": "b22",
+    "zoid_name": "seismosaurus",
+    "mount_points": [
+      "mtp_00",
+      "mtp_01",
+      "mtp_02",
+      "mtp_03",
+      "mtp_04",
+      "mtp_06",
+      "mtp_08",
+      "mtp_10"
+    ],
+    "has_target": false,
+    "joints": [
+      "wb2204_link_joint",
+      "wb2204_pa_00_joint",
+      "wb2204_pa_01_joint",
+      "wb2204_pa_02_joint",
+      "wb2204_pa_03_joint",
+      "wb2204_pa_04_joint",
+      "wb2204_pa_06_joint",
+      "wb2204_pa_08_joint",
+      "wb2204_pa_10_joint"
+    ]
+  },
+  "wb2205": {
+    "zoid_id": "b22",
+    "zoid_name": "seismosaurus",
+    "mount_points": [],
+    "has_target": true,
+    "joints": [
+      "wb2205_a_1_joint",
+      "wb2205_target_joint"
+    ]
+  },
+  "wb2230": {
+    "zoid_id": "b22",
+    "zoid_name": "seismosaurus",
+    "mount_points": [],
+    "has_target": false,
+    "joints": [
+      "wx0000_a_1_joint"
+    ]
+  },
+  "wb2301": {
+    "zoid_id": "b23",
+    "zoid_name": "great_zaber",
+    "mount_points": [
+      "mtp_00",
+      "mtp_02"
+    ],
+    "has_target": true,
+    "joints": [
+      "wb2301_pa_00_joint",
+      "wb2301_pa_02_joint",
+      "wb2301_target_joint"
+    ]
+  },
+  "wb2315": {
+    "zoid_id": "b23",
+    "zoid_name": "great_zaber",
+    "mount_points": [
+      "mtp_00"
+    ],
+    "has_target": false,
+    "joints": [
+      "wb2315_pa_00_joint",
+      "wb2315_scope_joint"
+    ]
+  },
+  "wb2320": {
+    "zoid_id": "b23",
+    "zoid_name": "great_zaber",
+    "mount_points": [],
+    "has_target": false,
+    "joints": []
+  },
+  "wb2330": {
+    "zoid_id": "b23",
+    "zoid_name": "great_zaber",
+    "mount_points": [],
+    "has_target": false,
+    "joints": [
+      "wb2330_a_1_joint",
+      "wb2330_te_00_joint",
+      "wb2330_te_01_joint",
+      "wb2330_te_02_joint",
+      "wb2330_te_03_joint",
+      "wb2330_te_04_joint",
+      "wb2330_te_05_joint",
+      "wb2330_te_06_joint",
+      "wb2330_te_07_joint",
+      "wb2330_te_08_joint",
+      "wb2330_te_09_joint"
+    ]
+  },
+  "wb2340": {
+    "zoid_id": "b23",
+    "zoid_name": "great_zaber",
+    "mount_points": [],
+    "has_target": false,
+    "joints": [
+      "wb2340_a_1_joint"
+    ]
+  },
+  "wb2801": {
+    "zoid_id": "b28",
+    "zoid_name": "elephander",
+    "mount_points": [],
+    "has_target": false,
+    "joints": [
+      "wb2801_a_1_joint",
+      "wb2801_te_00_joint",
+      "wb2801_te_01_joint",
+      "wb2801_te_02_joint",
+      "wb2801_te_03_joint",
+      "wb2801_te_04_joint",
+      "wb2801_te_05_joint",
+      "wb2801_te_06_joint",
+      "wb2801_te_07_joint",
+      "wb2801_te_08_joint",
+      "wb2801_te_09_joint",
+      "wb2801_te_10_joint"
+    ]
+  },
+  "wb2930": {
+    "zoid_id": "b29",
+    "zoid_name": "b29",
+    "mount_points": [
+      "mtp_00"
+    ],
+    "has_target": true,
+    "joints": [
+      "wb2930_pa_00_joint",
+      "wb2930_target_joint"
+    ]
+  },
+  "wb3030": {
+    "zoid_id": "b30",
+    "zoid_name": "gustav",
+    "mount_points": [],
+    "has_target": false,
+    "joints": [
+      "wb3030_a_1_joint"
+    ]
+  },
+  "ws0100": {
+    "zoid_id": "b01",
+    "zoid_name": "molga",
+    "mount_points": [],
+    "has_target": false,
+    "joints": [
+      "ws0100_a_1_joint"
+    ]
+  },
+  "ws0101": {
+    "zoid_id": "b01",
+    "zoid_name": "molga",
+    "mount_points": [],
+    "has_target": false,
+    "joints": [
+      "ws0101_a_1_joint"
+    ]
+  },
+  "ws0102": {
+    "zoid_id": "b01",
+    "zoid_name": "molga",
+    "mount_points": [],
+    "has_target": false,
+    "joints": [
+      "ws0102_a_1_joint"
+    ]
+  },
+  "ws0103": {
+    "zoid_id": "b01",
+    "zoid_name": "molga",
+    "mount_points": [],
+    "has_target": false,
+    "joints": [
+      "ws0103_a_1_joint"
+    ]
+  },
+  "ws0104": {
+    "zoid_id": "b01",
+    "zoid_name": "molga",
+    "mount_points": [],
+    "has_target": false,
+    "joints": [
+      "ws0104_a_1_joint"
+    ]
+  },
+  "ws0105": {
+    "zoid_id": "b01",
+    "zoid_name": "molga",
+    "mount_points": [],
+    "has_target": false,
+    "joints": [
+      "ws0105_a_1_joint"
+    ]
+  },
+  "ws0106": {
+    "zoid_id": "b01",
+    "zoid_name": "molga",
+    "mount_points": [],
+    "has_target": false,
+    "joints": [
+      "ws0106_a_1_joint"
+    ]
+  },
+  "ws0107": {
+    "zoid_id": "b01",
+    "zoid_name": "molga",
+    "mount_points": [],
+    "has_target": false,
+    "joints": [
+      "ws0107_a_1_joint"
+    ]
+  },
+  "ws0108": {
+    "zoid_id": "b01",
+    "zoid_name": "molga",
+    "mount_points": [],
+    "has_target": false,
+    "joints": [
+      "ws0108_a_1_joint"
+    ]
+  },
+  "ws0109": {
+    "zoid_id": "b01",
+    "zoid_name": "molga",
+    "mount_points": [],
+    "has_target": false,
+    "joints": [
+      "ws0109_a_1_joint"
+    ]
+  },
+  "ws0110": {
+    "zoid_id": "b01",
+    "zoid_name": "molga",
+    "mount_points": [],
+    "has_target": false,
+    "joints": [
+      "ws0110_a_1_joint"
+    ]
+  },
+  "ws0111": {
+    "zoid_id": "b01",
+    "zoid_name": "molga",
+    "mount_points": [],
+    "has_target": false,
+    "joints": [
+      "ws0111_a_1_joint"
+    ]
+  },
+  "ws0112": {
+    "zoid_id": "b01",
+    "zoid_name": "molga",
+    "mount_points": [],
+    "has_target": false,
+    "joints": []
+  },
+  "ws0113": {
+    "zoid_id": "b01",
+    "zoid_name": "molga",
+    "mount_points": [],
+    "has_target": false,
+    "joints": [
+      "ws0113_a_1_joint"
+    ]
+  },
+  "ws0114": {
+    "zoid_id": "b01",
+    "zoid_name": "molga",
+    "mount_points": [],
+    "has_target": false,
+    "joints": [
+      "ws0114_a_1_joint"
+    ]
+  },
+  "ws0115": {
+    "zoid_id": "b01",
+    "zoid_name": "molga",
+    "mount_points": [],
+    "has_target": false,
+    "joints": [
+      "ws0115_a_1_joint"
+    ]
+  },
+  "ws0116": {
+    "zoid_id": "b01",
+    "zoid_name": "molga",
+    "mount_points": [],
+    "has_target": false,
+    "joints": [
+      "ws0116_a_1_joint"
+    ]
+  },
+  "ws0117": {
+    "zoid_id": "b01",
+    "zoid_name": "molga",
+    "mount_points": [],
+    "has_target": false,
+    "joints": [
+      "ws0117_a_1_joint"
+    ]
+  },
+  "ws0118": {
+    "zoid_id": "b01",
+    "zoid_name": "molga",
+    "mount_points": [],
+    "has_target": false,
+    "joints": [
+      "ws0118_a_1_joint"
+    ]
+  },
+  "ws0119": {
+    "zoid_id": "b01",
+    "zoid_name": "molga",
+    "mount_points": [],
+    "has_target": false,
+    "joints": [
+      "ws0119_a_1_joint"
+    ]
+  },
+  "ws0120": {
+    "zoid_id": "b01",
+    "zoid_name": "molga",
+    "mount_points": [],
+    "has_target": false,
+    "joints": [
+      "ws0120_a_1_joint"
+    ]
+  },
+  "ws0121": {
+    "zoid_id": "b01",
+    "zoid_name": "molga",
+    "mount_points": [],
+    "has_target": false,
+    "joints": [
+      "ws0121_a_1_joint"
+    ]
+  },
+  "ws0122": {
+    "zoid_id": "b01",
+    "zoid_name": "molga",
+    "mount_points": [],
+    "has_target": false,
+    "joints": [
+      "ws0122_a_1_joint"
+    ]
+  },
+  "ws0123": {
+    "zoid_id": "b01",
+    "zoid_name": "molga",
+    "mount_points": [],
+    "has_target": false,
+    "joints": [
+      "ws0123_a_1_joint"
+    ]
+  },
+  "ws0124": {
+    "zoid_id": "b01",
+    "zoid_name": "molga",
+    "mount_points": [],
+    "has_target": false,
+    "joints": [
+      "ws0124_a_1_joint"
+    ]
+  },
+  "ws0300": {
+    "zoid_id": "b03",
+    "zoid_name": "red_horn",
+    "mount_points": [],
+    "has_target": false,
+    "joints": []
+  },
+  "ws0301": {
+    "zoid_id": "b03",
+    "zoid_name": "red_horn",
+    "mount_points": [],
+    "has_target": false,
+    "joints": []
+  },
+  "ws0302": {
+    "zoid_id": "b03",
+    "zoid_name": "red_horn",
+    "mount_points": [],
+    "has_target": false,
+    "joints": []
+  },
+  "ws0303": {
+    "zoid_id": "b03",
+    "zoid_name": "red_horn",
+    "mount_points": [],
+    "has_target": false,
+    "joints": []
+  },
+  "ws0305": {
+    "zoid_id": "b03",
+    "zoid_name": "red_horn",
+    "mount_points": [],
+    "has_target": false,
+    "joints": []
+  },
+  "ws0306": {
+    "zoid_id": "b03",
+    "zoid_name": "red_horn",
+    "mount_points": [],
+    "has_target": false,
+    "joints": []
+  },
+  "ws0308": {
+    "zoid_id": "b03",
+    "zoid_name": "red_horn",
+    "mount_points": [],
+    "has_target": false,
+    "joints": []
+  },
+  "ws0309": {
+    "zoid_id": "b03",
+    "zoid_name": "red_horn",
+    "mount_points": [],
+    "has_target": false,
+    "joints": []
+  },
+  "ws0310": {
+    "zoid_id": "b03",
+    "zoid_name": "red_horn",
+    "mount_points": [],
+    "has_target": false,
+    "joints": []
+  },
+  "ws0311": {
+    "zoid_id": "b03",
+    "zoid_name": "red_horn",
+    "mount_points": [],
+    "has_target": false,
+    "joints": []
+  },
+  "ws0313": {
+    "zoid_id": "b03",
+    "zoid_name": "red_horn",
+    "mount_points": [],
+    "has_target": false,
+    "joints": []
+  },
+  "ws0314": {
+    "zoid_id": "b03",
+    "zoid_name": "red_horn",
+    "mount_points": [],
+    "has_target": false,
+    "joints": []
+  },
+  "ws0315": {
+    "zoid_id": "b03",
+    "zoid_name": "red_horn",
+    "mount_points": [],
+    "has_target": false,
+    "joints": []
+  },
+  "ws0316": {
+    "zoid_id": "b03",
+    "zoid_name": "red_horn",
+    "mount_points": [],
+    "has_target": false,
+    "joints": []
+  },
+  "ws0317": {
+    "zoid_id": "b03",
+    "zoid_name": "red_horn",
+    "mount_points": [],
+    "has_target": false,
+    "joints": []
+  },
+  "ws0318": {
+    "zoid_id": "b03",
+    "zoid_name": "red_horn",
+    "mount_points": [],
+    "has_target": false,
+    "joints": []
+  },
+  "ws0320": {
+    "zoid_id": "b03",
+    "zoid_name": "red_horn",
+    "mount_points": [],
+    "has_target": false,
+    "joints": []
+  },
+  "ws0321": {
+    "zoid_id": "b03",
+    "zoid_name": "red_horn",
+    "mount_points": [],
+    "has_target": false,
+    "joints": []
+  },
+  "ws0401": {
+    "zoid_id": "b04",
+    "zoid_name": "elephander",
+    "mount_points": [
+      "mtp_00"
+    ],
+    "has_target": false,
+    "joints": [
+      "ws0401_pa_00_joint"
+    ]
+  }
+}

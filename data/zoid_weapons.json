@@ -1,0 +1,1440 @@
+{
+  "a01": [
+    {
+      "wp_id": "wp001",
+      "description": "Cannon Tortoise's armament. A long-distance single-shot cannon."
+    },
+    {
+      "wp_id": "wp002",
+      "description": "Cannon Tortoise's armament. A Beam Vulcan weapon with the capability for a burst of rounds."
+    },
+    {
+      "wp_id": "wp007",
+      "description": "Cannon Tortoise's ultimate combat weapon."
+    },
+    {
+      "wp_id": "wp012",
+      "description": "Cannon Tortoise's armament. A long-distance single-shot cannon."
+    },
+    {
+      "wp_id": "wp325",
+      "description": "Cannon Tortoise's booster. It boosts the maximum speed for a certain period of time."
+    },
+    {
+      "wp_id": "wp368",
+      "description": "E shield for Cannon Tortoise. Certain damages from enemy's frontal attacks can be stopped with this. Can be used for offensive purposes also."
+    }
+  ],
+  "a05": [
+    {
+      "wp_id": "wp004",
+      "description": "Dibison's armament. A mid-range beam cannon."
+    },
+    {
+      "wp_id": "wp005",
+      "description": "Dibison's armament. A long-range cannon."
+    },
+    {
+      "wp_id": "wp037",
+      "description": "Dibison's ultimate combat weapon."
+    },
+    {
+      "wp_id": "wp326",
+      "description": "Dibison's booster. It boosts the maximum speed for a certain period of time."
+    },
+    {
+      "wp_id": "wp370",
+      "description": "E shield for Dibison. Certain damages from enemy's frontal attacks can be stopped with this. Can be used for offensive purposes also."
+    }
+  ],
+  "b01": [
+    {
+      "wp_id": "wp008",
+      "description": "Molga's armament. A Vulcan weapon with a burst of rounds."
+    },
+    {
+      "wp_id": "wp009",
+      "description": "Molga's armament. A long-range missile with high accuracy."
+    },
+    {
+      "wp_id": "wp020",
+      "description": "Molga's armament. A long-range cannon."
+    },
+    {
+      "wp_id": "wp039",
+      "description": "Molga's ultimate combat weapon."
+    },
+    {
+      "wp_id": "wp327",
+      "description": "Molga's booster. It boosts the maximum speed for a certain period of time."
+    },
+    {
+      "wp_id": "wp372",
+      "description": "E shield for Molga. Certain damages from enemy's frontal attacks can be stopped with this. Can be used for offensive purposes also."
+    }
+  ],
+  "b07": [
+    {
+      "wp_id": "wp010",
+      "description": "Berserk Fuhrer's armament. A mid-range beam cannon."
+    },
+    {
+      "wp_id": "wp040",
+      "description": "Berserk Fuhrer's ultimate weapon."
+    },
+    {
+      "wp_id": "wp359",
+      "description": "Berserk Fuhrer's booster. It boosts the maximum speed for a certain period of time."
+    },
+    {
+      "wp_id": "wp365",
+      "description": "E shield for Berserk Fuhrer. Certain damages from enemy's frontal attacks can be stopped with this. Can be used for offensive purposes also."
+    }
+  ],
+  "b10": [
+    {
+      "wp_id": "wp011",
+      "description": "Sinker's armament. A Beam Vulcan weapon with a burst of rounds."
+    },
+    {
+      "wp_id": "wp013",
+      "description": "Sinker's armament. A long-range 4-emplacement missile. High accuracy."
+    },
+    {
+      "wp_id": "wp099",
+      "description": "E shield for Sinker. Certain damages from enemy's frontal attacks can be stopped with this. Can be used for offensive purposes also."
+    },
+    {
+      "wp_id": "wp135",
+      "description": "Sinker's booster. It boosts the maximum speed for a certain period of time."
+    },
+    {
+      "wp_id": "wp207",
+      "description": "Sinker's ultimate combat weapon."
+    }
+  ],
+  "b35": [
+    {
+      "wp_id": "wp011",
+      "description": "Sinker's armament. A Beam Vulcan weapon with a burst of rounds."
+    },
+    {
+      "wp_id": "wp013",
+      "description": "Sinker's armament. A long-range 4-emplacement missile. High accuracy."
+    },
+    {
+      "wp_id": "wp099",
+      "description": "E shield for Sinker. Certain damages from enemy's frontal attacks can be stopped with this. Can be used for offensive purposes also."
+    },
+    {
+      "wp_id": "wp135",
+      "description": "Sinker's booster. It boosts the maximum speed for a certain period of time."
+    },
+    {
+      "wp_id": "wp207",
+      "description": "Sinker's ultimate combat weapon."
+    }
+  ],
+  "b11": [
+    {
+      "wp_id": "wp014",
+      "description": "Helcat's armament. A mid-range beam gun."
+    },
+    {
+      "wp_id": "wp017",
+      "description": "Helcat's armament. A mid-range beam cannon. Light weight and safe for armament."
+    },
+    {
+      "wp_id": "wp100",
+      "description": "Helcat's booster. It boosts the maximum speed for a certain period of time."
+    },
+    {
+      "wp_id": "wp101",
+      "description": "E shield for Helcat. Certain damages from enemy's frontal attacks can be stopped with this. Can be used for offensive purposes also."
+    },
+    {
+      "wp_id": "wp208",
+      "description": "Helcat's ultimate combat weapon."
+    }
+  ],
+  "a03": [
+    {
+      "wp_id": "wp018",
+      "description": "Shield Liger's armament. A mid-range beam cannon."
+    },
+    {
+      "wp_id": "wp019",
+      "description": "Shield Liger's armament. A multi-missle pod. High accuracy."
+    },
+    {
+      "wp_id": "wp021",
+      "description": "Shield Liger's armament. A mid-range cannon."
+    },
+    {
+      "wp_id": "wp102",
+      "description": "Shield Liger (Liger Aero)'s booster. It boosts the maximum speed for a certain period of time."
+    },
+    {
+      "wp_id": "wp103",
+      "description": "E shield for Shield Liger. Certain damages from enemy's frontal attacks can be stopped with this. Can be used for offensive purposes also."
+    },
+    {
+      "wp_id": "wp209",
+      "description": "Shield Liger's ultimate combat weapon."
+    }
+  ],
+  "a13": [
+    {
+      "wp_id": "wp022",
+      "description": "Elephander's armament. A combat weapon with iron claws. The gun's range is short but extremely effective."
+    },
+    {
+      "wp_id": "wp045",
+      "description": "Blitz Tiger's armament. Extremely effective in close-range combats. It shreds enemy robots as it moves."
+    },
+    {
+      "wp_id": "wp062",
+      "description": "Shadow Fox's armament. Good for attacking enemies that are coming from behind and is effective when you need to get away from them."
+    },
+    {
+      "wp_id": "wp073",
+      "description": "Liger Zero Panzer's armament. Extremely effective in close-range combats. It shreds enemy robots as it moves."
+    },
+    {
+      "wp_id": "wp100",
+      "description": "Helcat's booster. It boosts the maximum speed for a certain period of time."
+    },
+    {
+      "wp_id": "wp102",
+      "description": "Shield Liger (Liger Aero)'s booster. It boosts the maximum speed for a certain period of time."
+    },
+    {
+      "wp_id": "wp104",
+      "description": "Liger Zero X's ultimate combat weapon."
+    },
+    {
+      "wp_id": "wp106",
+      "description": "Lightning Saix's ultimate combat weapon."
+    },
+    {
+      "wp_id": "wp113",
+      "description": "Lightning Saix's armament. Mid-range beam rifles."
+    },
+    {
+      "wp_id": "wp114",
+      "description": "Lightning Saix's mid-range weapon. It's a Vulcan weapon with a burst of rounds."
+    },
+    {
+      "wp_id": "wp124",
+      "description": "Elephander's booster. It boosts the maximum speed for a certain period of time."
+    },
+    {
+      "wp_id": "wp128",
+      "description": "Geno Hydra's booster. It boosts the maximum speed for a certain period of time."
+    },
+    {
+      "wp_id": "wp129",
+      "description": "Trinity Liger's booster. It boosts the maximum speed for a certain period of time."
+    },
+    {
+      "wp_id": "wp132",
+      "description": "Blitz Tiger's booster. It boosts the maximum speed for a certain period of time."
+    },
+    {
+      "wp_id": "wp134",
+      "description": "Griffon's booster. It boosts the maximum speed for a certain period of time."
+    },
+    {
+      "wp_id": "wp135",
+      "description": "Sinker's booster. It boosts the maximum speed for a certain period of time."
+    },
+    {
+      "wp_id": "wp136",
+      "description": "Chimera Dragon's booster. It boosts the maximum speed for a certain period of time."
+    },
+    {
+      "wp_id": "wp137",
+      "description": "Double Arm Lizard's booster. It boosts the maximum speed for a certain period of time."
+    },
+    {
+      "wp_id": "wp142",
+      "description": "Lord Gale's booster. It boosts the maximum speed for a certain period of time."
+    },
+    {
+      "wp_id": "wp143",
+      "description": "Matrix Dragon's booster. It boosts the maximum speed for a certain period of time."
+    },
+    {
+      "wp_id": "wp145",
+      "description": "Shadow Fox's ultimate combat weapon."
+    },
+    {
+      "wp_id": "wp160",
+      "description": "E shield for Matrix Dragon. Certain damages from enemy's frontal attacks can be stopped with this. Can be used for offensive purposes also."
+    },
+    {
+      "wp_id": "wp161",
+      "description": "A long-range cannon. It's an excellent weapon."
+    },
+    {
+      "wp_id": "wp168",
+      "description": "Seismosaurus' armament. A charged particle gun that can erase everything it shoots. It's an excellent weapon."
+    },
+    {
+      "wp_id": "wp171",
+      "description": "Liger Zero X's armament. A mid-range beam cannon."
+    },
+    {
+      "wp_id": "wp172",
+      "description": "Snipe Master's combat armament, consisting of a powerful set of nails. It has a short range but the effect is excellent."
+    },
+    {
+      "wp_id": "wp180",
+      "description": "Gojulas Giga's booster. It boosts the maximum speed for a certain period of time."
+    },
+    {
+      "wp_id": "wp183",
+      "description": "Liger Phoenix's armament. A Vulcan weapon with the capability of a burst of rounds."
+    },
+    {
+      "wp_id": "wp189",
+      "description": "Liger Phoenix's armament. A mid-range cannon."
+    },
+    {
+      "wp_id": "wp192",
+      "description": "A mid-range beam cannon made from Blox \"Shellkarn\" parts."
+    },
+    {
+      "wp_id": "wp193",
+      "description": "A mid-range beam cannon made from Blox \"Flyscissors\" parts."
+    },
+    {
+      "wp_id": "wp194",
+      "description": "A long-range missile made from Blox \"Nightwise\" parts."
+    },
+    {
+      "wp_id": "wp195",
+      "description": "A long-range missile made from Blox \"Mosasledge\" parts."
+    },
+    {
+      "wp_id": "wp196",
+      "description": "A mid-range beam cannon made from Blox \"Unenlagia\" parts."
+    },
+    {
+      "wp_id": "wp197",
+      "description": "A mid-range beam cannon made from Blox \"Diploguns\" parts."
+    },
+    {
+      "wp_id": "wp198",
+      "description": "A mid-range beam cannon made from Blox \"Demonshead\" parts."
+    },
+    {
+      "wp_id": "wp199",
+      "description": "A mid-range beam cannon made from Blox \"Leoblaze\" parts."
+    },
+    {
+      "wp_id": "wp219",
+      "description": "Matrix Dragon's ultimate combat weapon."
+    },
+    {
+      "wp_id": "wp225",
+      "description": "Liger Phoenix's ultimate combat weapon."
+    },
+    {
+      "wp_id": "wp250",
+      "description": "Liger Phoenix's booster. It boosts the maximum speed for a certain period of time."
+    },
+    {
+      "wp_id": "wp251",
+      "description": "E shield for Liger Phoenix. Certain damages from enemy's frontal attacks can be stopped with this. Can be used for offensive purposes also."
+    },
+    {
+      "wp_id": "wp252",
+      "description": "Energy Liger's booster. It boosts the maximum speed for a certain period of time."
+    },
+    {
+      "wp_id": "wp325",
+      "description": "Cannon Tortoise's booster. It boosts the maximum speed for a certain period of time."
+    },
+    {
+      "wp_id": "wp326",
+      "description": "Dibison's booster. It boosts the maximum speed for a certain period of time."
+    },
+    {
+      "wp_id": "wp327",
+      "description": "Molga's booster. It boosts the maximum speed for a certain period of time."
+    },
+    {
+      "wp_id": "wp328",
+      "description": "Konig Wolf's booster. It boosts the maximum speed for a certain period of time."
+    },
+    {
+      "wp_id": "wp330",
+      "description": "Panzer's booster. It boosts the maximum speed for a certain period of time."
+    },
+    {
+      "wp_id": "wp331",
+      "description": "X's booster. It boosts the maximum speed for a certain period of time."
+    },
+    {
+      "wp_id": "wp333",
+      "description": "Gojulas' booster. It boosts the maximum speed for a certain period of time."
+    },
+    {
+      "wp_id": "wp334",
+      "description": "Shadow Fox's booster. It boosts the maximum speed for a certain period of time."
+    },
+    {
+      "wp_id": "wp335",
+      "description": "Rev Raptor's booster. It boosts the maximum speed for a certain period of time."
+    },
+    {
+      "wp_id": "wp336",
+      "description": "Geno Saurer's booster. It boosts the maximum speed for a certain period of time."
+    },
+    {
+      "wp_id": "wp338",
+      "description": "Gun Sniper's booster. It boosts the maximum speed for a certain period of time."
+    },
+    {
+      "wp_id": "wp339",
+      "description": "A booster for Saber Tiger and Proto Saber. It boosts the maximum speed for a certain period of time."
+    },
+    {
+      "wp_id": "wp340",
+      "description": "Red Horn's booster. It boosts the maximum speed for a certain period of time."
+    },
+    {
+      "wp_id": "wp341",
+      "description": "BF Strum's booster. It boosts the maximum speed for a certain period of time."
+    },
+    {
+      "wp_id": "wp342",
+      "description": "Snipe Master's booster. It boosts the maximum speed for a certain period of time."
+    },
+    {
+      "wp_id": "wp343",
+      "description": "Snipe Master's booster. It boosts the maximum speed for a certain period of time."
+    },
+    {
+      "wp_id": "wp345",
+      "description": "Blitz Tiger's booster. It boosts the maximum speed for a certain period of time."
+    },
+    {
+      "wp_id": "wp346",
+      "description": "Cyclops I's booster. It boosts the maximum speed for a certain period of time."
+    },
+    {
+      "wp_id": "wp347",
+      "description": "Cyclops II's booster. It boosts the maximum speed for a certain period of time."
+    },
+    {
+      "wp_id": "wp350",
+      "description": "Blade Liger's booster. It boosts the maximum speed for a certain period of time."
+    },
+    {
+      "wp_id": "wp351",
+      "description": "Liger Zero's booster. It boosts the maximum speed for a certain period of time."
+    },
+    {
+      "wp_id": "wp352",
+      "description": "Iron Kong's booster. It boosts the maximum speed for a certain period of time."
+    },
+    {
+      "wp_id": "wp353",
+      "description": "Lightning Saix's booster. It boosts the maximum speed for a certain period of time."
+    },
+    {
+      "wp_id": "wp354",
+      "description": "Command Wolf and Lord Gale's booster. It boosts the maximum speed for a certain period of time."
+    },
+    {
+      "wp_id": "wp356",
+      "description": "Schneider's booster. It boosts the maximum speed for a certain period of time."
+    },
+    {
+      "wp_id": "wp357",
+      "description": "Jager's booster. It boosts the maximum speed for a certain period of time."
+    },
+    {
+      "wp_id": "wp359",
+      "description": "Berserk Fuhrer's booster. It boosts the maximum speed for a certain period of time."
+    },
+    {
+      "wp_id": "wp362",
+      "description": "Geno Breaker's booster. It boosts the maximum speed for a certain period of time."
+    },
+    {
+      "wp_id": "wp376",
+      "description": "E shield for X. Certain damages from enemy's frontal attacks can be stopped with this. Can be used for offensive purposes also."
+    },
+    {
+      "wp_id": "wp377",
+      "description": "E shield for Lightning Saix. Certain damages from enemy's frontal attacks can be stopped with this. Can be used for offensive purposes also."
+    },
+    {
+      "wp_id": "wp381",
+      "description": "E shield for Shadow Fox. Certain damages from enemy's frontal attacks can be stopped with this. Can be used for offensive purposes also."
+    },
+    {
+      "wp_id": "wp399",
+      "description": "Injected land mines explode by touching Zoids or after a certain length of time. Its explosion is so big that robots need to get away from the mines after injection; they may get damaged, too."
+    },
+    {
+      "wp_id": "wp430",
+      "description": "A part that increases Zoid's max speed. This can be mounted on any Zoid."
+    },
+    {
+      "wp_id": "wp431",
+      "description": "A part that increases Zoid's max speed. This can be mounted on any Zoid."
+    },
+    {
+      "wp_id": "wp432",
+      "description": "A part that increases Zoid's max speed. This can be mounted on any Zoid."
+    },
+    {
+      "wp_id": "wp433",
+      "description": "A part that increases Zoid's max speed. This can be mounted on any Zoid."
+    },
+    {
+      "wp_id": "wp434",
+      "description": "A part that increases Zoid's max speed. This can be mounted on any Zoid."
+    }
+  ],
+  "b04": [
+    {
+      "wp_id": "wp022",
+      "description": "Elephander's armament. A combat weapon with iron claws. The gun's range is short but extremely effective."
+    },
+    {
+      "wp_id": "wp023",
+      "description": "Elephander's armament. A Valcan weapon with a burst of rounds. It can shoot enemies that are coming from behind and is useful for gaining distance from enemy Zoids."
+    },
+    {
+      "wp_id": "wp063",
+      "description": "Elephander's Stoller armament."
+    },
+    {
+      "wp_id": "wp124",
+      "description": "Elephander's booster. It boosts the maximum speed for a certain period of time."
+    },
+    {
+      "wp_id": "wp125",
+      "description": "E shield for Elephander. Certain damages from enemy's frontal attacks can be stopped with this. Can be used for offensive purposes also."
+    },
+    {
+      "wp_id": "wp212",
+      "description": "Elephander's ultimate combat weapon."
+    }
+  ],
+  "b28": [
+    {
+      "wp_id": "wp022",
+      "description": "Elephander's armament. A combat weapon with iron claws. The gun's range is short but extremely effective."
+    },
+    {
+      "wp_id": "wp023",
+      "description": "Elephander's armament. A Valcan weapon with a burst of rounds. It can shoot enemies that are coming from behind and is useful for gaining distance from enemy Zoids."
+    },
+    {
+      "wp_id": "wp063",
+      "description": "Elephander's Stoller armament."
+    },
+    {
+      "wp_id": "wp124",
+      "description": "Elephander's booster. It boosts the maximum speed for a certain period of time."
+    },
+    {
+      "wp_id": "wp125",
+      "description": "E shield for Elephander. Certain damages from enemy's frontal attacks can be stopped with this. Can be used for offensive purposes also."
+    },
+    {
+      "wp_id": "wp212",
+      "description": "Elephander's ultimate combat weapon."
+    }
+  ],
+  "a02": [
+    {
+      "wp_id": "wp028",
+      "description": "Gun Sniper's armament. A multi-missile pod with high Accuracy."
+    },
+    {
+      "wp_id": "wp029",
+      "description": "Gun Sniper's armament. A mid-range beam gun."
+    },
+    {
+      "wp_id": "wp030",
+      "description": "Gun Sniper's armament. It changes to the sniper mode when in use. Not perfect for defense but effective in cover attacks from behind."
+    },
+    {
+      "wp_id": "wp074",
+      "description": "Gun Sniper's long-range armament. It changes to the sniper mode when in use. Not perfect for defense but effective in cover attacks from behind."
+    },
+    {
+      "wp_id": "wp146",
+      "description": "Gun Sniper's armament. A multi-shot missile pod with high accuracy."
+    },
+    {
+      "wp_id": "wp338",
+      "description": "Gun Sniper's booster. It boosts the maximum speed for a certain period of time."
+    },
+    {
+      "wp_id": "wp385",
+      "description": "E shield for Gun Sniper. Certain damages from enemy's frontal attacks can be stopped with this. Can be used for offensive purposes also."
+    }
+  ],
+  "b16": [
+    {
+      "wp_id": "wp031",
+      "description": "Geno Hydra's armament. A multi-missile pod with high Accuracy."
+    },
+    {
+      "wp_id": "wp032",
+      "description": "Geno Hydra's armament. A multi-missile pod with high Accuracy."
+    },
+    {
+      "wp_id": "wp033",
+      "description": "Geno Hydra's armament. A mid-range beam gun."
+    },
+    {
+      "wp_id": "wp128",
+      "description": "Geno Hydra's booster. It boosts the maximum speed for a certain period of time."
+    },
+    {
+      "wp_id": "wp144",
+      "description": "E shield for Geno Hydra. Certain damages from enemy's frontal attacks can be stopped with this. Can be used for offensive purposes also."
+    },
+    {
+      "wp_id": "wp213",
+      "description": "Geno Hydra's ultimate combat weapon."
+    }
+  ],
+  "a22": [
+    {
+      "wp_id": "wp034",
+      "description": "Trinity Liger's armament. A mid-range beam gun."
+    },
+    {
+      "wp_id": "wp035",
+      "description": "Trinity Liger's armament. A mid-range beam gun."
+    },
+    {
+      "wp_id": "wp129",
+      "description": "Trinity Liger's booster. It boosts the maximum speed for a certain period of time."
+    },
+    {
+      "wp_id": "wp147",
+      "description": "E shield for Trinity Liger. Certain damages from enemy's frontal attacks can be stopped with this. Can be used for offensive purposes also."
+    },
+    {
+      "wp_id": "wp214",
+      "description": "Trinity Liger's ultimate combat weapon."
+    }
+  ],
+  "a04": [
+    {
+      "wp_id": "wp036",
+      "description": "Command Wolf's ultimate combat weapon."
+    },
+    {
+      "wp_id": "wp354",
+      "description": "Command Wolf and Lord Gale's booster. It boosts the maximum speed for a certain period of time."
+    },
+    {
+      "wp_id": "wp369",
+      "description": "E shield for Command Wolf. Certain damages from enemy's frontal attacks can be stopped with this. Can be used for offensive purposes also."
+    }
+  ],
+  "a09": [
+    {
+      "wp_id": "wp038",
+      "description": "Liger Zero's ultimate combat weapon."
+    },
+    {
+      "wp_id": "wp066",
+      "description": "Liger Zero Panzer's armament. A multi-missile launcher with high accuracy."
+    },
+    {
+      "wp_id": "wp067",
+      "description": "Liger Zero Panzer's armament. A multi-missile launcher with high accuracy."
+    },
+    {
+      "wp_id": "wp068",
+      "description": "Liger Zero Panzer's armament. A multi-missile launcher with high accuracy."
+    },
+    {
+      "wp_id": "wp069",
+      "description": "Liger Zero Panzer's armament. A multi-missile launcher with high accuracy."
+    },
+    {
+      "wp_id": "wp070",
+      "description": "Liger Zero Panzer's armament. A multi-missile launcher with high accuracy."
+    },
+    {
+      "wp_id": "wp071",
+      "description": "Liger Zero Panzer's armament. A multi-missile launcher with high accuracy."
+    },
+    {
+      "wp_id": "wp072",
+      "description": "Liger Zero Panzer's armament. A multi-missile launcher with high accuracy."
+    },
+    {
+      "wp_id": "wp073",
+      "description": "Liger Zero Panzer's armament. Extremely effective in close-range combats. It shreds enemy robots as it moves."
+    },
+    {
+      "wp_id": "wp088",
+      "description": "Liger Zero Jager's ultimate combat weapon."
+    },
+    {
+      "wp_id": "wp089",
+      "description": "Liger Zero Schneider's ultimate combat weapon."
+    },
+    {
+      "wp_id": "wp104",
+      "description": "Liger Zero X's ultimate combat weapon."
+    },
+    {
+      "wp_id": "wp167",
+      "description": "Liger Zero Schneider's weapon. It has a short range but very effective. Shreds enemy robots as it moves."
+    },
+    {
+      "wp_id": "wp171",
+      "description": "Liger Zero X's armament. A mid-range beam cannon."
+    },
+    {
+      "wp_id": "wp351",
+      "description": "Liger Zero's booster. It boosts the maximum speed for a certain period of time."
+    },
+    {
+      "wp_id": "wp371",
+      "description": "E shield for Liger Zero. Certain damages from enemy's frontal attacks can be stopped with this. Can be used for offensive purposes also."
+    }
+  ],
+  "a15": [
+    {
+      "wp_id": "wp041",
+      "description": "Konig Wolf's ultimate combat weapon."
+    },
+    {
+      "wp_id": "wp079",
+      "description": "Konig Wolf's armament. It changes to the sniper mode when in use. Not perfect for defense but effective in cover attacks from behind."
+    },
+    {
+      "wp_id": "wp328",
+      "description": "Konig Wolf's booster. It boosts the maximum speed for a certain period of time."
+    },
+    {
+      "wp_id": "wp373",
+      "description": "E shield for Konig Wolf. Certain damages from enemy's frontal attacks can be stopped with this. Can be used for offensive purposes also."
+    }
+  ],
+  "a23": [
+    {
+      "wp_id": "wp042",
+      "description": "Blitz Tiger's armament. A mid-range cannon."
+    },
+    {
+      "wp_id": "wp045",
+      "description": "Blitz Tiger's armament. Extremely effective in close-range combats. It shreds enemy robots as it moves."
+    },
+    {
+      "wp_id": "wp132",
+      "description": "Blitz Tiger's booster. It boosts the maximum speed for a certain period of time."
+    },
+    {
+      "wp_id": "wp148",
+      "description": "E shield for Blitz Tiger. Certain damages from enemy's frontal attacks can be stopped with this. Can be used for offensive purposes also."
+    },
+    {
+      "wp_id": "wp215",
+      "description": "Blitz Tiger's ultimate combat weapon."
+    },
+    {
+      "wp_id": "wp345",
+      "description": "Blitz Tiger's booster. It boosts the maximum speed for a certain period of time."
+    }
+  ],
+  "a06": [
+    {
+      "wp_id": "wp048",
+      "description": "Gojulas' armament. A long-range cannon. It is most effective for attacking enemies from a distance."
+    },
+    {
+      "wp_id": "wp139",
+      "description": "Gojulas' ultimate combat weapon."
+    },
+    {
+      "wp_id": "wp180",
+      "description": "Gojulas Giga's booster. It boosts the maximum speed for a certain period of time."
+    },
+    {
+      "wp_id": "wp181",
+      "description": "E shield for Gojulas Giga. Certain damages from enemy's frontal attacks can be stopped with this. Can be used for offensive purposes also."
+    },
+    {
+      "wp_id": "wp182",
+      "description": "Gojulas Giga's armament. A powerful tail for close-range combats. It has a short range but effect is enormous."
+    },
+    {
+      "wp_id": "wp333",
+      "description": "Gojulas' booster. It boosts the maximum speed for a certain period of time."
+    },
+    {
+      "wp_id": "wp378",
+      "description": "E shield for Gojulas. Certain damages from enemy's frontal attacks can be stopped with this. Can be used for offensive purposes also."
+    }
+  ],
+  "a07": [
+    {
+      "wp_id": "wp052",
+      "description": "Blade Liger's ultimate combat weapon."
+    },
+    {
+      "wp_id": "wp158",
+      "description": "Blade Liger's weapon for pile banker combats. It has a short range but very effective. Shreds enemy robots as it moves."
+    },
+    {
+      "wp_id": "wp350",
+      "description": "Blade Liger's booster. It boosts the maximum speed for a certain period of time."
+    },
+    {
+      "wp_id": "wp363",
+      "description": "E shield for Blade Liger. Certain damages from enemy's frontal attacks can be stopped with this. Can be used for offensive purposes also."
+    }
+  ],
+  "a08": [
+    {
+      "wp_id": "wp062",
+      "description": "Shadow Fox's armament. Good for attacking enemies that are coming from behind and is effective when you need to get away from them."
+    },
+    {
+      "wp_id": "wp145",
+      "description": "Shadow Fox's ultimate combat weapon."
+    },
+    {
+      "wp_id": "wp334",
+      "description": "Shadow Fox's booster. It boosts the maximum speed for a certain period of time."
+    },
+    {
+      "wp_id": "wp381",
+      "description": "E shield for Shadow Fox. Certain damages from enemy's frontal attacks can be stopped with this. Can be used for offensive purposes also."
+    }
+  ],
+  "a10": [
+    {
+      "wp_id": "wp064",
+      "description": "Jager's armament. A multi-shot Vulcan weapon."
+    },
+    {
+      "wp_id": "wp088",
+      "description": "Liger Zero Jager's ultimate combat weapon."
+    },
+    {
+      "wp_id": "wp357",
+      "description": "Jager's booster. It boosts the maximum speed for a certain period of time."
+    },
+    {
+      "wp_id": "wp374",
+      "description": "E shield for LZ Jager. Certain damages from enemy's frontal attacks can be stopped with this. Can be used for offensive purposes also."
+    }
+  ],
+  "a12": [
+    {
+      "wp_id": "wp065",
+      "description": "Panzer's mid-range armament. A mid-range cannon."
+    },
+    {
+      "wp_id": "wp066",
+      "description": "Liger Zero Panzer's armament. A multi-missile launcher with high accuracy."
+    },
+    {
+      "wp_id": "wp067",
+      "description": "Liger Zero Panzer's armament. A multi-missile launcher with high accuracy."
+    },
+    {
+      "wp_id": "wp068",
+      "description": "Liger Zero Panzer's armament. A multi-missile launcher with high accuracy."
+    },
+    {
+      "wp_id": "wp069",
+      "description": "Liger Zero Panzer's armament. A multi-missile launcher with high accuracy."
+    },
+    {
+      "wp_id": "wp070",
+      "description": "Liger Zero Panzer's armament. A multi-missile launcher with high accuracy."
+    },
+    {
+      "wp_id": "wp071",
+      "description": "Liger Zero Panzer's armament. A multi-missile launcher with high accuracy."
+    },
+    {
+      "wp_id": "wp072",
+      "description": "Liger Zero Panzer's armament. A multi-missile launcher with high accuracy."
+    },
+    {
+      "wp_id": "wp073",
+      "description": "Liger Zero Panzer's armament. Extremely effective in close-range combats. It shreds enemy robots as it moves."
+    },
+    {
+      "wp_id": "wp092",
+      "description": "LZ Panzer's ultimate combat weapon."
+    },
+    {
+      "wp_id": "wp330",
+      "description": "Panzer's booster. It boosts the maximum speed for a certain period of time."
+    },
+    {
+      "wp_id": "wp375",
+      "description": "E shield for Panzer. Certain damages from enemy's frontal attacks can be stopped with this. Can be used for offensive purposes also."
+    }
+  ],
+  "a17": [
+    {
+      "wp_id": "wp082",
+      "description": "Ultrasaurus's armament. A long-range cannon."
+    },
+    {
+      "wp_id": "wp083",
+      "description": "Ultrasaurus's armament with high accuracy. For long-range missiles."
+    },
+    {
+      "wp_id": "wp084",
+      "description": "Ultrasaurus's armament with high accuracy. For long-range missiles."
+    },
+    {
+      "wp_id": "wp085",
+      "description": "Ultrasaurus's armament. Mid-range beam guns."
+    },
+    {
+      "wp_id": "wp086",
+      "description": "Ultrasaurus's armament. Long-range missiles."
+    },
+    {
+      "wp_id": "wp087",
+      "description": "Ultrasaurus's armament. Long-range missiles. It can shoot at enemies that are coming from behind."
+    }
+  ],
+  "a11": [
+    {
+      "wp_id": "wp089",
+      "description": "Liger Zero Schneider's ultimate combat weapon."
+    },
+    {
+      "wp_id": "wp167",
+      "description": "Liger Zero Schneider's weapon. It has a short range but very effective. Shreds enemy robots as it moves."
+    },
+    {
+      "wp_id": "wp356",
+      "description": "Schneider's booster. It boosts the maximum speed for a certain period of time."
+    },
+    {
+      "wp_id": "wp364",
+      "description": "E shield for Schneider. Certain damages from enemy's frontal attacks can be stopped with this. Can be used for offensive purposes also."
+    }
+  ],
+  "a18": [
+    {
+      "wp_id": "wp090",
+      "description": "Mad Thunder's armament. Long-range missiles with high accuracy."
+    },
+    {
+      "wp_id": "wp093",
+      "description": "Mad Thunder's armament. Long-range missiles with high accuracy."
+    },
+    {
+      "wp_id": "wp094",
+      "description": "Mad Thunder's armament. Mid-range cannon."
+    },
+    {
+      "wp_id": "wp095",
+      "description": "Mad Thunder's armament. Mid-range beam cannon. It can shoot at enemies that are coming from behind."
+    },
+    {
+      "wp_id": "wp096",
+      "description": "Mad Thunder's armament. Mid-range cannon."
+    }
+  ],
+  "a28": [
+    {
+      "wp_id": "wp102",
+      "description": "Shield Liger (Liger Aero)'s booster. It boosts the maximum speed for a certain period of time."
+    },
+    {
+      "wp_id": "wp108",
+      "description": "E shield for Liger Aero. Certain damages from enemy's frontal attacks can be stopped with this. Can be used for offensive purposes also."
+    },
+    {
+      "wp_id": "wp210",
+      "description": "Liger Aero's ultimate combat weapon."
+    }
+  ],
+  "b06": [
+    {
+      "wp_id": "wp106",
+      "description": "Lightning Saix's ultimate combat weapon."
+    },
+    {
+      "wp_id": "wp113",
+      "description": "Lightning Saix's armament. Mid-range beam rifles."
+    },
+    {
+      "wp_id": "wp114",
+      "description": "Lightning Saix's mid-range weapon. It's a Vulcan weapon with a burst of rounds."
+    },
+    {
+      "wp_id": "wp353",
+      "description": "Lightning Saix's booster. It boosts the maximum speed for a certain period of time."
+    },
+    {
+      "wp_id": "wp377",
+      "description": "E shield for Lightning Saix. Certain damages from enemy's frontal attacks can be stopped with this. Can be used for offensive purposes also."
+    }
+  ],
+  "b05": [
+    {
+      "wp_id": "wp109",
+      "description": "Iron Kong's armament with high accuracy. Multi-rocket launcher."
+    },
+    {
+      "wp_id": "wp154",
+      "description": "Iron Kong's ultimate combat weapon."
+    },
+    {
+      "wp_id": "wp299",
+      "description": "Iron Kong's armament. Long-range missiles with high accuracy."
+    },
+    {
+      "wp_id": "wp300",
+      "description": "Iron Kong's armament. A beam cannon for mid-range combats."
+    },
+    {
+      "wp_id": "wp352",
+      "description": "Iron Kong's booster. It boosts the maximum speed for a certain period of time."
+    },
+    {
+      "wp_id": "wp384",
+      "description": "E shield for Iron Kong. Certain damages from enemy's frontal attacks can be stopped with this. Can be used for offensive purposes also."
+    }
+  ],
+  "b08": [
+    {
+      "wp_id": "wp116",
+      "description": "Geno Saurer's mid-range armament. Mid-range beam guns."
+    },
+    {
+      "wp_id": "wp117",
+      "description": "Geno Saurer's armament. Mid-range beam guns."
+    },
+    {
+      "wp_id": "wp152",
+      "description": "Geno Saurer's ultimate combat weapon."
+    },
+    {
+      "wp_id": "wp336",
+      "description": "Geno Saurer's booster. It boosts the maximum speed for a certain period of time."
+    },
+    {
+      "wp_id": "wp383",
+      "description": "E shield for Geno Saurer. Certain damages from enemy's frontal attacks can be stopped with this. Can be used for offensive purposes also."
+    }
+  ],
+  "a27": [
+    {
+      "wp_id": "wp120",
+      "description": "Griffon's armament with high accuracy. Long-range missiles."
+    },
+    {
+      "wp_id": "wp121",
+      "description": "Griffon's armament with high accuracy. Long-range missiles."
+    },
+    {
+      "wp_id": "wp127",
+      "description": "Griffon's armament with high accuracy. Long-range missiles."
+    },
+    {
+      "wp_id": "wp134",
+      "description": "Griffon's booster. It boosts the maximum speed for a certain period of time."
+    },
+    {
+      "wp_id": "wp149",
+      "description": "E shield for Griffon. Certain damages from enemy's frontal attacks can be stopped with this. Can be used for offensive purposes also."
+    },
+    {
+      "wp_id": "wp222",
+      "description": "Griffon's ultimate combat weapon."
+    }
+  ],
+  "b19": [
+    {
+      "wp_id": "wp126",
+      "description": "Diablo Tiger's armament. Mid-range Cannons."
+    },
+    {
+      "wp_id": "wp200",
+      "description": "Diablo Tiger \ufffd\ufffd's ultimate combat weapon."
+    },
+    {
+      "wp_id": "wp201",
+      "description": "Diablo Tiger \ufffd\ufffd's ultimate combat weapon."
+    },
+    {
+      "wp_id": "wp390",
+      "description": "E shield for Diablo Tiger. Certain damages from enemy's frontal attacks can be stopped with this. Can be used for offensive purposes also."
+    }
+  ],
+  "b21": [
+    {
+      "wp_id": "wp130",
+      "description": "Rev Raptor's weapon for pile banker combats. It has a short range but very effective."
+    },
+    {
+      "wp_id": "wp131",
+      "description": "Rev Raptor's weapon for pile banker combats. It has a short range but very effective."
+    },
+    {
+      "wp_id": "wp133",
+      "description": "Rev Raptor's weapon for pile banker combats. It has a short range but very effective. Shreds enemy robots as it moves."
+    },
+    {
+      "wp_id": "wp150",
+      "description": "Rev Raptor's ultimate combat weapon."
+    },
+    {
+      "wp_id": "wp335",
+      "description": "Rev Raptor's booster. It boosts the maximum speed for a certain period of time."
+    },
+    {
+      "wp_id": "wp382",
+      "description": "E shield for Rev Raptor. Certain damages from enemy's frontal attacks can be stopped with this. Can be used for offensive purposes also."
+    }
+  ],
+  "b14": [
+    {
+      "wp_id": "wp136",
+      "description": "Chimera Dragon's booster. It boosts the maximum speed for a certain period of time."
+    },
+    {
+      "wp_id": "wp151",
+      "description": "E shield for Chimera Dragon. Certain damages from enemy's frontal attacks can be stopped with this. Can be used for offensive purposes also."
+    },
+    {
+      "wp_id": "wp216",
+      "description": "Chimera Dragon's ultimate combat weapon."
+    }
+  ],
+  "a26": [
+    {
+      "wp_id": "wp137",
+      "description": "Double Arm Lizard's booster. It boosts the maximum speed for a certain period of time."
+    },
+    {
+      "wp_id": "wp153",
+      "description": "E shield for Double Arm Lizard. Certain damages from enemy's frontal attacks can be stopped with this. Can be used for offensive purposes also."
+    },
+    {
+      "wp_id": "wp217",
+      "description": "Double Arm Lizard's ultimate combat weapon."
+    }
+  ],
+  "b09": [
+    {
+      "wp_id": "wp140",
+      "description": "Geno Breaker's ultimate combat weapon."
+    },
+    {
+      "wp_id": "wp362",
+      "description": "Geno Breaker's booster. It boosts the maximum speed for a certain period of time."
+    },
+    {
+      "wp_id": "wp379",
+      "description": "E shield for Geno Breaker. Certain damages from enemy's frontal attacks can be stopped with this. Can be used for offensive purposes also."
+    }
+  ],
+  "b17": [
+    {
+      "wp_id": "wp141",
+      "description": "Death Saurer's armament. Very effective and causes huge damages to enemies."
+    },
+    {
+      "wp_id": "wp245",
+      "description": "Death Saurer's armament. A gun for mid-range combats."
+    },
+    {
+      "wp_id": "wp246",
+      "description": "Death Saurer's armament. A gun for mid-range combats."
+    },
+    {
+      "wp_id": "wp247",
+      "description": "Death Saurer's armament. A gun for mid-range combats."
+    },
+    {
+      "wp_id": "wp249",
+      "description": "Death Saurer's armament. A multi-missile launcher with high accuracy."
+    }
+  ],
+  "b15": [
+    {
+      "wp_id": "wp142",
+      "description": "Lord Gale's booster. It boosts the maximum speed for a certain period of time."
+    },
+    {
+      "wp_id": "wp156",
+      "description": "E shield for Lord Gale. Certain damages from enemy's frontal attacks can be stopped with this. Can be used for offensive purposes also."
+    },
+    {
+      "wp_id": "wp170",
+      "description": "Lord Gale's armament. A mid-range beam cannon."
+    },
+    {
+      "wp_id": "wp218",
+      "description": "Lord Gale's ultimate combat weapon."
+    },
+    {
+      "wp_id": "wp354",
+      "description": "Command Wolf and Lord Gale's booster. It boosts the maximum speed for a certain period of time."
+    }
+  ],
+  "a25": [
+    {
+      "wp_id": "wp143",
+      "description": "Matrix Dragon's booster. It boosts the maximum speed for a certain period of time."
+    },
+    {
+      "wp_id": "wp160",
+      "description": "E shield for Matrix Dragon. Certain damages from enemy's frontal attacks can be stopped with this. Can be used for offensive purposes also."
+    },
+    {
+      "wp_id": "wp219",
+      "description": "Matrix Dragon's ultimate combat weapon."
+    }
+  ],
+  "b02": [
+    {
+      "wp_id": "wp157",
+      "description": "Saber Tiger's ultimate combat weapon."
+    },
+    {
+      "wp_id": "wp339",
+      "description": "A booster for Saber Tiger and Proto Saber. It boosts the maximum speed for a certain period of time."
+    },
+    {
+      "wp_id": "wp386",
+      "description": "E shield for Saber Tiger. Certain damages from enemy's frontal attacks can be stopped with this. Can be used for offensive purposes also."
+    }
+  ],
+  "b22": [
+    {
+      "wp_id": "wp163",
+      "description": "Seismosaurus' armament. A mid-range cannon."
+    },
+    {
+      "wp_id": "wp164",
+      "description": "Seismosaurus' armament. A mid-range beam cannon."
+    },
+    {
+      "wp_id": "wp165",
+      "description": "Seismosaurus' armament. A mid-range beam cannon."
+    },
+    {
+      "wp_id": "wp166",
+      "description": "Seismosaurus' armament. A mid-range beam gun. It covers wide combat areas and can shoot multiple robots."
+    },
+    {
+      "wp_id": "wp168",
+      "description": "Seismosaurus' armament. A charged particle gun that can erase everything it shoots. It's an excellent weapon."
+    }
+  ],
+  "b12": [
+    {
+      "wp_id": "wp169",
+      "description": "BF Strum's ultimate combat weapon."
+    },
+    {
+      "wp_id": "wp341",
+      "description": "BF Strum's booster. It boosts the maximum speed for a certain period of time."
+    },
+    {
+      "wp_id": "wp366",
+      "description": "E shield for BF Strum. Certain damages from enemy's frontal attacks can be stopped with this. Can be used for offensive purposes also."
+    }
+  ],
+  "a14": [
+    {
+      "wp_id": "wp172",
+      "description": "Snipe Master's combat armament, consisting of a powerful set of nails. It has a short range but the effect is excellent."
+    },
+    {
+      "wp_id": "wp174",
+      "description": "Snipe Master's ultimate combat weapon."
+    },
+    {
+      "wp_id": "wp176",
+      "description": "Snipe Master's armament. A strike-tonfa weapon for close-range combat. It has a short range, but the effect is enormous."
+    },
+    {
+      "wp_id": "wp342",
+      "description": "Snipe Master's booster. It boosts the maximum speed for a certain period of time."
+    },
+    {
+      "wp_id": "wp343",
+      "description": "Snipe Master's booster. It boosts the maximum speed for a certain period of time."
+    },
+    {
+      "wp_id": "wp388",
+      "description": "E shield for Snipe Master. Certain damages from enemy's frontal attacks can be stopped with this. Can be used for offensive purposes also."
+    }
+  ],
+  "b18": [
+    {
+      "wp_id": "wp175",
+      "description": "Death Stinger's armament. Very effective and causes huge damages to enemies."
+    },
+    {
+      "wp_id": "wp254",
+      "description": "Death Stinger's armament. A cannon for mid-range combats."
+    },
+    {
+      "wp_id": "wp256",
+      "description": "Death Stinger's armament. A Vulcan weapon with the capability of a burst of rounds."
+    },
+    {
+      "wp_id": "wp258",
+      "description": "Death Stinger's armament. A Vulcan weapon with the capability of a burst of rounds."
+    },
+    {
+      "wp_id": "wp263",
+      "description": "Death Stinger's armament. A Vulcan weapon with the capability of a burst of rounds."
+    }
+  ],
+  "a30": [
+    {
+      "wp_id": "wp177",
+      "description": "Energy Liger's armament. A mid-range beam cannon."
+    },
+    {
+      "wp_id": "wp178",
+      "description": "Energy Liger's armament. A Vulcan weapon with the capability of a burst of rounds."
+    },
+    {
+      "wp_id": "wp224",
+      "description": "Energy Liger's ultimate combat weapon."
+    },
+    {
+      "wp_id": "wp252",
+      "description": "Energy Liger's booster. It boosts the maximum speed for a certain period of time."
+    },
+    {
+      "wp_id": "wp253",
+      "description": "E shield for Energy Liger. Certain damages from enemy's frontal attacks can be stopped with this. Can be used for offensive purposes also."
+    }
+  ],
+  "a16": [
+    {
+      "wp_id": "wp180",
+      "description": "Gojulas Giga's booster. It boosts the maximum speed for a certain period of time."
+    },
+    {
+      "wp_id": "wp181",
+      "description": "E shield for Gojulas Giga. Certain damages from enemy's frontal attacks can be stopped with this. Can be used for offensive purposes also."
+    },
+    {
+      "wp_id": "wp182",
+      "description": "Gojulas Giga's armament. A powerful tail for close-range combats. It has a short range but effect is enormous."
+    }
+  ],
+  "a32": [
+    {
+      "wp_id": "wp180",
+      "description": "Gojulas Giga's booster. It boosts the maximum speed for a certain period of time."
+    },
+    {
+      "wp_id": "wp181",
+      "description": "E shield for Gojulas Giga. Certain damages from enemy's frontal attacks can be stopped with this. Can be used for offensive purposes also."
+    },
+    {
+      "wp_id": "wp182",
+      "description": "Gojulas Giga's armament. A powerful tail for close-range combats. It has a short range but effect is enormous."
+    }
+  ],
+  "a29": [
+    {
+      "wp_id": "wp183",
+      "description": "Liger Phoenix's armament. A Vulcan weapon with the capability of a burst of rounds."
+    },
+    {
+      "wp_id": "wp189",
+      "description": "Liger Phoenix's armament. A mid-range cannon."
+    },
+    {
+      "wp_id": "wp225",
+      "description": "Liger Phoenix's ultimate combat weapon."
+    },
+    {
+      "wp_id": "wp250",
+      "description": "Liger Phoenix's booster. It boosts the maximum speed for a certain period of time."
+    },
+    {
+      "wp_id": "wp251",
+      "description": "E shield for Liger Phoenix. Certain damages from enemy's frontal attacks can be stopped with this. Can be used for offensive purposes also."
+    }
+  ],
+  "a20": [
+    {
+      "wp_id": "wp187",
+      "description": "Cyclops II's armament. A mid-range cannon."
+    },
+    {
+      "wp_id": "wp202",
+      "description": "Cyclops II's ultimate combat weapon."
+    },
+    {
+      "wp_id": "wp206",
+      "description": "Cyclops I's ultimate combat weapon."
+    },
+    {
+      "wp_id": "wp346",
+      "description": "Cyclops I's booster. It boosts the maximum speed for a certain period of time."
+    },
+    {
+      "wp_id": "wp347",
+      "description": "Cyclops II's booster. It boosts the maximum speed for a certain period of time."
+    },
+    {
+      "wp_id": "wp391",
+      "description": "E shield for Cyclops II. Certain damages from enemy's frontal attacks can be stopped with this. Can be used for offensive purposes also."
+    },
+    {
+      "wp_id": "wp392",
+      "description": "E shield for Cyclops I. Certain damages from enemy's frontal attacks can be stopped with this. Can be used for offensive purposes also."
+    }
+  ],
+  "a21": [
+    {
+      "wp_id": "wp187",
+      "description": "Cyclops II's armament. A mid-range cannon."
+    },
+    {
+      "wp_id": "wp202",
+      "description": "Cyclops II's ultimate combat weapon."
+    },
+    {
+      "wp_id": "wp347",
+      "description": "Cyclops II's booster. It boosts the maximum speed for a certain period of time."
+    },
+    {
+      "wp_id": "wp391",
+      "description": "E shield for Cyclops II. Certain damages from enemy's frontal attacks can be stopped with this. Can be used for offensive purposes also."
+    }
+  ],
+  "b03": [
+    {
+      "wp_id": "wp340",
+      "description": "Red Horn's booster. It boosts the maximum speed for a certain period of time."
+    },
+    {
+      "wp_id": "wp387",
+      "description": "E shield for Red Horn. Certain damages from enemy's frontal attacks can be stopped with this. Can be used for offensive purposes also."
+    }
+  ]
+}

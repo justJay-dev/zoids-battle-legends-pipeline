@@ -1,0 +1,510 @@
+{
+  "rest_pose_count": 28,
+  "model_joint_count": 142,
+  "links": [
+    {
+      "rest_joint": 32,
+      "link_type": "child",
+      "model_offset": 171272,
+      "model_dfs_idx": 138,
+      "model_name": ""
+    },
+    {
+      "rest_joint": 51,
+      "link_type": "sibling",
+      "model_offset": 158852,
+      "model_dfs_idx": 3,
+      "model_name": ""
+    },
+    {
+      "rest_joint": 56,
+      "link_type": "child",
+      "model_offset": 158852,
+      "model_dfs_idx": 3,
+      "model_name": ""
+    },
+    {
+      "rest_joint": 57,
+      "link_type": "sibling",
+      "model_offset": 158788,
+      "model_dfs_idx": 2,
+      "model_name": ""
+    },
+    {
+      "rest_joint": 60,
+      "link_type": "child",
+      "model_offset": 168604,
+      "model_dfs_idx": 113,
+      "model_name": ""
+    },
+    {
+      "rest_joint": 61,
+      "link_type": "sibling",
+      "model_offset": 169348,
+      "model_dfs_idx": 119,
+      "model_name": ""
+    },
+    {
+      "rest_joint": 62,
+      "link_type": "sibling",
+      "model_offset": 166348,
+      "model_dfs_idx": 89,
+      "model_name": "b12_L_LEG2_joint"
+    },
+    {
+      "rest_joint": 64,
+      "link_type": "child",
+      "model_offset": 171272,
+      "model_dfs_idx": 138,
+      "model_name": ""
+    },
+    {
+      "rest_joint": 66,
+      "link_type": "sibling",
+      "model_offset": 171396,
+      "model_dfs_idx": 139,
+      "model_name": ""
+    },
+    {
+      "rest_joint": 67,
+      "link_type": "child",
+      "model_offset": 163620,
+      "model_dfs_idx": 61,
+      "model_name": ""
+    },
+    {
+      "rest_joint": 68,
+      "link_type": "sibling",
+      "model_offset": 164340,
+      "model_dfs_idx": 67,
+      "model_name": ""
+    },
+    {
+      "rest_joint": 76,
+      "link_type": "child",
+      "model_offset": 162752,
+      "model_dfs_idx": 51,
+      "model_name": ""
+    },
+    {
+      "rest_joint": 95,
+      "link_type": "sibling",
+      "model_offset": 170788,
+      "model_dfs_idx": 134,
+      "model_name": ""
+    },
+    {
+      "rest_joint": 96,
+      "link_type": "sibling",
+      "model_offset": 170540,
+      "model_dfs_idx": 132,
+      "model_name": ""
+    },
+    {
+      "rest_joint": 107,
+      "link_type": "sibling",
+      "model_offset": 166724,
+      "model_dfs_idx": 93,
+      "model_name": ""
+    },
+    {
+      "rest_joint": 109,
+      "link_type": "child",
+      "model_offset": 165084,
+      "model_dfs_idx": 76,
+      "model_name": "b12_HEAD1_joint"
+    },
+    {
+      "rest_joint": 109,
+      "link_type": "sibling",
+      "model_offset": 168604,
+      "model_dfs_idx": 113,
+      "model_name": ""
+    },
+    {
+      "rest_joint": 112,
+      "link_type": "child",
+      "model_offset": 165208,
+      "model_dfs_idx": 77,
+      "model_name": ""
+    },
+    {
+      "rest_joint": 118,
+      "link_type": "child",
+      "model_offset": 158724,
+      "model_dfs_idx": 1,
+      "model_name": ""
+    },
+    {
+      "rest_joint": 118,
+      "link_type": "sibling",
+      "model_offset": 158788,
+      "model_dfs_idx": 2,
+      "model_name": ""
+    },
+    {
+      "rest_joint": 119,
+      "link_type": "child",
+      "model_offset": 159760,
+      "model_dfs_idx": 17,
+      "model_name": "b12_f_base_joint"
+    },
+    {
+      "rest_joint": 121,
+      "link_type": "child",
+      "model_offset": 160156,
+      "model_dfs_idx": 23,
+      "model_name": "b12_senter_joint"
+    },
+    {
+      "rest_joint": 121,
+      "link_type": "sibling",
+      "model_offset": 159440,
+      "model_dfs_idx": 12,
+      "model_name": ""
+    },
+    {
+      "rest_joint": 122,
+      "link_type": "child",
+      "model_offset": 159836,
+      "model_dfs_idx": 18,
+      "model_name": ""
+    },
+    {
+      "rest_joint": 123,
+      "link_type": "sibling",
+      "model_offset": 159964,
+      "model_dfs_idx": 20,
+      "model_name": "b12_jacket_joint"
+    },
+    {
+      "rest_joint": 124,
+      "link_type": "sibling",
+      "model_offset": 160028,
+      "model_dfs_idx": 21,
+      "model_name": "b12_collar_joint"
+    },
+    {
+      "rest_joint": 125,
+      "link_type": "child",
+      "model_offset": 159900,
+      "model_dfs_idx": 19,
+      "model_name": "b12_buckle_joint"
+    },
+    {
+      "rest_joint": 136,
+      "link_type": "child",
+      "model_offset": 161416,
+      "model_dfs_idx": 38,
+      "model_name": ""
+    }
+  ],
+  "rest_joint_to_model": {
+    "32": [
+      {
+        "rest_joint": 32,
+        "link_type": "child",
+        "model_offset": 171272,
+        "model_dfs_idx": 138,
+        "model_name": ""
+      }
+    ],
+    "51": [
+      {
+        "rest_joint": 51,
+        "link_type": "sibling",
+        "model_offset": 158852,
+        "model_dfs_idx": 3,
+        "model_name": ""
+      }
+    ],
+    "56": [
+      {
+        "rest_joint": 56,
+        "link_type": "child",
+        "model_offset": 158852,
+        "model_dfs_idx": 3,
+        "model_name": ""
+      }
+    ],
+    "57": [
+      {
+        "rest_joint": 57,
+        "link_type": "sibling",
+        "model_offset": 158788,
+        "model_dfs_idx": 2,
+        "model_name": ""
+      }
+    ],
+    "60": [
+      {
+        "rest_joint": 60,
+        "link_type": "child",
+        "model_offset": 168604,
+        "model_dfs_idx": 113,
+        "model_name": ""
+      }
+    ],
+    "61": [
+      {
+        "rest_joint": 61,
+        "link_type": "sibling",
+        "model_offset": 169348,
+        "model_dfs_idx": 119,
+        "model_name": ""
+      }
+    ],
+    "62": [
+      {
+        "rest_joint": 62,
+        "link_type": "sibling",
+        "model_offset": 166348,
+        "model_dfs_idx": 89,
+        "model_name": "b12_L_LEG2_joint"
+      }
+    ],
+    "64": [
+      {
+        "rest_joint": 64,
+        "link_type": "child",
+        "model_offset": 171272,
+        "model_dfs_idx": 138,
+        "model_name": ""
+      }
+    ],
+    "66": [
+      {
+        "rest_joint": 66,
+        "link_type": "sibling",
+        "model_offset": 171396,
+        "model_dfs_idx": 139,
+        "model_name": ""
+      }
+    ],
+    "67": [
+      {
+        "rest_joint": 67,
+        "link_type": "child",
+        "model_offset": 163620,
+        "model_dfs_idx": 61,
+        "model_name": ""
+      }
+    ],
+    "68": [
+      {
+        "rest_joint": 68,
+        "link_type": "sibling",
+        "model_offset": 164340,
+        "model_dfs_idx": 67,
+        "model_name": ""
+      }
+    ],
+    "76": [
+      {
+        "rest_joint": 76,
+        "link_type": "child",
+        "model_offset": 162752,
+        "model_dfs_idx": 51,
+        "model_name": ""
+      }
+    ],
+    "95": [
+      {
+        "rest_joint": 95,
+        "link_type": "sibling",
+        "model_offset": 170788,
+        "model_dfs_idx": 134,
+        "model_name": ""
+      }
+    ],
+    "96": [
+      {
+        "rest_joint": 96,
+        "link_type": "sibling",
+        "model_offset": 170540,
+        "model_dfs_idx": 132,
+        "model_name": ""
+      }
+    ],
+    "107": [
+      {
+        "rest_joint": 107,
+        "link_type": "sibling",
+        "model_offset": 166724,
+        "model_dfs_idx": 93,
+        "model_name": ""
+      }
+    ],
+    "109": [
+      {
+        "rest_joint": 109,
+        "link_type": "child",
+        "model_offset": 165084,
+        "model_dfs_idx": 76,
+        "model_name": "b12_HEAD1_joint"
+      },
+      {
+        "rest_joint": 109,
+        "link_type": "sibling",
+        "model_offset": 168604,
+        "model_dfs_idx": 113,
+        "model_name": ""
+      }
+    ],
+    "112": [
+      {
+        "rest_joint": 112,
+        "link_type": "child",
+        "model_offset": 165208,
+        "model_dfs_idx": 77,
+        "model_name": ""
+      }
+    ],
+    "118": [
+      {
+        "rest_joint": 118,
+        "link_type": "child",
+        "model_offset": 158724,
+        "model_dfs_idx": 1,
+        "model_name": ""
+      },
+      {
+        "rest_joint": 118,
+        "link_type": "sibling",
+        "model_offset": 158788,
+        "model_dfs_idx": 2,
+        "model_name": ""
+      }
+    ],
+    "119": [
+      {
+        "rest_joint": 119,
+        "link_type": "child",
+        "model_offset": 159760,
+        "model_dfs_idx": 17,
+        "model_name": "b12_f_base_joint"
+      }
+    ],
+    "121": [
+      {
+        "rest_joint": 121,
+        "link_type": "child",
+        "model_offset": 160156,
+        "model_dfs_idx": 23,
+        "model_name": "b12_senter_joint"
+      },
+      {
+        "rest_joint": 121,
+        "link_type": "sibling",
+        "model_offset": 159440,
+        "model_dfs_idx": 12,
+        "model_name": ""
+      }
+    ],
+    "122": [
+      {
+        "rest_joint": 122,
+        "link_type": "child",
+        "model_offset": 159836,
+        "model_dfs_idx": 18,
+        "model_name": ""
+      }
+    ],
+    "123": [
+      {
+        "rest_joint": 123,
+        "link_type": "sibling",
+        "model_offset": 159964,
+        "model_dfs_idx": 20,
+        "model_name": "b12_jacket_joint"
+      }
+    ],
+    "124": [
+      {
+        "rest_joint": 124,
+        "link_type": "sibling",
+        "model_offset": 160028,
+        "model_dfs_idx": 21,
+        "model_name": "b12_collar_joint"
+      }
+    ],
+    "125": [
+      {
+        "rest_joint": 125,
+        "link_type": "child",
+        "model_offset": 159900,
+        "model_dfs_idx": 19,
+        "model_name": "b12_buckle_joint"
+      }
+    ],
+    "136": [
+      {
+        "rest_joint": 136,
+        "link_type": "child",
+        "model_offset": 161416,
+        "model_dfs_idx": 38,
+        "model_name": ""
+      }
+    ]
+  },
+  "model_names": {
+    "5": "b12_att_E_joint",
+    "6": "b12_b_base_joint",
+    "7": "b12_L_shoe_joint",
+    "8": "b12_L_spik_joint",
+    "9": "b12_R_shoe_joint",
+    "10": "b12_R_spik_joint",
+    "11": "b12_berut1_joint",
+    "13": "b12_fly_joint",
+    "14": "b12_to_fly_joint",
+    "15": "b12_to_to_fly_joint",
+    "16": "b12_to_to_to_fly_joint",
+    "17": "b12_f_base_joint",
+    "19": "b12_buckle_joint",
+    "20": "b12_jacket_joint",
+    "21": "b12_collar_joint",
+    "22": "b12_cap_joint",
+    "23": "b12_senter_joint",
+    "24": "b12_up_WP_joint",
+    "27": "b12_NAVEL_joint",
+    "28": "b12_c_BODY_joint",
+    "30": "b12_BUST1_joint",
+    "31": "b12_a_1_joint",
+    "43": "b12_L_ARM1_joint",
+    "44": "b12_L_ARM2_joint",
+    "49": "b12_mtp_2_joint",
+    "58": "b12_R_ARM1_joint",
+    "59": "b12_R_ARM2_joint",
+    "65": "b12_mtp_1_joint",
+    "69": "b12_c_bust_joint",
+    "70": "b12_c_l_arm1_joint",
+    "71": "b12_c_r_arm1_joint",
+    "73": "b12_NECK1_joint",
+    "74": "b12_c_neck_joint",
+    "76": "b12_HEAD1_joint",
+    "78": "b12_c_head_joint",
+    "80": "b12_mtp_9_joint",
+    "83": "b12_mtp_3_joint",
+    "85": "b12_HIP1_joint",
+    "86": "b12_c_hip_joint",
+    "88": "b12_L_LEG1_joint",
+    "89": "b12_L_LEG2_joint",
+    "90": "b12_c_l_leg2_joint",
+    "92": "b12_L_FOOT_joint",
+    "94": "b12_c_l_foot_joint",
+    "98": "b12_c_l_leg1_joint",
+    "100": "b12_R_LEG1_joint",
+    "101": "b12_R_LEG2_joint",
+    "102": "b12_c_r_leg2_joint",
+    "104": "b12_R_FOOT_joint",
+    "106": "b12_c_r_foot_joint",
+    "110": "b12_c_r_leg1_joint",
+    "112": "b12_TEAL1_joint",
+    "122": "b12_c_tail2_joint",
+    "123": "b12_c_tail1_joint",
+    "124": "b12_c_tail_joint",
+    "127": "b12_mtp_0_joint",
+    "128": "b12_mtp_4_joint",
+    "129": "b12_mtp_5_joint"
+  }
+}

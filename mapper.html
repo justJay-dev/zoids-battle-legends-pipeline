@@ -1,0 +1,25 @@
+<!doctype html>
+<html>
+    <head>
+        <title>Joint Mapper</title>
+        <script type="importmap">
+            {
+                "imports": {
+                    "three": "./node_modules/three/build/three.module.js",
+                    "three/addons/": "./node_modules/three/examples/jsm/",
+                    "@/": "./src/"
+                }
+            }
+        </script>
+        <script type="module" src="./src/joint-mapper.ts"></script>
+        <style>
+            * { box-sizing: border-box; margin: 0; padding: 0; }
+            html, body { height: 100%; background: #111; }
+            body { display: flex; flex-direction: column; }
+            #container { flex: 1; min-height: 0; }
+        </style>
+    </head>
+    <body>
+        <div id="container"></div>
+    </body>
+</html>
